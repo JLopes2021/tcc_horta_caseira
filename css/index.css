@@ -1,0 +1,55 @@
+  /*Menu Lateral - Início*/
+
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-image: url("https://static.wixstatic.com/media/c74b75_e37aed33fd024a9183aa317cdaeea645~mv2_d_6000_4000_s_4_2.jpg/v1/fill/w_1000,h_667,al_c,q_90,usm_0.66_1.00_0.01/c74b75_e37aed33fd024a9183aa317cdaeea645~mv2_d_6000_4000_s_4_2.jpg");
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    opacity: 0,6;
+    }
+    .itensMenu{
+        font-weight: bold;
+        text-shadow: 2px 2px rgb(255, 255, 255);
+        color: black;
+    }
+    .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #724c0a;
+    display: block;
+    transition: 1.5s;
+    }
+    
+    .sidenav a:hover {
+    color: #b98f5f;
+    }
+    
+    .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    }
+    
+    #main {
+    transition: margin-left 1.5s;
+    padding: 16px;
+    color: #b98f5f;
+    text-transform: initial;
+    color: #b98f5f;
+    text-shadow: 1px 1px 2px black, 0 0 25px #b98f5f, 0 0 5px black;
+    }
+    
+    @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+    }
+    /*Menu Lateral - Final*/
