@@ -1,0 +1,89 @@
+body{
+	background-color: 
+	#ffffff;
+}
+header {
+	background: #fff7f1;
+	padding: 20px 0;
+}
+.drop{
+	float: left; 
+font-size: 3.0em;
+font-style: italic;
+color: #f00;
+}
+ul{
+	color: #03410b;
+}
+h2{
+  color: #000000;
+}
+h2 :hover{
+  color: gold;
+}
+p4{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.paragrafos{
+font-family: Arial, Helvetica;
+text-align: justify;
+}
+.p_informacoes{
+    text-align: left;
+    text-align: justify;
+    position:absolute;
+    
+    width: 60%;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #077e1b;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #8ff553;
+	text-decoration: none;
+	border-radius: 30px;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.informacoes_div{
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.p_foto_infos{
+font-variant: inherit;
+font-family: cursive;
+text-align: justify;
+width: 60%;
+margin-left: 12%;
+}
+footer{
+  background-color: #fff7f1;
+position:absolute;
+	margin-bottom: 0%;
+	width:100%;}
