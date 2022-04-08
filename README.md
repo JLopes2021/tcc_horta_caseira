@@ -13,6 +13,9 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
  O que precisa ser feito:
 - Adicionar os textos de conteúdo do projeto
 
+# COMEÇAR A HORTA
+- Dicas adicionadas já 
+
 # ATUALIZAÇÕES
 - A primeira página foi iniciada partindo do fluxograma
 - Esqueletos do HTML começaram a ser criado na pagina ccs.dicas
