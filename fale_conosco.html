@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Página Inicial</title>
+        <title>Fale Conosco</title>
+        <link rel="shortcut icon" type="imagex/png" href="fotos/Logo Tcc.png">
         <!-- Bootstrap CSS CDN -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
         <!-- Our Custom CSS -->
@@ -94,21 +95,23 @@
                 </div>
             </nav>
             <!--Nosso formulário-->
-    <form name="meu_form">
+            <center>
+                <form name="meu_form" class="meu_form">
 
-        <h1>Entre em contato</h1>
-
-        <br><label for="nome">Nome</label><br>
-        <input type="text" id="nomeid" placeholder="Tiago Vale" required="required" name="nome" />
-        <br>     
-        <br><label for="email">Email</label><br>
-        <input type="email" id="emailid" placeholder="fulano@mail.com" name="email" />
-        <br>
-        <br><label for="enviar">Enviar</label><br>
-        <textarea placeholder="Deixe sua opnião"></textarea> <br>
-        <input type="submit" class="enviar" name="enviar" onclick="Enviar();" value="Enviar" />
-      
-      </form>
+                    <h1>Entre em contato</h1>
+            
+                    <br><label for="nome">Nome</label><br>
+                    <input type="text" id="nomeid" placeholder="Seu nome aqui" required="required" name="nome" />
+                    <br>     
+                    <br><label for="email">Email</label><br>
+                    <input type="email" id="emailid" placeholder="seunome@mail.com" required="required" name="email" />
+                    <br>
+                    <br><label for="enviar">Enviar</label><br>
+                    <textarea type="text" id="msgid" placeholder="Deixe sua mensagem" required="required" maxlength="255" rows="5" name="msg"></textarea> <br>
+                    <button id="btnEnviar" class="btn btn-primary" onclick="envia()">Enviar valores</button>
+                  </form>
+            </center>
+    
     
 
     </div>
