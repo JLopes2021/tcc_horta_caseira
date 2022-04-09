@@ -25,4 +25,4 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 - Os menus foram revitalizados com Bootstrap Aplicado
 - A página index.html não existe mais
 - A pagina de "começar uma horta" está estrutura, faltam complemento de informações
-
+- JS básico adicionado e ligado com o forms da pagina fale conosco
