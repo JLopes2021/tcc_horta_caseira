@@ -8,6 +8,10 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 - Reunir as dicas que precisam estar no projeto
 - Falta colocar as dicas de como começar a horta
 
+# SOBRE NÓS
+- Será uma página com as nossas informações
+- Quatro círculos adicionados para por as nossas fotos e informações
+
 # FALE CONOSCO
  O que precisa ser feito:
 - Adicionar os textos de conteúdo do projeto
@@ -20,4 +24,5 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 - A página de dicas foi convertida apenas na página sobre "Começar uma Horta"
 - Os menus foram revitalizados com Bootstrap Aplicado
 - A página index.html não existe mais
+- A pagina de "começar uma horta" está estrutura, faltam complemento de informações
 
