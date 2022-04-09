@@ -7,22 +7,4 @@ function envia() {
     }
 }
 
-/*
-function salvar1Numero(numero, sit) {
-  const url = 'https://fireapp-d4454-default-rtdb.firebaseio.com/tabela.json'
-  const options = {
-      method: 'POST',
-      mode: 'cors',
-      headers: {
-        'Accept': 'application/json',
-        'content-type': 'application/json;charset=utf-8'
-      },
-      body: `{
-        "numero": "${numero}",
-        "sit": "${sit}"
-       }`,
-  }
 
-
-   
-*/
