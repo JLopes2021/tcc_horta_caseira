@@ -26,3 +26,6 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 - A página index.html não existe mais
 - A pagina de "começar uma horta" está estrutura, faltam complemento de informações
 - JS básico adicionado e ligado com o forms da pagina fale conosco
+
+#DICAS DE PRODUÇÃO
+- Colocar um slide de imagens passando, ao abrir o site. Com descrição sobre a horta, legumes, verduras e frutas que podem ser plantadas em casa facilmente. (instigando o leitor a criar sua horta);
