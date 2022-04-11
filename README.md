@@ -32,7 +32,7 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 ## Ferramentas utilizadas
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html5" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css3" width="40" height="40"/> 
+<a href="https://www.w3schools.com/css/default.asp"> Aprenda CSS <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css3" width="40" height="40"/> </a>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" width="40" height="40"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> 
 
