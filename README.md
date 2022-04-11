@@ -10,11 +10,11 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Dicas de Produção](#dicas-de-produção) 
+- [Dicas de Produção](#dicas-de-producao) 
 
 - [Atualizações](#atualizacoes)
 
-- [Desenvolvedores](#devs)
+- [Desenvolvedores](#desenvolvedores)
 
 
 ## Descrição do projeto 
@@ -58,5 +58,5 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 ###
 
 ## Desenvolvedores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jefferson Lopes</sub>](https://github.com/isabelimao) |  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Isabel Gomes</sub>](https://github.com/JLopes2021) |  [<img src="https://avatars.githubusercontent.com/u/37315196?v=4" width=115><br><sub>Lucas Maciel</sub>](https://github.com/LucasMaciel17) | [<img src="https://avatars.githubusercontent.com/u/21059035?v=4" width=115><br><sub>Taina Ribeiro</sub>](https://github.com/Taina245) |
+| [<img src="https://avatars.githubusercontent.com/u/88064068?v=4" width=115><br><sub>Jefferson Lopes</sub>](https://github.com/isabelimao) |  [<img src="https://avatars.githubusercontent.com/u/81269229?v=4" width=115><br><sub>Isabel Gomes</sub>](https://github.com/JLopes2021) |  [<img src="https://avatars.githubusercontent.com/u/88008791?v=4" width=115><br><sub>Lucas Maciel</sub>](https://github.com/LucasMaciel17) | [<img src="https://avatars.githubusercontent.com/u/88062904?v=4" width=115><br><sub>Taina Ribeiro</sub>](https://github.com/Taina245) |
 | :---: | :---: | :---: | :---: 
