@@ -65,5 +65,10 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 ###
 
 ## Desenvolvedores
-| [<img src="https://avatars.githubusercontent.com/u/88064068?v=4" width=115><br><sub>Isabel Gomes</sub>](https://github.com/isabelimao) | [<img src="https://avatars.githubusercontent.com/u/81269229?v=4" width=115><br><sub>Jefferson Lopes</sub>](https://github.com/JLopes2021) | [<img src="https://avatars.githubusercontent.com/u/101489147?v=4" width=115><br><sub>Letícia Lima</sub>](https://github.com/LETICIALIMA77) | [<img src="https://avatars.githubusercontent.com/u/88008791?v=4" width=115><br><sub>Lucas Maciel</sub>](https://github.com/LucasMaciel17) | [<img src="https://avatars.githubusercontent.com/u/88062904?v=4" width=115><br><sub>Taina Ribeiro</sub>](https://github.com/Taina245) |
+| [<img src="https://avatars.githubusercontent.com/u/88064068?v=4" width=115><br><sub>Isabel Gomes</sub>](https://github.com/isabelimao) 
+| [<img src="https://avatars.githubusercontent.com/u/81269229?v=4" width=115><br><sub>Jefferson Lopes</sub>](https://github.com/JLopes2021) 
+| [<img src="https://avatars.githubusercontent.com/u/101489147?v=4" width=115><br><sub>Letícia Lima</sub>](https://github.com/LETICIALIMA77) 
+| [<img src="https://avatars.githubusercontent.com/u/88008791?v=4" width=115><br><sub>Lucas Maciel</sub>](https://github.com/LucasMaciel17) 
+| [<img src="https://avatars.githubusercontent.com/u/88062904?v=4" width=115><br><sub>Taina Ribeiro</sub>](https://github.com/Taina245) 
+|
 | :---: | :---: | :---: | :---: 
