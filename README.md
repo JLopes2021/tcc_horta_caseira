@@ -72,6 +72,18 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 
 <table>
   <tr>
-    <a href="https://github.com/isabelimao"><td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88064068?v=4" width="100px;" alt="fotoisabelgit"><br><sub><b>Isabel Gomes</b></sub></a><br /></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88064068?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/isabelimao"><sub><b>Isabel Gomes</b></sub></a><br /></td>
+  </tr>
+  <tr>
+      <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81269229?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/JLopes2021"><sub><b>Jefferson Lopes</b></sub></a><br /></td>
+  </tr>
+  <tr>
+      <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101489147?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/LETICIALIMA77"><sub><b>Leticia Lima</b></sub></a><br /></td>
+  </tr>
+  <tr>
+      <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88008791?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/LucasMaciel17"><sub><b>Lucas Maciel</b></sub></a><br /></td>
+  </tr>
+  <tr>
+      <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88062904?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/Taina245"><sub><b>Taina Ribeiro</b></sub></a><br /></td>
   </tr>
 </table>
