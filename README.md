@@ -73,9 +73,7 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 <table>
   <tr>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88064068?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/isabelimao"><sub><b>Isabel Gomes</b></sub></a><br /></td>
-  </tr>
-  <tr>
-      <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81269229?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/JLopes2021"><sub><b>Jefferson Lopes</b></sub></a><br /></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81269229?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/JLopes2021"><sub><b>Jefferson Lopes</b></sub></a><br /></td>
   </tr>
   <tr>
       <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101489147?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/LETICIALIMA77"><sub><b>Leticia Lima</b></sub></a><br /></td>
