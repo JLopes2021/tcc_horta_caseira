@@ -65,6 +65,6 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 ###
 
 ## Desenvolvedores
-| [<img src="https://avatars.githubusercontent.com/u/88064068?v=4" width=115><br><sub>Isabel Gomes</sub>](https://github.com/isabelimao) | | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/88064068?v=4" width=115><br><sub>Isabel Gomes</sub>](https://github.com/isabelimao) | | :---: | | :---: || :---: |
 | [<img src="https://avatars.githubusercontent.com/u/81269229?v=4" width=115><br><sub>Jefferson Lopes</sub>](https://github.com/JLopes2021) |
 
