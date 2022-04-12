@@ -4,6 +4,10 @@ TCC Desenvolvido para conclusão de curso em Desenvolvimento de Sistemas na ETEC
 Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carvalho e Taina Souza RIbeiro
 </p>
 
+<h4 align="center"> 
+	🚧  Minha Horta Minha Vida 🚀 Em construção...  🚧
+</h4>
+
 ### Tópicos 
 
 - [Descrição do projeto](#descrição-do-projeto)
@@ -65,6 +69,9 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 ###
 
 ## Desenvolvedores
-| [<img src="https://avatars.githubusercontent.com/u/88064068?v=4" width=115><br><sub>Isabel Gomes</sub>](https://github.com/isabelimao) |  [<img src="https://avatars.githubusercontent.com/u/81269229?v=4" width=115><br><sub>Jefferson Lopes</sub>](https://github.com/JLopes2021) |
-  [<img src="https://avatars.githubusercontent.com/u/88008791?v=4" width=115><br><sub>Lucas Maciel</sub>](https://github.com/LucasMaciel17) | [<img src="https://avatars.githubusercontent.com/u/88062904?v=4" width=115><br><sub>Taina Ribeiro</sub>](https://github.com/Taina245) |
-| :---: | :---: | :---: | :---: | :---: 
+
+<table>
+  <tr>
+    <a href="https://github.com/isabelimao"><td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88064068?v=4" width="100px;" alt="fotoisabelgit"><br><sub><b>Isabel Gomes</b></sub></a><br /></td>
+  </tr>
+</table>
