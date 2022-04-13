@@ -1,7 +1,7 @@
 
 <p align="center">
 TCC em Desenvolvimento para conclusão de curso em Desenvolvimento de Sistemas na ETEC Albert Einstein
-Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carvalho e Taina Souza RIbeiro
+Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do Carmo , Lucas Maciel de Lima Carvalho e Taina Souza RIbeiro
 </p>
 
 <h4 align="center"> 
