@@ -22,7 +22,7 @@
      <!-- Bootstrap JS -->
      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script> 
     <script src="js/index-menu.js"></script>
-    <script src="js/carrosel.js"></script>
+    <script src="js/modos_cores.js"></script>
 </head>
 
 <body>
@@ -38,38 +38,41 @@
 
             <ul class="list-unstyled components">
                 <li class="active">
-                    <a href="pagina_inicial.html">
-                        <i class="fas fa-home"></i>
-                        Página Inicial
-                    </a>
-                </li>
-                <li>
-                    <a href="comecar_horta.html">
-                        <i class="fas fa-seedling"></i>
-                        Começar Horta
-                    </a>
-                </li>
-                <li>
-                    <a href="fale_conosco.html">
-                        <i class="fas fa-paper-plane"></i>
-                        Fale Conosco
-                    </a>
-                </li>
-                <li>
-                    <a href="sobre_nos.html">
-                        <i class="fas fa-briefcase"></i>
-                        Sobre Nós
-                    </a>
-                    
-                </li>
-               
-            </ul>
+                        <a href="pagina_inicial.html">
+                            <i class="fas fa-home"></i>
+                            Página Inicial
+                        </a>
+                    </li>
+                         <li>
+                           <a href="comecar_horta.html" >
+                                <i class="fas fa-home"></i>
+                                Começar uma Horta
+                            </a>
+                            <ul class="collapse list-unstyled" id="ComecarHortaSubmenu">
+                             
+                            </ul>
+                                </li>
+                                <li>
+                         <a href="fale_conosco.html">
+                            <i class="fas fa-paper-plane"></i>
+                            Fale Conosco
+                        </a>
+                    </li>
+                    <li>
+                        <a href="sobre_nos.html">
+                            <i class="fas fa-briefcase"></i>
+                            Sobre Nós
+                        </a>
+                        
+                    </li>
+                   
+                </ul>
 
         </nav>
 
        
         <!-- Page Content  -->
-        <div id="content">                  
+        <div id="content">  
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
 
@@ -82,8 +85,8 @@
                     </button>
 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="nav navbar-nav ml-auto">
-                            <li class="nav-item active">
+                        <ul  class="nav navbar-nav ml-auto">
+                            <li  class="nav-item active">
                                 <a class="nav-link" href="#">Página Inicial</a>
                             </li>
                             <li class="nav-item">
@@ -103,8 +106,8 @@
 
            <div class="conteudo-inicial">
                 <div class="primeiro-conteudo">
-                    <h3>Sobre as Hortas</h3>
-                    <p class="paragrafo-conteudo">
+                    <h3 id="mudaCor">Sobre as Hortas</h3>
+                    <p id="mudaCor" class="paragrafo-conteudo">
                         <!--Reescrever este paragrafo-->
                         <!--https://www.harpyja.com.br/blog/sustentabilidade/dicas-sustentaveis-como-comecar-uma-horta-caseira-->
                         Algumas pessoas acham que tem uma força ínfima para começar uma horta caseira, que dá muito trabalho, que não têm espaço, 

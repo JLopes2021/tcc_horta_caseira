@@ -11,6 +11,8 @@
     <!-- Our Custom CSS -->
     <link rel="stylesheet" href="css/pagina_inicial.css">
     <link rel="stylesheet" href="css/comecar_horta.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
     <!-- Font Awesome JS -->
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
@@ -25,43 +27,47 @@
 
 <body>
 
-    <div class="wrapper">
+    <a id="top"> <div class="wrapper"></a>
         <!-- Sidebar  -->
         <nav id="sidebar">
-            <div class="sidebar-header">
-                <h3>MINHA HORTA MINHA VIDA</h3>
+            <div  class="sidebar-header">
+                <h3>MINHA HORTA MINHA VIDA</h3>  
                 <strong>MH</strong>
                 <strong>MV</strong>
             </div>
 
             <ul class="list-unstyled components">
                 <li >
-                    <a href="pagina_inicial.html">
-                        <i class="fas fa-home"></i>
-                        Página Inicial
-                    </a>
-                </li>
-                <li class="active">
-                    <a href="comecar_horta.html">
-                        <i class="fas fa-seedling"></i>
-                        Começar Horta
-                    </a>
-                </li>
-                <li>
-                    <a href="fale_conosco.html">
-                        <i class="fas fa-paper-plane"></i>
-                        Fale Conosco
-                    </a>
-                </li>
-                <li>
-                    <a href="sobre_nos.html">
-                        <i class="fas fa-briefcase"></i>
-                        Sobre Nós
-                    </a>
-                    
-                </li>        
-            </ul>
-
+                        <a href="pagina_inicial.html">
+                            <i class="fas fa-home"></i>
+                            Página Inicial
+                        </a>
+                    </li>
+                         <li class="active">
+                           <a href="#ComecarHortaSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                                <i class="fas fa-home"></i>
+                                Começar uma Horta
+                            </a>
+                            <ul class="collapse list-unstyled" id="ComecarHortaSubmenu">
+                                <a class="subMenu" href="#casa">Casa</a>
+                                <a class="subMenu" href="#apto">Apartamento</a>
+                            </ul>
+                                </li>
+                                <li>
+                         <a href="fale_conosco.html">
+                            <i class="fas fa-paper-plane"></i>
+                            Fale Conosco
+                        </a>
+                    </li>
+                    <li>
+                        <a href="sobre_nos.html">
+                            <i class="fas fa-briefcase"></i>
+                            Sobre Nós
+                        </a>
+                        
+                    </li>
+                   
+                </ul>
         </nav>
 
         <!-- Page Content  -->
@@ -233,7 +239,19 @@
                     </il>
                 </ul>
                <!--FALTA COMPLETAR A LISTA DE HORTALIÇAS-->  
-               <!--COLOCAR AQUI AS DICAS DE COMO SE COMEÇAR UMA HORTA-->  
+               <!--COLOCAR AQUI AS DICAS DE COMO SE COMEÇAR UMA HORTA-->
+               <!--CASA OU APTO-->  
+               <div class="horta-local">
+                <h3 id="casa">Casa</h3>
+                <p class="paragrafo-casa-apto">
+                       A <strong class="titHort">CASA</strong>           
+                </p>
+                <h3 id="apto">Apartamento</h3>
+                <p class="paragrafo-casa-apto">
+                       A <strong class="titHort">CASA</strong>           
+                </p>
+                <!--Depois arrumem o design do botao usando bootstrap-->
+                <a href="#top"><button class="" id="#top">Voltar ao Topo</button> </a>
     </div>
 
     
