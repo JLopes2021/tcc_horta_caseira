@@ -20,7 +20,6 @@
          <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
          <!-- Bootstrap JS -->
          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script> 
-         <script src="js/fale_conosco.js"></script>
     </head>
 <body>
     <div class="wrapper">
@@ -96,20 +95,40 @@
             </nav>
             <!--Nosso formulário-->
             <center>
-                <form name="meu_form" class="meu_form">
 
-                    <h1>Entre em contato</h1>
-            
-                    <br><label for="nome">Nome</label><br>
-                    <input type="text" id="nomeid" placeholder="Seu nome aqui" required="required" name="nome" />
-                    <br>     
-                    <br><label for="email">Email</label><br>
-                    <input type="email" id="emailid" placeholder="seunome@mail.com" required="required" name="email" />
-                    <br>
-                    <br><label for="enviar">Enviar</label><br>
-                    <textarea type="text" id="msgid" placeholder="Deixe sua mensagem" required="required" maxlength="255" rows="5" name="msg"></textarea> <br>
-                    <button id="btnEnviar" class="btn btn-primary" onclick="envia()">Enviar valores</button>
-                  </form>
+                  <div class="container">
+                    <h1>Fale conosco</h1>
+                    <form action="mh_mv.php" method="POST">
+                        <div class="col-6">
+                        <label for="name">Coloque o seu Nome</label>
+                        <input type="name" class="form-control" name="nome" id="nome" aria-describedby="name"  required="required"  >
+                        <small id="nome" class="form-text text-muted">Digite o seu nome</small>
+                        <br>
+
+                      </div>
+                        <div class="col-6">
+                        <label for="email">Coloque o seu email</label>
+                        <input type="email" class="form-control" size="30" name="email" id="email" aria-describedby="endereco"  required="required" 
+                        pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+                        <small id="email" class="form-text text-muted">Digite o seu Email</small>
+                        <br>
+
+                      </div>
+                        
+                        <div class="col-6">
+                        <label for="mensagem">Digite a sua Mensagem</label>
+                        <input type="text" class="form-control" name="msg" rows="5" id="comment" aria-describedby="mensagem" required="required" maxlength="255" rows="5" ></input>
+                        <small id="mensagem" class="form-text text-muted">Digite a sua Mensagem </small>
+                        <br>
+                        <br>
+
+                      </div>
+
+                      <button type="submit" class="btn btn-primary" name="botao" value="botao"  >Envie a sua mensagem</button><br>
+                     
+                    </form>
+                    </div>
+
             </center>
     
     
@@ -123,6 +142,19 @@
                 $('#sidebar').toggleClass('active');
             });
         });
+        document.querySelector('input[type=email]').oninvalid = function() {
+
+// remove mensagens de erro antigas
+this.setCustomValidity("");
+
+// reexecuta validação
+if (!this.validity.valid) {
+
+    // se inválido, coloca mensagem de erro
+    this.setCustomValidity("Email inválido");
+}
+};
+  
     </script>
 </body>
 </html>
