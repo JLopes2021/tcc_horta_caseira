@@ -2,7 +2,7 @@
 $nome = $_POST['nome'];
 $sobrenome = $_POST['email'];
 $sexo = $_POST['msg'];
-$strcon = mysqli_connect('localhost','root','','mh_nv') or die('Erro ao conectar ao banco de dados');
+$strcon = mysqli_connect('localhost','root','','minha-horta') or die('Erro ao conectar ao banco de dados');
 $sql = "INSERT INTO usuario VALUES ";
 $sql .= "('$nome', '$email', '$msg')"; 
 mysqli_query($strcon,$sql) or die("Erro ao tentar cadastrar registro");
