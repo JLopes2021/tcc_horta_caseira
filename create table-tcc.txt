@@ -1,0 +1,16 @@
+create table administradores 
+(
+cod_adm int  primary key auto_increment,
+nome_adm varchar(50),
+email varchar(100),
+senha varchar(30),
+)
+
+create table msg_usu 
+(
+cod_usu int primary key auto_increment,
+nome varchar(70),
+email varchar(50),
+mensagem varchar(500),
+respondido varchar(1) default 'N'
+)
