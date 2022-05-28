@@ -16,7 +16,9 @@ include ("conexao.php");
     <link rel="stylesheet" href="css/sobrenos.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <!-- Font Awesome JS -->
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/brands.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
      <!-- jQuery CDN - Slim version (=without AJAX) -->
      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -98,7 +100,9 @@ include ("conexao.php");
                 </div>
             </nav>
                 <!--Nosso contato-->
-                <h1>Nossas Redes</h1>
+                <center>
+                <h1>Desenvolvedores</h1>
+                </center>
                 <br>
 
                 <!--Grid de Histórico-->
@@ -109,20 +113,36 @@ include ("conexao.php");
                         <div class="card border-primary mb-3" style="max-width: 18rem;">
                             <div class="card-header">Isabel Limão</div>
                                  <div class="card-body text-primary">
-                                    <h5 class="card-title">Título de Card Primary</h5>
-                                         <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                                    <h5 class="card-title">O que eu fiz?</h5>
+                                         <p class="card-text">
+                                         Responsável pelo design específico da página e abastecimento
+                                         das informações do site.
+                                         </p>
+                            <div class="card-footer">
+                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                            </div>
+                            <!--"https://www.flaticon.com/br/icones-gratis"-->
                         </div>         
                 </center>
         </div>
-
         <div class="col py-3 px-lg-5 border bg-light">
                 <center>
                     <img src="https://avatars.githubusercontent.com/u/81269229?v=4" width="100px" height="100px" /><br><br>
                     <div class="card border-primary mb-3" style="max-width: 18rem;">
                             <div class="card-header">Jefferson Lopes</div>
                                  <div class="card-body text-primary">
-                                    <h5 class="card-title">Título de Card Primary</h5>
-                                         <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                                    <h5 class="card-title">O que eu fiz?</h5>
+                                         <p class="card-text">
+                                             Responsável pelo front end e pelo back end, e gerenciamento
+                                             geral do projeto.
+                                            </p>
+                                            <br>
+                                         <div class="card-footer">
+                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                            </div>
+                            <!--"https://www.flaticon.com/br/icones-gratis"-->
                         </div>  
                 </center>
         </div>
@@ -133,8 +153,17 @@ include ("conexao.php");
                     <div class="card border-primary mb-3" style="max-width: 18rem;">
                             <div class="card-header">Leticia Lima</div>
                                  <div class="card-body text-primary">
-                                    <h5 class="card-title">Título de Card Primary</h5>
-                                         <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                                    <h5 class="card-title">O que eu fiz?</h5>
+                                    <p class="card-text">
+                                             Responsável pelo esqueleto geral de front end e pelo design geral 
+                                             da página.
+                                            </p>   
+                                            <br>                                      
+                                            <div class="card-footer">
+                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                            </div>
+                            <!--"https://www.flaticon.com/br/icones-gratis"-->
                         </div>  
             </center>
         </div>
@@ -145,8 +174,15 @@ include ("conexao.php");
                     <div class="card border-primary mb-3" style="max-width: 18rem;">
                             <div class="card-header">Lucas Maciel</div>
                                  <div class="card-body text-primary">
-                                    <h5 class="card-title">Título de Card Primary</h5>
-                                         <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                                    <h5 class="card-title">O que eu fiz?</h5>
+                                    <p class="card-text">
+                                             Responsável pela criação do banco de dados MySql e revisão das páginas 
+                                             antes da implementação.
+                                            </p>                                         <div class="card-footer">
+                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                            </div>
+                            <!--"https://www.flaticon.com/br/icones-gratis"-->
                         </div>  
                 </center>  
         </div>
@@ -157,8 +193,15 @@ include ("conexao.php");
                     <div class="card border-primary mb-3" style="max-width: 18rem;">
                             <div class="card-header">Taina Ribeiro</div>
                                  <div class="card-body text-primary">
-                                    <h5 class="card-title">Título de Card Primary</h5>
-                                         <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                                    <h5 class="card-title">O que eu fiz?</h5>
+                                    <p class="card-text">
+                                             Responsável pelo design específico da página e abastecimento
+                                             das informações do site.
+                                            </p>                                         <div class="card-footer">
+                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                            </div>
+                            <!--"https://www.flaticon.com/br/icones-gratis"-->
                         </div>  
                 </center>
         </div>
