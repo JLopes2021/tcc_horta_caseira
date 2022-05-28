@@ -6,14 +6,7 @@ div.box {
 img{
     border-radius: 50%;
 }
-.container-fotos, h1{
-    align-items: center;
-    text-align: center;
-}
-.meu_form{
-    text-align: center;
-    align-items: center;
-}
-span{
-    margin-left: 20px;
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
 }
