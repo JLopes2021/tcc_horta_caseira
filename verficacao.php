@@ -36,6 +36,6 @@ include("conexao.php");
         
       ?>
       <div class="header"></div>
-      <a href="suporte.html"><button class="btn btn-primary">Voltar para o Suporte</button></a> 
+      <a href="suporte.php"><button class="btn btn-primary">Voltar para o Suporte</button></a> 
    </body>
    </html>
