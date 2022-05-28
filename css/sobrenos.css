@@ -1,3 +1,6 @@
+h1{
+    text-align: center;
+}
 div.box {
 	width: 150px;
     
@@ -9,4 +12,8 @@ img{
 .no-gutters {
     margin-right: 0;
     margin-left: 0;
+}
+.card-text{
+    line-height:inherit;
+
 }
