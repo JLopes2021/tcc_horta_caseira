@@ -42,11 +42,21 @@ include("conexao.php");
                 while($row_usuario = mysqli_fetch_assoc($resultado_usuarios)){
                     echo "Nome: " . $row_usuario['nome'] . "<br>";
                     echo "E-mail: " . $row_usuario['email'] . "<br>";
-                    echo "Mensagem: " . $row_usuario['mensagem'] . "<br><hr>";
-              
+                    echo "Mensagem: " . $row_usuario['mensagem'] 
+                    ?>
+                    <label for="mensagem">Digite a sua Mensagem</label>
+                    <input type="text" class="form-control" name="mensagem" rows="5" id="mensagem" aria-describedby="mensagem" required="required" maxlength="255" rows="5" ></input>
+                    <small id="mensagem" class="form-text text-muted">Digite a sua Mensagem </small>
+                    <a href="envia-msg-usu.php"><button class="btn btn-primary">Responder Usuário</button></a>     
+
+                    <hr>
+                    <?php
+                    ;                  
+                    
                 }
         ?> 
-        <a href="suporte.html"><button class="btn btn-primary">Voltar a Home do Sistema</button></a>       
+        <a href="suporte.php"><button class="btn btn-primary">Voltar a Home do Sistema</button></a>     
+        <a href="responder-mensagem.php"><button class="btn btn-warning">Responder Mensagem</button></a>         
         <?php
     } 
     
