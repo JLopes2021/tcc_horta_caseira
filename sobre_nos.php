@@ -18,7 +18,6 @@ include ("conexao.php");
     <!-- Font Awesome JS -->
     <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/brands.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
      <!-- jQuery CDN - Slim version (=without AJAX) -->
      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -119,7 +118,7 @@ include ("conexao.php");
                                          das informações do site.
                                          </p>
                             <div class="card-footer">
-                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href="https://github.com/isabelimao"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
                            <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
                             </div>
                             <!--"https://www.flaticon.com/br/icones-gratis"-->
@@ -139,8 +138,8 @@ include ("conexao.php");
                                             </p>
                                             <br>
                                          <div class="card-footer">
-                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
-                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                           <a href="https://github.com/JLopes2021"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href="https://www.linkedin.com/in/jefferson-lopes-b87605191/"><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
                             </div>
                             <!--"https://www.flaticon.com/br/icones-gratis"-->
                         </div>  
@@ -160,8 +159,8 @@ include ("conexao.php");
                                             </p>   
                                             <br>                                      
                                             <div class="card-footer">
-                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
-                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                           <a href="https://github.com/LETICIALIMA77"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href="https://www.linkedin.com/in/leticia-lima-0b0b6120b/"><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
                             </div>
                             <!--"https://www.flaticon.com/br/icones-gratis"-->
                         </div>  
@@ -179,8 +178,8 @@ include ("conexao.php");
                                              Responsável pela criação do banco de dados MySql e revisão das páginas 
                                              antes da implementação.
                                             </p>                                         <div class="card-footer">
-                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
-                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                           <a href="https://github.com/LucasMaciel17"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href="">https://www.linkedin.com/in/lucas-maciel-228413204/<img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
                             </div>
                             <!--"https://www.flaticon.com/br/icones-gratis"-->
                         </div>  
@@ -198,7 +197,7 @@ include ("conexao.php");
                                              Responsável pelo design específico da página e abastecimento
                                              das informações do site.
                                             </p>                                         <div class="card-footer">
-                           <a href=""><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href="https://github.com/Taina245"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
                            <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
                             </div>
                             <!--"https://www.flaticon.com/br/icones-gratis"-->
