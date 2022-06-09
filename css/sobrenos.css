@@ -1,3 +1,6 @@
+h1{
+    text-align: center;
+}
 div.box {
 	width: 150px;
     
@@ -6,11 +9,11 @@ div.box {
 img{
     border-radius: 50%;
 }
-.container-fotos, h1{
-    align-items: center;
-    text-align: center;
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
 }
-.meu_form{
-    text-align: center;
-    align-items: center;
+.card-text{
+    line-height:inherit;
+
 }

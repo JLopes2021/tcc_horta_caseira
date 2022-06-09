@@ -1,7 +1,7 @@
 
 <p align="center">
 TCC em Desenvolvimento para conclusão de curso em Desenvolvimento de Sistemas na ETEC Albert Einstein
-Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carvalho e Taina Souza RIbeiro
+Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do Carmo , Lucas Maciel de Lima Carvalho e Taina Souza RIbeiro
 </p>
 
 <h4 align="center"> 
@@ -13,8 +13,6 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
-
-- [Dicas de Produção](#dicas-de-producao) 
 
 - [Atualizações](#atualizacoes)
 
@@ -43,28 +41,16 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Lucas Maciel de Lima Carv
 <a href="https://www.w3schools.com/php/default.asp"> Aprenda PHP </a>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" width="40" height="40"/> 
 
-<a href="https://www.w3schools.com/js/default.asp"> Aprenda JS </a>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> 
-
-
-###
-
-## Dicas de Produção
-- Colocar um slide de imagens passando, ao abrir o site. Com descrição sobre a horta, legumes, verduras e frutas que podem ser plantadas em casa facilmente. (instigando o leitor a criar sua horta);
 
 ###
 
 ## Atualizações
 
-- A primeira página foi iniciada partindo do fluxograma
-- Esqueletos do HTML começaram a ser criado na pagina ccs.dicas
-- A página INDEX.html já possui elementos de menu e estrutura de conteúdo
-- Fotos de ícones já adicionados ao projeto na página inicial
-- A página de dicas foi convertida apenas na página sobre "Começar uma Horta"
-- Os menus foram revitalizados com Bootstrap Aplicado
-- A página index.html não existe mais
-- A pagina de "começar uma horta" está estrutura, faltam complemento de informações
-- JS básico adicionado e ligado com o forms da pagina fale conosco
+- Todas páginas de visualização agora são em PHP 28/05/2022
+- A página de suporte já está em funcionamento padrão realizando consultas no banco de dados 28/05/2022
+- A autenticação não será mais pelo firebase 27/05
+- A página kids foi excluída do projeto 19/05
+
 
 ###
 

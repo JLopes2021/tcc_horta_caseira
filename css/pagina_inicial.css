@@ -1,6 +1,3 @@
-/*
-    DEMO STYLE
-*/
 
 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 body {
@@ -54,8 +51,6 @@ span {
 /* ---------------------------------------------------
     SIDEBAR STYLE
 ----------------------------------------------------- */
-
-
 .wrapper {
     display: flex;
     align-items: stretch;
@@ -122,6 +117,10 @@ span {
     background: #f7d9c2;
  
     
+}
+
+.subMenu{
+    background-color: #f7d9c2;
 }
 
 #sidebar .sidebar-header strong {
@@ -295,3 +294,4 @@ ul.CTAs a {
   text-decoration: none;
 
 }
+
