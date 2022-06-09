@@ -42,6 +42,6 @@ include("conexao.php");
         
    </head>
    <body>
-      <a href="pagina_inicial.html"><button class="btn btn-primary">Voltar para o Menu</button></a> 
+      <a href="pagina_inicial.php"><button class="btn btn-primary">Voltar para o Menu</button></a> 
    </body>
    </html>
