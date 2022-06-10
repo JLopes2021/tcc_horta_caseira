@@ -25,8 +25,7 @@ include ("./view/menu-geral-paginas.php")
                                  <div class="card-body text-primary">
                                     <h5 class="card-title">O que eu fiz?</h5>
                                          <p class="card-text">
-                                         Responsável pelo design específico da página e abastecimento
-                                         das informações do site.
+                                         Responsável pelo Design e organização de conteúdo. Seu objetivo é fazer um site com design atrativo e responsivo para gerar mais satisfação e fidelização de clientes.
                                          </p>
                             <div class="card-footer">
                            <a href="https://github.com/isabelimao"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
@@ -44,7 +43,7 @@ include ("./view/menu-geral-paginas.php")
                                  <div class="card-body text-primary">
                                     <h5 class="card-title">O que eu fiz?</h5>
                                          <p class="card-text">
-                                             Responsável pelo front end e pelo back end, e gerenciamento
+                                             Responsável pelo Banco de Dados e o Front End, com o objetivo de aprimorar a web site e atingir os objetivos e os interesses do público alvo que procura cuidar do meio ambiente e manter uma vida saudável.
                                              geral do projeto.
                                             </p>
                                             <br>
@@ -65,7 +64,7 @@ include ("./view/menu-geral-paginas.php")
                                  <div class="card-body text-primary">
                                     <h5 class="card-title">O que eu fiz?</h5>
                                     <p class="card-text">
-                                             Responsável pelo esqueleto geral de front end e pelo design geral 
+                                             Responsável também pelo Front end, com desempenho de melhorar o web site após sugestão da equipe de design e assim aprimorando o seu desenvolvimento.
                                              da página.
                                             </p>   
                                             <br>                                      
@@ -86,7 +85,7 @@ include ("./view/menu-geral-paginas.php")
                                  <div class="card-body text-primary">
                                     <h5 class="card-title">O que eu fiz?</h5>
                                     <p class="card-text">
-                                             Responsável pela criação do banco de dados MySql e revisão das páginas 
+                                             Responsável pelo Banco de Dados, trabalhando na comunicação entre desenvolvedor e usuário, se empenhando na solução de problemas e resposta de dúvidas.  
                                              antes da implementação.
                                             </p>                                         <div class="card-footer">
                            <a href="https://github.com/LucasMaciel17"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
@@ -105,8 +104,7 @@ include ("./view/menu-geral-paginas.php")
                                  <div class="card-body text-primary">
                                     <h5 class="card-title">O que eu fiz?</h5>
                                     <p class="card-text">
-                                             Responsável pelo design específico da página e abastecimento
-                                             das informações do site.
+                                             Responsável pelo Design e organização de conteúdo, para que o usuário encontre facilmente as informações que procura, seguindo um fluxo eficiente.
                                             </p>                                         <div class="card-footer">
                            <a href="https://github.com/Taina245"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
                            <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
