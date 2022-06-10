@@ -65,3 +65,6 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do C
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88062904?v=4" width="100px;" alt="fotoisabelgit"><br><a href="https://github.com/Taina245"><sub><b>Taina Ribeiro</b></sub></a><br /></td>
   </tr>
 </table>
+
+
+#Projeto sem fins lucrativos#
