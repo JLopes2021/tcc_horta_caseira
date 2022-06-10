@@ -29,7 +29,7 @@ include ("./view/menu-geral-paginas.php")
                                          </p>
                             <div class="card-footer">
                            <a href="https://github.com/isabelimao"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
-                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                           <a href="https://www.linkedin.com/in/isabel-gomes-b038a6241/"><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
                             </div>
                             <!--"https://www.flaticon.com/br/icones-gratis"-->
                         </div>         
