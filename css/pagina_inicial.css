@@ -294,4 +294,15 @@ ul.CTAs a {
   text-decoration: none;
 
 }
+footer {
+    position: bottom;
+		bottom: 0;
+		background-color: #fff;
+		color: #000;
+		width: 100%;
+		height: 100px;    
+		text-align: center;
+		line-height: 100px;
+}
+
 
