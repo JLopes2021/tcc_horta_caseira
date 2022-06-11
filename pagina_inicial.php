@@ -208,6 +208,16 @@ function carousel() {
   setTimeout(carousel, 2000); // Change image every 2 seconds
 }
     </script>
+
+<footer>
+    <p class="footer-final">
+                 Trabalho de conclusão de curso,
+                  Desenvovido
+                 por; Jefferson Lopes, Isabel Gomes,
+                  Letícia Lima,
+                  Taina Ribeiro e Lucas Maciel.
+                            </p>
+    </footer>
 </body>
 
 </html>
