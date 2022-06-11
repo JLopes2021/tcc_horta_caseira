@@ -1,4 +1,4 @@
-<?php 
+<?php
 include ("conexao.php");
 ?>
 <!DOCTYPE html>
@@ -71,7 +71,9 @@ include ("conexao.php");
                     </li>
                    
                 </ul>
-
+                            <li>
+                                <a class="nav-link" href="suporte.php"></a>
+                            </li>  
         </nav>
 
        
