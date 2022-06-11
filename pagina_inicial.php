@@ -14,6 +14,7 @@ include ("conexao.php");
     <!-- Our Custom CSS -->
     <link rel="stylesheet" href="css/pagina_inicial.css">
     <link rel="stylesheet" href="css/carrosel.css">
+    <link rel="stylesheet" href="css/rodape.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <!-- Font Awesome JS -->
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
@@ -48,7 +49,7 @@ include ("conexao.php");
                     </li>
                          <li>
                            <a href="comecar_horta.php" >
-                                <i class="fas fa-home"></i>
+                                <i class="fas fa-seedling"></i>
                                 Começar Horta
                             </a>
                             <ul class="collapse list-unstyled" id="ComecarHortaSubmenu">
@@ -166,15 +167,15 @@ Montar e cultivar a própria horta gera economia, traz também diversos benefíc
                 <ul class="produtos">
                     <li>
                         <h2>Começar Horta</h2>
-                        <a href="comecar_horta.html">
-                            <img src="Fotos/foto_comecar_horta.png" height="35%" width="35%">
+                        <a href="comecar_horta.php">
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilXltnwInMyn36UlyOhvtm0dMOPBEMt4YPnNnJ7k6zzYlNyVmdpRVcOeOam1QE1MUK1Ns7QyMu0JMH8bgfalB4X0pU7_Y3wqtAePIDV-Tk9otZ48tXV0PeM9Lk6UiM7lfGncfUqz6NZUhc62SnCcbzeQDtLzyFvmffgMw96Sd_-4jf0WikQF-LztFQMw/s320/foto_comecar_horta.png" height="35%" width="35%">
                         </a>
                         <p class="produto-descricao">Clique acima para dar os seus primeiros passos</p>
                     </li>   
                     <li>
                         <h2>Sazonais</h2>
                         <a href="https://ceagesp.gov.br/sazonalidade-de-compras/">
-                            <img src="Fotos/cesta dos sazonais.png" height="35%" width="35%">
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgb24LzgD_38-gWTWXOpElUcru00yVgiBirMweUMHpXBYB-F7e4sc5F2bZlsFsul4bw087vU4OHomOLDYctnDBTghh4uFrjKG_SdLS5KHHv-qJMS778L31dVKXsei2uEJcBpO2fXJLYkaZaaWiTynJLyiTSeRJYfzY6AGalgUigu05JQgg816Fb2abHQ/s320/cesta%20dos%20sazonais.png" height="35%" width="35%">
                         </a>
                         <p class="produto-descricao">Clique acima para uma lista de alimentos</p>
                     </li>    
@@ -209,15 +210,55 @@ function carousel() {
 }
     </script>
 
-<footer>
-    <p class="footer-final">
-                 Trabalho de conclusão de curso,
-                  Desenvovido
-                 por; Jefferson Lopes, Isabel Gomes,
-                  Letícia Lima,
-                  Taina Ribeiro e Lucas Maciel.
-                            </p>
+<footer id="myFooter">
+        <div class="container-fluid">
+            <div class="row">
+            <div class="col">
+                    <h5></h5>
+                    <ul>
+                       <li><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ3XxklIUzw0TzLuzYGfCTc-638poVOjTIilJUi0yrGPTGynF8KpaIRab1PdTCH3aWH1WxVH7kjp6c494_2ZOYX43O8gXkfrPUGYqgnIiuMJ7t35uej2GaVT8nMZ5wJYgkAR4OtPW0B5gi7vZmj6qtM5WVr66tljTizBAJWOdlcMiS3LfekicYWKNQjA/s320/Logo%20Tcc.png" height="150px" width="150px"></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <h5>Inicio</h5>
+                    <ul>
+                        <li><a href="https://programadorviking.com.br/">Home</a></li>
+                        <li><a href="https://ceagesp.gov.br/">CEAGESP</a></li>
+                        <li><a href="https://www.sp.senac.br/cursos-livres/curso-de-horta-organica-caseira#:~:text=Voc%C3%AA%20aprender%C3%A1%20a%20realizar%20cultivo,o%20plantio%20e%20a%20manuten%C3%A7%C3%A3o.&text=Posso%20fazer%20este%20curso%3F,ser%20maior%20de%2018%20anos.">Cursos</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                <h5>Mapa do Site</h5>
+                    <ul>
+                        <li><a href="pagina_inicial.php">Página Inicial&nbsp;<i class="fa fa-home"></i></a></li>   
+                        <li><a href="comecar_horta.php">Começar Horta&nbsp;<i class="fa fa-seedling"></i></a></li>
+                        <li><a href="fale_conosco.php">Fale Conosco&nbsp;<i class="fas fa-paper-plane"></i></a></li> 
+                        <li><a href="sobre_nos.php">Sobre Nós&nbsp;<i class="fa fa-briefcase"></i></a></li>
+                    </ul>   
+                </div>
+                <div class="col">
+                    <h5>Suporte</h5>
+                    <ul>
+                        <li><a href="mailto: jeffinho.je8@gmail.com">FAQ</a></li>
+                    </ul>
+                </div>
+                
+                <div class="col">
+                <h5></h5>
+                    <ul>
+                       <li><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ3XxklIUzw0TzLuzYGfCTc-638poVOjTIilJUi0yrGPTGynF8KpaIRab1PdTCH3aWH1WxVH7kjp6c494_2ZOYX43O8gXkfrPUGYqgnIiuMJ7t35uej2GaVT8nMZ5wJYgkAR4OtPW0B5gi7vZmj6qtM5WVr66tljTizBAJWOdlcMiS3LfekicYWKNQjA/s320/Logo%20Tcc.png" height="150px" width="150px"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-copyright">
+            <p>© 2022 ETEC Albert Einstein</p>
+        </div>
+        
     </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 
 </html>
