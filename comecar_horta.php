@@ -121,8 +121,8 @@ include ("conexao.php");
                     sua vida. Cientistas dizem que a exposição à bactéria Mycobacterium vaccae(presente
                     no solo) pode estimular uma produção de serotonina, o hormônio da felicidade. Este é
                     apenas uma das provas científicas sobre a relação da jardinagem e o bem-estar.
-                    Algumas dicas para vocês que querem começar uma horta caseira mas está perdida na
-                    largada. Dicas são atitudes cotidianas, de fácil aplicação e adaptáveis a sua realidade.
+                    Algumas dicas para vocês que querem começar uma horta caseira mas estão perdidos na
+                    largada. Dicas são atitudes cotidianas, de fácil aplicação e adaptáveis à sua realidade.
 
                 </p>
                 <h3 class="titulo-dicas">Compostagem de resíduos orgânicos</h3>
@@ -131,7 +131,7 @@ include ("conexao.php");
                     alimentação na forma de um composto rico em substâncias húmicas e nutricionais de
                     plantas altamente recomendados para a adubagem.
                     Compre ou peça (tem gente que doa) algumas minhocas para realizar a compostagem
-                    dos seus resíduos.
+                    dos seus resíduos (as mais recomendadas são as californianas).
                     Você pode jogar como cascas de frutas e legumes na terra das plantas para que elas se
                     decomponham lá e gerem nutrientes. Se não quiser investir na compostagem, por qual
                     seja seus motivos, separe seus resíduos os mesmos orgânicos.
@@ -145,13 +145,13 @@ include ("conexao.php");
                 <h3 class="titulo-dicas">Preparando o espaço</h3>
                 <p class="paragrafo-dicas">
                     Você mora em casa e selecione uma parte do terreno que gostaria de transformar em horta.
-                    As plantas precisam de energia para a fotossíntese, então escolhas as regiões que batem mais
+                    As plantas precisam de luz solar para a fotossíntese, então escolhas as regiões que batem mais
                     sol em casa. Em apartamentos, selecione os destinatários e a exigência de importância.
                     Máxima drenagem de água e terra que pode ser adquirida em floriculturas, ou você pode pedir
                     para que tenha um terreno ocioso. Sobre os recipientes, vaso, caixa vira horta, bolas de argila
                     expandida no fundo.
                     O ideal é colocar uma cerca para impedir o contato dos animais com as plantas. Caso você
-                    tenha animais domésticos, tente colocar a horta em lugares que eles não alcançam
+                    tenha animais domésticos, tente colocar a horta em lugares que eles não alcançam.
                 </p>
                 <h3 class="titulo-dicas">Escolhendo as Sementes</h3>
                 <p class="paragrafo-dicas">
