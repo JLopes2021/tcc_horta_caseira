@@ -318,6 +318,78 @@ include ("conexao.php");
                        A <strong class="titHort">CASA</strong>           
                 </p>
                 <h3 id="apto">Apartamento</h3>
+                   Como cultivar uma horta em seu apartamento?
+Já pensou em fazer sua própria horta em um espaço que está vazio em seu apartamento? Aqui iremos trazer algumas dicas sobre espaços para pode montar sua horta, dica de vasos e também do que plantar em sua horta e como cuidar dela.
+1- Busque locais que batem raios de sol.
+Para que sua horta de certo, é preciso colocar suas plantações em um local do seu apartamento em que bata sol pelo menos 4 horas por dia escolha lugares como varando ou próximo de janelas pois os vegetais plantados necessitam desse tempo da luz do sol para ajuda no crescimento.
+2- Escolha dos vasos.
+Cultivar uma horta em vasos é uma tendência no apartamento. Neste caso, é aconselhável escolher vasos furados para que a água irrigada possa escoar.
+Outra consideração importante é a profundidade do vaso para permitir que as raízes cresçam, normalmente vasos de 7 a 15 cm de profundidade podem acomodar a maioria das ervas ou temperos.
+3- Escolha das terras.
+É preciso escolher uma terra com base na qualidade do que você quer comer, a plantas necessariamente precisam de uma base rica em nutrientes para que cresçam bem. Neste sentido a terra deve ter um aspecto de esponja para ajudar na entrada de oxigênio e para manter uma boa umidade.
+•	Preparação das terras 
+1-Passo
+•	Areia: necessária para drenar a água e ajudar na fixação das raízes;
+•	Terra comum e terra vegetal: importante para garantir a umidade necessária à planta;
+•	Adubo orgânico: contém os nutrientes para o crescimento saudável da planta;
+•	Brita ou argila expandida: para forrar o fundo do vaso;
+•	Cobertura morta: folhas secas, serragem de madeira, aparos de grama;
+•	Vaso: escolha o tamanho ideal, com furos no fundo;
+•	Pedaço de manta bidin ou tecido de algodão: para reter a umidade do substrato do vaso.
+
+2-Passo
+•	Coloque a brita ou argila expandida no fundo do vaso;
+•	Cubra com o retalho de tecido de algodão ou manta bidin;
+•	Coloque no vaso a maior parte do solo (mistura de areia, terra e adubo orgânico), sem compactá-lo. Misture a areia e os 2 tipos de terra, na proporção 1:1:1;
+•	Plante as mudas ou as sementes, conforme as instruções do fornecedor;
+•	Acrescente a parte restante do solo; deixando a camada fofa;
+•	Regue e coloque a forragem (folhas secas, serragem de madeira, podas de grama);
+•	Acomode o vaso em um lugar com a iluminação adequada para o tipo de planta.
+4- Escolhas entre sementes ou brotos.
+Para pessoas que estão iniciando nessa parte de plantação e que desejam ter resultados rápidos, é indução começar com brotos. Determinadas plantas têm essa opção, como alface, cebola e tomate.
+É necessário tomar cuidado ao plantar os brotos para que não machuquem as suas raízes. Para que isso não aconteça é legal que façam buracos grandes na terra para quando forem colocar os brotos e em seguida pressione um pouco o substrato que se encontra ao redor e por fim molhe com água.
+5- Preste bem atenção na quantidade de água.
+É necessário verificar a quantidade de água de cada planta, pois nem todas contam com o mesmo tipo de regras. Tem algumas que precisam que as raízes sejam molhadas e outras somente as folhas. 
+É legal verificar a região do país em que você mora e as estações do ano, pois temos plantas que precisam de mais ou menos água e dependem da temperatura do ambiente e ver o nível de umidade 
+É recomendado regar sempre seu plantio durante amanhã ou no final de tarde, pois é dessa forma que água não evaporavam o calor do dia.
+6- Adubação
+As plantas precisam tira do solo os nutrientes que ajudam para que elas cresçam. Dessa forma à medida que são colhidas, elas precisam de mais nutrientes para crescerem novamente. 
+Esse é um ciclo continuo fazendo com que o solo empobreça, consequentemente, os nutrientes dos vegetais também. E assim a adubação se torna importante, já que pra fornece os nutrientes para as plantas em vasos
+Quais são as plantas que podem ser cultivadas em apartamento?
+Frutos
+•	Morango
+O vaso de morango pode ter por volta de 20 ou 30 centímetros, e a planta não fica muito alta e usar terra de qualidade. A colheita pode ocorrer o ano todo, porém, é mais comum entre os meses de maio e outubro. 
+•	Amora
+ É uma fruta que tem boa adaptação e que cresce de maneira semelhante ao morango.
+A colheita da amora começa em outubro e vai até dezembro. Para colher, é preciso ter delicadeza
+Essa e outras podem ser plantadas em vasos tem que ficar atento ao crescimento e questão da altura, pois temos alguns frutíferos que podem crescer até 2 metros e temos os frutíferos rasteiros como o morango. Basta ficar atento na hora de escolher o tipo de frutíferos.
+Temperos
+•	Manjericão
+Para ser cultivado o manjericão, é preciso de um local com bastante exposição solar. Lembrar de deixa tomar luz pelos menos 3 horas por dia, não se esquecer de regar diariamente. O manjericão precisa de bastante água só é preciso ficar atento e tomar cuidado para não deixa o solo encharcado.
+•	Salsinha
+Salsa é uma planta bem delicada. Deve ser colocado em local com sombra, assim podendo receber luminosidade só não pode ficar sempre exposto em luz solar. O solo deve estar sempre úmido, mas sem encharca e devido às duas raízes profundas é bom deixá-la sozinha em um vaso.
+•	Coentro
+As folhas de coentro são semelhantes à salsa, mas têm um sabor diferente e distinto. O coentro gosta de climas quentes e luz solar direta. Ao plantar, é importante manter o solo úmido; mas, uma vez bem desenvolvido, reduza a frequência e a quantidade de regas.
+
+
+•	Pimenta
+Dedo-de-moça, biquinho e tabasco são as mais indicadas para se cultivar em hortas pequenas.
+DICA: Temperos são os mais fáceis de cultivar, pois não precisam ser replantados, basta colher as folhas do pé.
+Hortaliças
+•	Alface
+É uma planta anual, portanto pode ser plantado o ano todo, existindo variedades específicas para climas temperados e subtropicais, quanto para clima mais ameno.
+A recomendação é escolher os solos de textura média, com aspecto fofo, de baixa acidez e elevado teor de matéria orgânica. Leve em consideração o fácil acesso de água para irrigações.
+De ciclo curto, no verão, a colheita ocorre em períodos de 60 a 70 dias depois do início do cultivo e, no inverno, se estende em torno de 80 a 90 dias.
+Cultivada em vaso e até em caixotes desde que estes tenham no mínimo 25 cm a 30 cm de profundidade.
+•	Couve-manteiga
+A couve-manteiga deve ser plantada em vasos com, pelo menos, 25 centímetros de diâmetro e de altura. Este tamanho permite que a planta cresça melhor, visto que suas folhas crescem até um metro.
+No caso de deficiência de nutrientes, aposte na adubação orgânica frequente. Mas, se o problema for calor excessivo, mude o vaso de lugar. Durante os períodos mais quentes do dia, mantenha a planta sob a sombra.
+Se o problema for excesso de rega, a couve não conseguirá se desenvolver, por isso o melhor é recomeçar o plantio.
+
+
+
+Sem ideias de como deixa o seu apartamento decorado? Aqui vão umas dicas!
+
                 <p class="paragrafo-casa-apto">
                        A <strong class="titHort">CASA</strong>           
                 </p>
