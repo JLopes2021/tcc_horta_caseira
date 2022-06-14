@@ -1,5 +1,4 @@
 <?php 
-include ("conexao.php");
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -7,7 +6,7 @@ include ("conexao.php");
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Página Inicial</title>
+    <title>Começar uma Horta</title>
     <link rel="shortcut icon" type="imagex/png" href="fotos/Logo Tcc.png">
     <!-- Bootstrap CSS CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
@@ -150,8 +149,7 @@ include ("conexao.php");
                     Máxima drenagem de água e terra que pode ser adquirida em floriculturas, ou você pode pedir
                     para que tenha um terreno ocioso. Sobre os recipientes, vaso, caixa vira horta, bolas de argila
                     expandida no fundo.
-                    O ideal é colocar uma cerca para impedir o contato dos animais com as plantas. Caso você
-                    tenha animais domésticos, tente colocar a horta em lugares que eles não alcançam.
+                    O ideal é colocar uma cerca para impedir o contato dos animais com as plantas.tenha animais domésticos, tente colocar a horta em lugares que eles não alcançam.
                 </p>
                 <h3 class="titulo-dicas">Escolhendo as Sementes</h3>
                 <p class="paragrafo-dicas">
@@ -219,11 +217,11 @@ include ("conexao.php");
              </div>   
                 
             <div class="informacoes_div">
-                <img src="Fotos/guia das hortalicas.png" height="35%" width="40%" align="right">
+                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXWyuTcBO3_CjLpPA7VBn3Xh6eWMUvyp7xvs-oYEmMgkXUCgCKeU8jksqXG5Yqdt62FTdnZrZkrMOfBJJ4tk2r3FBWL3t_OfiAH-BUBejvzUDoHGePaB71IL8v0fk9UjEMr1w5JfCyP0mh4gWtXogG7Rpra8MtORuT7wT0RP92TLZVs34v_vy4kvqs1A/s320/guia%20das%20hortalicas.png" height="35%" width="40%" align="right">
                 <ul>
                     <il>
                         <div class="foto_informacoes">
-                            <img src="Fotos/abobora.png" height="5%" width="10%" align="left">  <br>
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEF5B8TqyAVEaGy0LvlTjhF8_H0biz1szf0tUiyEJ51279GwjcdAh7eVnhlk4WucoX9-rYnhXo-uZFwXBSl9oSB4p3KsyzCQyPjcQfLAUrIT1LdkpP0ngUkZJlsZ-iD7XaCDr4gITfh7SxUbNezQsFHe9Yk3yofwi5KbKRTWWvXkvMmrD0CZCLnYlhjQ/s320/abobora.png" height="5%" width="10%" align="left">  <br>
                             <p class="p_foto_infos">
                                    A <strong class="titHort">ABÓBORA</strong> possui vitaminas A, B, C, E, sais minerais 
                                     (fósforo, potássio e cálcio) e alta 
@@ -235,7 +233,7 @@ include ("conexao.php");
                     </il>
                     <il>
                         <div class="foto_informacoes">
-                            <img src="Fotos/abobrinha.png" height="5%" width="10%" align="left">  <br>
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie1VHOCxmtL6WUbfzXcUKAAiLiOav31d_fKQXsyBS0AgmshURmqmHuATwJ4P866iIRcVtUv6GZbf9IiqrthAEhp4hVoOr4bzpVfGTsWFwmxg5zSdJVmK1dJJCDSFhUasp-SSlsWEvXes8l95qDQdqBDEnk5tZ8LJfSfpPCkJRwtz1QScMpoRbgPBikvQ/s320/abobrinha.png" height="5%" width="10%" align="left">  <br>
                             <p class="p_foto_infos">
                                    A <strong class="titHort">ABOBRINHA</strong> possui vitaminas A, B, C, sais minerais
                                    (cálcio, fósforo e ferro) e rica em fosfato.
@@ -245,7 +243,7 @@ include ("conexao.php");
                     </il>
                     <il>
                         <div class="foto_informacoes">
-                            <img src="Fotos/alface.png" height="5%" width="10%" align="left">  <br>
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi49-riQY9no-8TLhGlfoI7cyYjUn7zrIKX7XITGRN1R5DD8gzwjJGWr3Ep86VKRUx1_jZexL16KWWTBIokD2bt9ZOj1omb9xqQhqGLzD2eAQkctvW-jXwmSeMgC8FeaUbn3c11WgwRh7flot0stjlEkxIL2fiU9kTZ_RPFeg_Z4VETtpwdmm95LlYJKA/s320/alface.png" height="5%" width="10%" align="left">  <br>
                             <p class="p_foto_infos">
                                    A <strong class="titHort" >ALFACE</strong> possui vitaminas A, complexo B e C, sais 
                                    minerais (cálcio e ferro), rica em
@@ -257,7 +255,7 @@ include ("conexao.php");
                     </il>
                     <il>
                         <div class="foto_informacoes">
-                            <img src="Fotos/alho.png" height="5%" width="10%" align="left">  <br>
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzdLScfaHcUfCc5Dw5lVYEwg7A71gdFynuv45SW-rqaWeXoolBZ2kY5-ipQRi-DJbjx2gf5TpF3IsH-gYOFZSFX0y8ZA7N2OQOLowg-TlSO5ZgBS-6FRgqxZuGZ8MmwM3zqfDmW2ePsFMWC8MQAaps77mp_xRVKM_a3IG5Rn4yw6LDdUbAbqBJ5nRWQg/s320/alho.png" height="5%" width="10%" align="left">  <br>
                             <p class="p_foto_infos">
                                    O <strong class="titHort" >ALHO</strong> Rico em vitamina B, C e E.
                                    Reduz o colesterol, controla a pressão 
@@ -272,7 +270,7 @@ include ("conexao.php");
                     </il>
                     <il>
                         <div class="foto_informacoes">
-                            <img src="Fotos/beterraba.png" height="5%" width="10%" align="left">  <br>
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0FImCjTCMObrmOvcDqktQedzDevp8on4zp9D-fzpVlKFqfsgJnfLNlI8bbO8wWX0qxN2i7jHt2lG98i9h7498pAa9fKQKsFTndE8Mll9HasRYS6Ik1pOERpuBew0GO6Vyr3HOxFByB3TmEzeInWLx2hDOrgiHE2whJTLxIXup2z3m9u2hk1uSi00h-A/s320/beterraba.png" height="5%" width="10%" align="left">  <br>
                             <p class="p_foto_infos">
                                    A <strong class="titHort">BETERRABA</strong> Rica em Vitamina A, do complexo B 
                                    e sais minerais (potássio, sódio,
@@ -284,7 +282,7 @@ include ("conexao.php");
                         </div>
                     </il> <il>
                         <div class="foto_informacoes">
-                            <img src="Fotos/berinjela.png" height="5%" width="10%" align="left">  <br>
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2pEZK9u9oCw9y4D-dZFS8T8U80ZpJGykoQGP9ADSj0guOkDM0e9UZgwpp9p8X1vbmubaBoqDXk1XttahJCU9JURzJOBkpLFEhqh_UqXz0ioYwPImZtId7TMCrhfVFxDAneLUKpx9XK_ovJ6506aIRwgxmlc9hpNdXWsGWcLH3lPrfYQ2igxsMHRDHaQ/s320/berinjela.png" height="5%" width="10%" align="left">  <br>
                             <p class="p_foto_infos">
                                    A <strong class="titHort">BERINJELA</strong> possui vitaminas A e B e rica em potássio.
                                    Ajuda no tratamento do colesterol
@@ -296,7 +294,7 @@ include ("conexao.php");
                     </il>
                     <il>
                         <div class="foto_informacoes">
-                            <img src="Fotos/brocolis.png" height="5%" width="10%" align="left">  <br>
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi1d-o9Q16dAvj-uncfmSJEKetu8bw9PbxReJ5sSK0d-nJWMheis7lCBYfwy9xJjGLyzZqDwaHCCLl8lQHphmeiS_cTYTBuPAkT2mAASDuWMpf53JEyjzqbRfNI7cKWuLTR5vf9zqpgpmg3X_crH2C9zjb_68TNGz-ul1y57cB018Gagd9n4TKyQghEQ/s320/brocolis.png" height="5%" width="10%" align="left">  <br>
                             <p class="p_foto_infos">
                                    O <strong class="titHort">BRÓCOLIS</strong> Rico em vitaminas B, C, E, K e sais 
                                    minerais (cálcio, ferro e potássio). 
@@ -317,8 +315,13 @@ include ("conexao.php");
                 <p class="paragrafo-casa-apto">
                        A <strong class="titHort">CASA</strong>           
                 </p>
+
                 <h3 id="apto">Apartamento</h3>
-                   Como cultivar uma horta em seu apartamento?
+                <p class="paragrafo-casa-apto">
+                      O <strong class="titHort">Apartamento</strong>           
+                </p>
+                                <p>
+                  Como cultivar uma horta em seu apartamento?
 Já pensou em fazer sua própria horta em um espaço que está vazio em seu apartamento? Aqui iremos trazer algumas dicas sobre espaços para pode montar sua horta, dica de vasos e também do que plantar em sua horta e como cuidar dela.
 1- Busque locais que batem raios de sol.
 Para que sua horta de certo, é preciso colocar suas plantações em um local do seu apartamento em que bata sol pelo menos 4 horas por dia escolha lugares como varando ou próximo de janelas pois os vegetais plantados necessitam desse tempo da luz do sol para ajuda no crescimento.
@@ -390,8 +393,6 @@ Se o problema for excesso de rega, a couve não conseguirá se desenvolver, por 
 
 Sem ideias de como deixa o seu apartamento decorado? Aqui vão umas dicas!
 
-                <p class="paragrafo-casa-apto">
-                       A <strong class="titHort">CASA</strong>           
                 </p>
                 <!--Depois arrumem o design do botao usando bootstrap-->
                 <a href="#top"><button class="" id="#top">Voltar ao Topo</button> </a>
@@ -407,16 +408,6 @@ Sem ideias de como deixa o seu apartamento decorado? Aqui vão umas dicas!
             });
         });
     </script>
-
-    <footer>
-    <p class="footer-final">
-                 Trabalho de conclusão de curso,
-                  Desenvovido
-                 por; Jefferson Lopes, Isabel Gomes,
-                  Letícia Lima,
-                  Taina Ribeiro e Lucas Maciel.
-                            </p>
-    </footer>
 </body>
 
 </html>
