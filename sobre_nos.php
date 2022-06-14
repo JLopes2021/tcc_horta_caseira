@@ -1,5 +1,4 @@
-<?php
-include ("conexao.php");
+<?php 
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -71,9 +70,7 @@ include ("conexao.php");
                     </li>
                    
                 </ul>
-                            <li>
-                                <a class="nav-link" href="suporte.php"></a>
-                            </li>  
+
         </nav>
 
        
@@ -93,7 +90,7 @@ include ("conexao.php");
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul  class="nav navbar-nav ml-auto">
                             <li  class="nav-item ">
-                                <a class="nav-link" href="#">Página Inicial</a>
+                                <a class="nav-link" href="pagina_inicial.php">Página Inicial</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="comecar_horta.php">Começar uma Horta</a>
@@ -103,7 +100,7 @@ include ("conexao.php");
                                 <a class="nav-link" href="fale_conosco.php">Fale Conosco</a>
                             </li>
                             <li class="nav-item active">
-                                <a class="nav-link" href="">Sobre Nós</a>
+                                <a class="nav-link" href="sobre_nos.php">Sobre Nós</a>
                             </li>
                         </ul>
                     </div>
@@ -201,6 +198,22 @@ include ("conexao.php");
                                              Responsável pelo Design e organização de conteúdo, para que o usuário encontre facilmente as informações que procura, seguindo um fluxo eficiente.
                                             </p>                                         <div class="card-footer">
                            <a href="https://github.com/Taina245"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
+                           <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
+                            </div>
+                            <!--"https://www.flaticon.com/br/icones-gratis"-->
+                        </div>  
+                </center>
+        </div>
+        <div class="col py-3 px-lg-5 border bg-light">
+                <center>
+                <img src="https://avatars.githubusercontent.com/u/75916483?v=4" width="100px" height="100px" /><br><br>
+                    <div class="card border-primary mb-3" style="max-width: 18rem;">
+                            <div class="card-header">Enzo Gonçalves </div>
+                                 <div class="card-body text-primary">
+                                    <h5 class="card-title">O que eu fiz?</h5>
+                                    <p class="card-text">
+                                             Responsável pela revisão de conteúdo específico da página (Aluno 2º Biológicas ETEC ALBERT EINSTEIN - 2022)                                            </p>                                         <div class="card-footer">
+                           <a href="https://github.com/EnzoGoncalves"><img src="fotos/github.png" width="30px" height="30px"/> &nbsp;<em></em></a>
                            <a href=""><img src="fotos/linkedin.png.png" width="30px" height="30px"/> &nbsp;<em></em></a>  
                             </div>
                             <!--"https://www.flaticon.com/br/icones-gratis"-->
