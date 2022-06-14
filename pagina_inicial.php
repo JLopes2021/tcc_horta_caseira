@@ -114,11 +114,9 @@ include ("conexao.php");
                     <p id="mudaCor" class="paragrafo-conteudo">
                         <!--Reescrever este paragrafo-->
                         <!--https://www.harpyja.com.br/blog/sustentabilidade/dicas-sustentaveis-como-comecar-uma-horta-caseira-->
-                       No começo da pandemia do COVID-19 tivemos um aumento de 53 milhões de pessoas que desenvolveram depressão e 76 milhões apresentaram ansiedade em 2020 no mundo todo. Então a maioria procurou ideias de manter a mente ocupada, e uma dessas sugestões foram de criar hortaliças em casa ou em algum outro ambiente. Pesquisas apontam um grande crescimento nas vendas em produto que sejam para cultivar hortas.
-
-As hortas são geralmente estabelecidas em pequenos espaços, variando em plantas aromáticas, medicinais ou alimentícias.
-
-Montar e cultivar a própria horta gera economia, traz diversos benefícios tanto ambientais como pessoais. Um exemplo disso é o aumento da qualidade de vida, uma alimentação saudável, descartando o uso de agrotóxicos ou pesticidas.
+                      No começo da pandemia do COVID-19 tivemos um aumento de 53 milhões de pessoas que desenvolveram depressão e 76 milhões apresentaram ansiedade em 2020 no mundo todo. Então a maioria procurou ideias de manter a mente ocupada, e uma dessas sugestões foram de criar hortaliças em casa ou em algum outro ambiente. Pesquisas apontam um grande crescimento nas vendas em produto que sejam para cultivar hortas.
+                      As hortas são geralmente estabelecidas em pequenos espaços, variando em plantas aromáticas, medicinais ou alimentícias.
+                      Montar e cultivar a própria horta gera economia, traz diversos benefícios tanto ambientais como pessoais. Um exemplo disso é o aumento da qualidade de vida, uma alimentação saudável, descartando o uso de agrotóxicos ou pesticidas.
                     </p>
                 </div>
                 
@@ -140,7 +138,7 @@ Montar e cultivar a própria horta gera economia, traz diversos benefícios tant
                 <div class="terceiro-conteudo">
                     <h3>Terapia</h3>
                     <p class="paragrafo-conteudo">
-                       Adquirir uma horta dentro de sua casa também ajuda na sua saúde mental, pois, 
+                       Ad Adquirir uma horta dentro de sua casa também ajuda na sua saúde mental, pois, 
                        de acordo com alguns especialistas, ter contato com o solo ajuda em uma menor concentração dos hormônios ligados ao estresse.
                        Ajuda também na influência da diminuição da ansiedade, melhora a qualidade do sono e previne os sintomas da depressão. 
                        Fora a qualidade do ar que acaba melhorando também.
@@ -149,7 +147,7 @@ Montar e cultivar a própria horta gera economia, traz diversos benefícios tant
                 <div class="quarto-conteudo">
                     <h3>Decora o seu ambiente</h3>
                     <p class="paragrafo-conteudo">
-                    Se caso não tiver muito espaço no ambiente em que estiver pensando em montar uma horta, não se preocupe, pois, mesmo com vasos 
+                     Se caso não tiver muito espaço no ambiente em que estiver pensando em montar uma horta, não se preocupe, pois, mesmo com vasos 
                        pequenos você consegue plantar um pé de manjericão, alface, cebolinha, 
                        coentro e diversas outras opções, trazendo a aparência de um ambiente decorado, até porque o verde traz uma sensação de ar fresco e harmonia. 
                     </p>
@@ -157,10 +155,10 @@ Montar e cultivar a própria horta gera economia, traz diversos benefícios tant
             <div class="quinto-conteudo">
                     <h3>Preservam o Meio Ambiente</h3>
                     <p class="paragrafo-conteudo">
-                    Ter uma horta caseira traz todos esses e outros demais benefícios, contando com que você ainda pode ajudar com o bem-estar 
+                     Ter uma horta caseira traz todos esses e outros demais benefícios, contando com que você ainda pode ajudar com o bem-estar 
                         do planeta, ajudando a reduzir a utilização de embalagens, contribuí para a diminuição dos gases poluentes na qual seria 
                         dos transportes dos alimentos e também ajudará a 
-                        desestimular o desmatamento, poluição dos rios e dos solos causados pela agricultura intensiva. 
+                        desestimular o desmatamento, poluição dos rios e dos solos causados pela agricultura intensiva.
                     </p>
                 </div>
             </div>
