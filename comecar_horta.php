@@ -1,4 +1,5 @@
 <?php 
+
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -382,55 +383,69 @@ Outra consideração importante é a profundidade do vaso para permitir que as r
 </div><br>
 	
 
-4- Escolhas entre sementes ou brotos.
-Para pessoas que estão iniciando nessa parte de plantação e que desejam ter resultados rápidos, é indução começar com brotos. Determinadas plantas têm essa opção, como alface, cebola e tomate.
-É necessário tomar cuidado ao plantar os brotos para que não machuquem as suas raízes. Para que isso não aconteça é legal que façam buracos grandes na terra para quando forem colocar os brotos e em seguida pressione um pouco o substrato que se encontra ao redor e por fim molhe com água.
-5- Preste bem atenção na quantidade de água.
-É necessário verificar a quantidade de água de cada planta, pois nem todas contam com o mesmo tipo de regras. Tem algumas que precisam que as raízes sejam molhadas e outras somente as folhas. 
-É legal verificar a região do país em que você mora e as estações do ano, pois temos plantas que precisam de mais ou menos água e dependem da temperatura do ambiente e ver o nível de umidade 
-É recomendado regar sempre seu plantio durante amanhã ou no final de tarde, pois é dessa forma que água não evaporavam o calor do dia.
-6- Adubação
-As plantas precisam tira do solo os nutrientes que ajudam para que elas cresçam. Dessa forma à medida que são colhidas, elas precisam de mais nutrientes para crescerem novamente. 
-Esse é um ciclo continuo fazendo com que o solo empobreça, consequentemente, os nutrientes dos vegetais também. E assim a adubação se torna importante, já que pra fornece os nutrientes para as plantas em vasos
-Quais são as plantas que podem ser cultivadas em apartamento?
-Frutos
-•	Morango
-O vaso de morango pode ter por volta de 20 ou 30 centímetros, e a planta não fica muito alta e usar terra de qualidade. A colheita pode ocorrer o ano todo, porém, é mais comum entre os meses de maio e outubro. 
-•	Amora
+<ol><p>4- Escolhas entre sementes ou brotos.</p></ol>
+
+ Para pessoas que estão iniciando nessa parte de plantação e que desejam ter resultados rápidos, 
+ é indução começar com brotos. Determinadas plantas têm essa opção, como alface, cebola e tomate.
+É necessário tomar cuidado ao plantar os brotos para que não machuquem as suas raízes. 
+Para que isso não aconteça é legal que façam buracos grandes na terra para quando forem colocar
+ os brotos e em seguida pressione um pouco o substrato que se encontra ao redor e por fim molhe com água.
+<ol><p>5- Preste bem atenção na quantidade de água.</p></ol>
+É necessário verificar a quantidade de água de cada planta, pois nem todas contam com o mesmo tipo de regras.
+ Tem algumas que precisam que as raízes sejam molhadas e outras somente as folhas. 
+É legal verificar a região do país em que você mora e as estações do ano, pois temos plantas 
+que precisam de mais ou menos água e dependem da temperatura do ambiente e ver o nível de umidade 
+É recomendado regar sempre seu plantio durante amanhã ou no final de tarde, pois é dessa forma 
+que água não evaporavam o calor do dia.</li>
+<ol><p>6- Adubação</p></ol>
+As plantas precisam tira do solo os nutrientes que ajudam para que elas cresçam.]
+ Dessa forma à medida que são colhidas, elas precisam de mais nutrientes para crescerem novamente. 
+Esse é um ciclo continuo fazendo com que o solo empobreça, consequentemente,
+ os nutrientes dos vegetais também. E assim a adubação se torna importante, 
+ já que pra fornece os nutrientes para as plantas em vasos. </li>
+<ol><p>Quais são as plantas que podem ser cultivadas em apartamento?</p></ol>
+<ol><p>Frutos</p></ol>
+<div class="">
+•	Morango;
+O vaso de morango pode ter por volta de 20 ou 30 centímetros, e a planta não fica muito alta e usar terra de qualidade. A colheita pode ocorrer o ano todo, porém, é mais comum entre os meses de maio e outubro.</div> <br>
+<div class = ""> •	Amora
  É uma fruta que tem boa adaptação e que cresce de maneira semelhante ao morango.
 A colheita da amora começa em outubro e vai até dezembro. Para colher, é preciso ter delicadeza
-Essa e outras podem ser plantadas em vasos tem que ficar atento ao crescimento e questão da altura, pois temos alguns frutíferos que podem crescer até 2 metros e temos os frutíferos rasteiros como o morango. Basta ficar atento na hora de escolher o tipo de frutíferos.
-Temperos
-•	Manjericão
-Para ser cultivado o manjericão, é preciso de um local com bastante exposição solar. Lembrar de deixa tomar luz pelos menos 3 horas por dia, não se esquecer de regar diariamente. O manjericão precisa de bastante água só é preciso ficar atento e tomar cuidado para não deixa o solo encharcado.
-•	Salsinha
-Salsa é uma planta bem delicada. Deve ser colocado em local com sombra, assim podendo receber luminosidade só não pode ficar sempre exposto em luz solar. O solo deve estar sempre úmido, mas sem encharca e devido às duas raízes profundas é bom deixá-la sozinha em um vaso.
-•	Coentro
-As folhas de coentro são semelhantes à salsa, mas têm um sabor diferente e distinto. O coentro gosta de climas quentes e luz solar direta. Ao plantar, é importante manter o solo úmido; mas, uma vez bem desenvolvido, reduza a frequência e a quantidade de regas.
+Essa e outras podem ser plantadas em vasos tem que ficar atento ao crescimento e questão da altura, pois temos alguns frutíferos que podem crescer até 2 metros e temos os frutíferos rasteiros como o morango. Basta ficar atento na hora de escolher o tipo de frutíferos. </div><br>
+<div class= "">Temperos
+<div class ="">•	Manjericão;
+Para ser cultivado o manjericão, é preciso de um local com bastante exposição solar. Lembrar de deixa tomar luz pelos menos 3 horas por dia, não se esquecer de regar diariamente. O manjericão precisa de bastante água só é preciso ficar atento e tomar cuidado para não deixa o solo encharcado.</div><br>
+<div class= "">•	Salsinha;
+Salsa é uma planta bem delicada. Deve ser colocado em local com sombra, assim podendo receber luminosidade só não pode ficar sempre exposto em luz solar. O solo deve estar sempre úmido, mas sem encharca e devido às duas raízes profundas é bom deixá-la sozinha em um vaso.</div> <br>
+<div class="">•	Coentro;
+As folhas de coentro são semelhantes à salsa, mas têm um sabor diferente e distinto. O coentro gosta de climas quentes e luz solar direta. Ao plantar, é importante manter o solo úmido; mas, uma vez bem desenvolvido, reduza a frequência e a quantidade de regas.</div> <br>
 
 
-•	Pimenta
+<div class="">•	Pimenta;
 Dedo-de-moça, biquinho e tabasco são as mais indicadas para se cultivar em hortas pequenas.
-DICA: Temperos são os mais fáceis de cultivar, pois não precisam ser replantados, basta colher as folhas do pé.
-Hortaliças
-•	Alface
+DICA: Temperos são os mais fáceis de cultivar, pois não precisam ser replantados, basta colher as folhas do pé.</div><br>
+<ol><p>Hortaliças</p></ol>
+<div class="">•	Alface;
 É uma planta anual, portanto pode ser plantado o ano todo, existindo variedades específicas para climas temperados e subtropicais, quanto para clima mais ameno.
 A recomendação é escolher os solos de textura média, com aspecto fofo, de baixa acidez e elevado teor de matéria orgânica. Leve em consideração o fácil acesso de água para irrigações.
 De ciclo curto, no verão, a colheita ocorre em períodos de 60 a 70 dias depois do início do cultivo e, no inverno, se estende em torno de 80 a 90 dias.
-Cultivada em vaso e até em caixotes desde que estes tenham no mínimo 25 cm a 30 cm de profundidade.
-•	Couve-manteiga
+Cultivada em vaso e até em caixotes desde que estes tenham no mínimo 25 cm a 30 cm de profundidade.</div><br>
+<div class ="">•	Couve-manteiga;
 A couve-manteiga deve ser plantada em vasos com, pelo menos, 25 centímetros de diâmetro e de altura. Este tamanho permite que a planta cresça melhor, visto que suas folhas crescem até um metro.
 No caso de deficiência de nutrientes, aposte na adubação orgânica frequente. Mas, se o problema for calor excessivo, mude o vaso de lugar. Durante os períodos mais quentes do dia, mantenha a planta sob a sombra.
 Se o problema for excesso de rega, a couve não conseguirá se desenvolver, por isso o melhor é recomeçar o plantio.
+</div><br>
 
 
 
-Sem ideias de como deixa o seu apartamento decorado? Aqui vão umas dicas!
+ Sem ideias de como deixa o seu apartamento decorado? Aqui vão umas dicas!
+
+ 
 
                 </p>
                 <!--Depois arrumem o design do botao usando bootstrap-->
                 <a href="#top"><button class="" id="#top">Voltar ao Topo</button> </a>
-    </div>
+
 
     
 
