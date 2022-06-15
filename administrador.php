@@ -44,11 +44,8 @@ include("conexao.php");
                     echo "E-mail: " . $row_usuario['email'] . "<br>";
                     echo "Mensagem: " . $row_usuario['mensagem'] 
                     ?>
-                    <label for="mensagem">Digite a sua Mensagem</label>
-                    <input type="text" class="form-control" name="mensagem" rows="5" id="mensagem" aria-describedby="mensagem" required="required" maxlength="255" rows="5" ></input>
-                    <small id="mensagem" class="form-text text-muted">Digite a sua Mensagem </small>
-                    <a href="envia-msg-usu.php"><button class="btn btn-primary">Responder Usuário</button></a>     
-
+                    <a href=mailto:<?= $row_usuario['email'] ?>?subject="TESTE email HTML"><br>Enviar e-mail para <?= $row_usuario['email'] ?></a>
+                     
                     <hr>
                     <?php
                     ;                  
