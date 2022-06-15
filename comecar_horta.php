@@ -321,33 +321,67 @@
                       O <strong class="titHort">Apartamento</strong>           
                 </p>
                                 <p>
-                  Como cultivar uma horta em seu apartamento?
-Já pensou em fazer sua própria horta em um espaço que está vazio em seu apartamento? Aqui iremos trazer algumas dicas sobre espaços para pode montar sua horta, dica de vasos e também do que plantar em sua horta e como cuidar dela.
-1- Busque locais que batem raios de sol.
+
+                  <h3> <ul>Como cultivar uma horta em seu apartamento?</ul> </h3>
+                  <p>Já pensou em fazer sua própria horta em um espaço que está vazio em seu apartamento? Aqui iremos trazer algumas dicas sobre espaços para pode montar sua horta, dica de vasos e também do que plantar em sua horta e como cuidar dela.
+</p>
+                  
+                  <p>
+                  1- Busque locais que batem raios de sol.
 Para que sua horta de certo, é preciso colocar suas plantações em um local do seu apartamento em que bata sol pelo menos 4 horas por dia escolha lugares como varando ou próximo de janelas pois os vegetais plantados necessitam desse tempo da luz do sol para ajuda no crescimento.
-2- Escolha dos vasos.
+                  </p>
+                  <div class="foto_informacoes">
+                  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLyHMGKQKG80NQWbuxR6POW38m5heGBDhbXNeu2v8x2IG-tBprnVjNufvlCpHXI5uFV11lKEPGacK5hop2K9R_gdo2GaWK0uezUJb51CyR5aNTN-FCemwKEUz2Dxvx6u_W-Fh2A7yc1OXm_DVHVEd_ncXONWVCdvrXuvPoXnfo_KhcNnfVCwnX34Q3w/s320/sol.png" alt="Imagem Sol" height="5%" width="10%" align="left">  <br>
+                  </div><br><br><br>
+                  
+  <p>
+                  2- Escolha dos vasos.
 Cultivar uma horta em vasos é uma tendência no apartamento. Neste caso, é aconselhável escolher vasos furados para que a água irrigada possa escoar.
 Outra consideração importante é a profundidade do vaso para permitir que as raízes cresçam, normalmente vasos de 7 a 15 cm de profundidade podem acomodar a maioria das ervas ou temperos.
-3- Escolha das terras.
+  
+                </p>
+                  <div class="foto_informacoes">
+                  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgB_kmL-gLikEbSgjPR4GzIWE9KeTrNfpigi0cJ3iFzrVXE56-3Dt3G2vEPWfzgQ9wwR_ItoFyRyI-VxhsVye7PbOj1ilu7jvQ92xKiLwPkVuGgCGZZByu0G7RbbG3a4_WE92oRCHqcSmXvLCh7AC-v5t4YwsGm86WTRDm9T4SPG46ytiPtZ_Th7iWjQ/s320/vasos.png" height="5%" width="10%" align="left">  <br>
+                  </div>  </div><br><br><br>
+     
+  <p>
+                  3- Escolha das terras.
 É preciso escolher uma terra com base na qualidade do que você quer comer, a plantas necessariamente precisam de uma base rica em nutrientes para que cresçam bem. Neste sentido a terra deve ter um aspecto de esponja para ajudar na entrada de oxigênio e para manter uma boa umidade.
-•	Preparação das terras 
-1-Passo
-•	Areia: necessária para drenar a água e ajudar na fixação das raízes;
-•	Terra comum e terra vegetal: importante para garantir a umidade necessária à planta;
-•	Adubo orgânico: contém os nutrientes para o crescimento saudável da planta;
-•	Brita ou argila expandida: para forrar o fundo do vaso;
-•	Cobertura morta: folhas secas, serragem de madeira, aparos de grama;
-•	Vaso: escolha o tamanho ideal, com furos no fundo;
-•	Pedaço de manta bidin ou tecido de algodão: para reter a umidade do substrato do vaso.
+  
+                </p>
+                  <div class="foto_informacoes">
+                  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6JNEgeBxIvs4NrGzw_chyCpq6MS9_oUdrirGzYRJHSiPES63ONFoBt016bfzPire_JhYmbX0ySS80Lt41yWtUfL_R9anvdoEaN1EiO3zScBcUAnURhQm1FtFvdT-1rXqivwwMrFsXIBzvAqjb3o4uFBQsH9VxuJZ_VvX285O2xZyduCwKSTXOOyAWHg/s320/adubo.png" height="5%" width="10%" align="left">  <br>
+                  </div>  </div><br><br><br>
 
-2-Passo
-•	Coloque a brita ou argila expandida no fundo do vaso;
-•	Cubra com o retalho de tecido de algodão ou manta bidin;
-•	Coloque no vaso a maior parte do solo (mistura de areia, terra e adubo orgânico), sem compactá-lo. Misture a areia e os 2 tipos de terra, na proporção 1:1:1;
-•	Plante as mudas ou as sementes, conforme as instruções do fornecedor;
-•	Acrescente a parte restante do solo; deixando a camada fofa;
-•	Regue e coloque a forragem (folhas secas, serragem de madeira, podas de grama);
-•	Acomode o vaso em um lugar com a iluminação adequada para o tipo de planta.
+
+                  <h3> <ul>Vamos por a mão na massa?</ul> </h3>
+
+<ol>Preparação das terras
+<p>1º Passo</p>
+</ol>
+<div class="lista-acoes">
+    <li>Areia: necessária para drenar a água e ajudar na fixação das raízes;</li>
+    <li>Terra comum e terra vegetal: importante para garantir a umidade necessária à planta;</li>
+    <li>Adubo orgânico: contém os nutrientes para o crescimento saudável da planta;</li>
+    <li>Brita ou argila expandida: para forrar o fundo do vaso;</li>
+    <li>Cobertura morta: folhas secas, serragem de madeira, aparos de grama;</li>
+    <li>Vaso: escolha o tamanho ideal, com furos no fundo;</li>
+    <li>Pedaço de manta bidin ou tecido de algodão: para reter a umidade do substrato do vaso.</li>
+</div>
+
+<ol><p>2-Passo</p></ol>
+<div class="lista-acoes">
+    <li>Coloque a brita ou argila expandida no fundo do vaso;</li>
+    <li>Cubra com o retalho de tecido de algodão ou manta bidin;</li>
+    <li>Coloque no vaso a maior parte do solo (mistura de areia, terra e adubo orgânico), sem compactá-lo. Misture a areia e os 2 tipos de terra, na proporção 1:1:1;</li>
+    <li>Plante as mudas ou as sementes, conforme as instruções do fornecedor;</li>
+    <li>Cobertura morta: folhas secas, serragem de madeira, aparos de grama;</li>
+    <li>Acrescente a parte restante do solo; deixando a camada fofa;</li>
+    <li>Regue e coloque a forragem (folhas secas, serragem de madeira, podas de grama);</li>
+    <li>Acomode o vaso em um lugar com a iluminação adequada para o tipo de planta.</li>
+</div><br>
+	
+
 4- Escolhas entre sementes ou brotos.
 Para pessoas que estão iniciando nessa parte de plantação e que desejam ter resultados rápidos, é indução começar com brotos. Determinadas plantas têm essa opção, como alface, cebola e tomate.
 É necessário tomar cuidado ao plantar os brotos para que não machuquem as suas raízes. Para que isso não aconteça é legal que façam buracos grandes na terra para quando forem colocar os brotos e em seguida pressione um pouco o substrato que se encontra ao redor e por fim molhe com água.
