@@ -4,7 +4,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Começar uma Horta</title>
     <link rel="shortcut icon" type="imagex/png" href="fotos/Logo Tcc.png">
@@ -313,173 +313,119 @@
                <div class="horta-local">
                 <h3 id="casa">Casa</h3>
                 <p class="paragrafo-casa-apto">
-                       A <strong class="titHort">CASA</strong>
-			Como cultivar uma horta em casa?
-- Diretamente no solo; ideal para quem tem quintal espaçoso, neste modelo tradicional, as sementes ou mudos são postas diretamente no solo.
-- Vasos; os vasos são a escolha ideal para quem mora em casa ou apartamento, e possuem diversos tamanhos, materiais, formas e cores.
-- Embalagens recicladas; garrafas PET, latas de refrigerante ou alimentos, sacos de leite, garrafas de vidro. Barato, rápido e sustentável.
-- Vasos; vasos que proporcionam bom espaço são indicados para pequenas hortas com pouco espaço.
-- Caixas de madeira; caixas e paletes de madeira grandes e baratas podem ser boas escolhas.
-- Horta vertical; indicado para pessoas que moram em aposentos. Este modelo é composto por uma horta com área próxima ao muro. As hortas verticais podem ser postas com vasos, embalagens recicladas, construções de madeira e sapateiras.
- 
-Quais são as plantas que podem ser cultivadas em casa?
-Cereja – No vaso nesse caso, iremos focar no cultivo a partir de sementes de cereja, mesmo que seja um processo que nem sempre dá resultados. Para isso, você vai precisar de um vaso, sementes de cereja, cascalho (ou casca de pinus ou folhas secas mortas) e terra.
- 
-Pêssego - Fruta de clima temperado, o pêssego tem seu cultivo concentrado na região Sul do Brasil. Porém, graças às pesquisas realizadas nos últimos 50 anos, foram conquistadas melhorias genéticas agora desfrutadas por diversos agricultores de pessegueiros em locais com temperaturas mais elevadas.
- 
-Maçã ­- As maçãs preferem solos profundos, férteis e bem drenados e evitam solos úmidos. Uma mistura de areia e argila levemente ácida servirá muito bem. Para cultivar macieiras em recipientes, use uma mistura de solo rica em matéria orgânica com pH levemente ácido a neutro.
- 
-Pera - Antes de plantar, cave um buraco 20% maior que o vaso da planta. Use composto, fertilizante orgânico e um pouco de areia grossa ou pedra-pomes para ajudar na drenagem. Misture com o solo do jardim no fundo do buraco.
- 
-Limão – O primeiro passo, absolutamente essencial, começa ainda antes de plantar limão em casa. Confirme que as sementes são de qualidade! Opte idealmente por limões biológicos que estejam bem maduros pois este passo vai ser essencial para o sucesso da operação. Retire as sementes do limão maduro e deixe-as a secar à sombra de um dia para o outro.
- 
-Laranja - O solo utilizado no plantio da laranja deve ser profundo e permeável; nos primeiros dois anos de cultivo da árvore da fruta, aparecem brotações embaixo da copa que devem ser eliminadas manualmente assim que nascerem.
- 
-Hortaliças: 
- 
-• Abóbora 
- 
-As abóboras são ricas em vitaminas A e possuem variedade de tipos como a seca, japonesa e cabotiá. Elas precisam de abelhas para a polinização e algumas das variedades precisam de outras espécies. Elas se desenvolvem melhor com pouca exposição ao sol, mas não resiste a geadas. 
- 
-A época mais recomendada na região Sul é nos meses de outubro a fevereiro, no Sudeste de Setembro a março, no Nordeste de março a outubro, no Centro-oeste o ano todo e no Norte de abril a agosto. 
- 
-• Tomate 
- 
-O tomate é uma das frutas de maior consumo no mundo e fonte de vitamina A e C e de potássio. Os tomates precisam de uma boa adubação e são melhores desenvolvidas em regiões altas com incidência de luz solar. 
- 
-Nas regiões Nordeste, Sudeste e Centro-oeste, a época de plantio pode ser no ano todo, no Sul pode ser em setembro a fevereiro e no Norte de março a julho. Sua colheita é feita de 100 a 120 dias após a plantação. 
- 
-• Chuchu 
- 
-Os chuchus são ricos em fibras, vitaminas e potássio. Precisam de muita água e são produzidos em clima ameno (entre 15 a 25 graus). Temperaturas maiores que isso faz com que eles sofram doenças por fungos. 
- 
-A geminada dos maduros acontecem somente após 15 dias, mas só devem ser plantados quando o broto atingir 12cm. As sementes de chuchu devem ser acomodadas no sulco ou na cova, sem cobrir com terra para evitar o apodrecimento. 
- 
-As épocas mais indicadas para o plantio nas regiões Sul, Sudeste e Centro-oeste é entre os meses de setembro a outubro. No Norte, de abril a julho e no Nordeste, o ano todo.
- 
- 
-• Pimentão 
- 
-O pimentão é rico em vitamina C e A, e devem ser plantados inicialmente em bandejas e depois postas para um solo bem nutrido. Desenvolvem-se melhor em temperaturas elevadas. 
- 
-No Sul, as épocas recomendadas para plantio são de setembro a fevereiro. No Sudeste de agosto a março, de maio a setembro no Nordeste, de agosto a dezembro no Centro-oeste, e em abril a julho no Norte. 
- 
-Orégano 
- 
-É uma hortaliça que pode atingir de 20 a 80cm. Seu solo deve ser bem drenado e fértil, levemente úmido, portanto, irrigue com frequência. 
- 
-O orégano pode crescer em solos pobres e quanto ao pH, o mais recomendado é que esteja entre 6 e 8. O orégano se desenvolve em clima ameno ou quente, o ideal é entre 21 e 25°C, mas também pode ser cultivado na faixa de 4 a 32°C. Deve receber luz solar direta por algumas horas por dia 
- 
-Dica: Solo calcário faz com que a planta cresça melhor.
- 
-Para que você consiga fazer sua mini horta, é preciso analisar cuidadosamente o local que há disponível e que pretende usá-la. 
-Se você tiver acesso à um jardim, canteiro ou algo do tipo, poderá usá-lo para plantar suas hortaliças ou ervas e ter o melhor resultado para as suas refeições ou demais finalidades. 
- 
-Siga as dicas a seguir e saiba como fazer a sua mini horta. 
- 
-Defina o espaço mais adequado para sua mini horta 
- 
-Para o preparo de uma mini horta em casa, é preciso ter muitos cuidados, um deles é em relação a seu preparo. É preciso atender ao que as plantas gostam e precisam, por exemplo, ervas e hortaliças precisam de 5 a 6 horas de iluminação solar todos os dias. 
- 
-Sendo assim, é fundamental garantir que haja uma boa iluminação para que elas cresçam bonitas e saudáveis. 
- 
-Como preparar a terra para o plantio 
- 
-Feita a definição do local, chegou a hora de começar a preparação propriamente dita. 
- 
-Você irá precisar que a terra esteja pronta, para fornecer todos os nutrientes que as plantas necessitam. 
- 
-Utilize vara vegetal, que tenham húmus de minhocas ou adubo. Ambos são um dos principais responsáveis pela transmissão dos nutrientes. 
- 
-Procure revolver a terra, para deixar todos os componentes bem misturados. 
- 
-Germinando suas sementes para o plantio 
- 
-Podemos usar muitos recursos para que seja possível germinar suas sementes. Alguns deles são; 
- 
-• vasos pequenos; 
- 
-• sementeiras; 
- 
-• potes de iogurte; 
- 
-• caixas de ovos. 
- 
-É importante que os recipientes tenham furos na parte inferior, para permitir que a água escoe e não se acumule. 
- 
-Na lista abaixo, trazemos o passo a passo para fazer essa tarefa. 
- 
-• coloque a terra preparada nos recipientes separados para essa função; 
- 
-• utilize um pulverizador para que faça a umidificação da terra; 
- 
-• faça quatro furinhos e coloque neles suas sementes; 
- 
-• cubra os furinhos com a mesma terra e utilize novamente o pulverizador para sua umidificação 
- 
-• depois de germinada, transfira para sua mini horta, sempre lembrando de deixar um espaço entre cada uma delas, permitindo um bom crescimento. 
- 
-Processo de umidificação 
- 
-As minis hortas gostam muito de iluminação solar. Para equilibrar o calor, deve ser realizada a umidificação delas pelo menos uma vez ao dia. 
- 
-Se o clima estiver muito quente, o recomendado é que elas sejam regadas duas vezes, de manhã e pela tarde. Apostar nos vasos auto irrigáveis é uma boa alternativa. Esses vasos são capazes de medir e distribuir a quantidade de água que a planta precisa por dia. 
- 
-Kit de jardinagem 
- 
-Uma saudável e linda horta necessita de bons equipamentos. Veja alguns dos utensílios que precisa ser adquirido para realizar os devidos cuidados. 
- 
-• regador; 
- 
-• pás: caso seja uma mini horta, as pequenas são suficientes. Se o canteiro for grande, opte por uma enxada; 
- 
-• ancinho; 
- 
-• tesoura para poda; 
- 
-• faca colheitadeira. 
- 
-Mão na massa 
- 
-Aprendemos a regar, germinar, preparar a terra e conhecemos os materiais. Chegou a hora de trabalhar! 
- 
-Escolha a erva ou hortaliça aquela que são mais práticas e necessárias para o seu cotidiano, podendo crescer em locais pequenos. 
- 
-Algumas delas são: 
- 
-• alecrim; 
-Não deve ser plantado em temperaturas extremas, mas o plantio pode ser feito em temperaturas variasas. Evite excesso de umidade, pois o alecrim pode ter dificuldades em seu desenvolvimento em regiões de chuva.
-Após 90 dias de plantio, o alecrim está pronto para ser colhido. Porem, o ideal é qu se espere de dois a três anos de cultivo.
+                       A <strong class="titHort">CASA</strong>           
+                </p>
+                <p>
 
-• alface; 
-No Verão, após 60 dias de semeadura, a colheita pode ser realizada e no inverno,se estende em torno de 80 a 90 dias. Suas folhas devem ser eliminadas e a planta deve estar bem rente ao solo, ou podendo ser arrancada com raiz.
-Precisa de pelo menos 4 horas direto por dia.
-
-• alfazema; 
-Podendo ser plantada em locais de alta temperatura, a alfazema se faz resistente e passam por geadas. Isso faz com que ela seja plantada em muitos locais.
-
-Para a geminação, leva-se de 15 a 30 dias. Você pode colher durante o ano o todo, sempre cortando as pontas dos galhos.
-
-• cebolinha-verde; 
-Após o plantio, a colheita de cebolinha-verde pode ser feita depois 90 ou 120 dias dependendo das condições.
-
-Precisa de luz solar direta por algumas horas por dia. Elas crescem melhor em temperaturas variadas entre 13°C a 24°C. Podem suportar temperaturas altas e baixas, porem em climas quentes nao produzem flores.
-
-• hortelã; 
-Em climas quentes e úmidos, a hortelã pode crescer em menos tempo e com folhas vistosas. Podem ser plantadas o ano todo, pois tolera bem ao calor e ao frio.
-
-Elas ser colhidas após 20 dias e podem ficar anos produzindo sem parar.
-• manjericão; 
-
-• salsa; 
-Podendo alcançar de 12 a 16 cm de altura, o plantio da salsa pode durar de 60 a 90 dias. Atingindo esses requisitos, ela está pronta para colheita e consumo.
-
-A salsa gosta de lugares ilumiados, o mais adequado é coloca-la ao sol. Ela tem um bom crescimento em regiões de clima temperado, onde a temperatura prevalece na faixa de 10°C e 24°C.
-
-
-É possível também plantar alguns legumes, como cenouras, ou frutas, como o tomate, mas um espaço mais amplo será necessário. 
+                <h3> <ul>Como cultivar uma horta em casa?</h3> </ul>
+<p>- Diretamente no solo; ideal para quem tem quintal espaçoso, neste modelo tradicional, as sementes ou mudos são postas diretamente no solo.</p>
+<p>- Vasos; os vasos são a escolha ideal para quem mora em casa ou apartamento, e possuem diversos tamanhos, materiais, formas e cores.</p>
+<p>- Embalagens recicladas; garrafas PET, latas de refrigerante ou alimentos, sacos de leite, garrafas de vidro. Barato, rápido e sustentável.</p>
+<p>- Vasos; vasos que proporcionam bom espaço são indicados para pequenas hortas com pouco espaço.</p>
+<p>- Caixas de madeira; caixas e paletes de madeira grandes e baratas podem ser boas escolhas.</p>
+<p>- Horta vertical; indicado para pessoas que moram em aposentos. Este modelo é composto por uma horta com área próxima ao muro. As hortas verticais podem ser postas com vasos, embalagens recicladas, construções de madeira e sapateiras.</p>
  
-Porém, comece com as ervas até que consiga mais experiência e, com o passar do tempo, vá aumentando a variedade.
+                <h3><ul>Quais são as plantas que podem ser cultivadas em casa?</h3></ul>
+                <h3>Frutas:</h3><br>
+                <h3>Cereja</h3>
+<p>– No vaso nesse caso, iremos focar no cultivo a partir de sementes de cereja, mesmo que seja um processo que nem sempre dá resultados. Para isso, você vai precisar de um vaso, sementes de cereja, cascalho (ou casca de pinus ou folhas secas mortas) e terra.</ul></p>
+ 
+                <h3>Pêssego</h3>
+<p>- Fruta de clima temperado, o pêssego tem seu cultivo concentrado na região Sul do Brasil. Porém, graças às pesquisas realizadas nos últimos 50 anos, foram conquistadas melhorias genéticas agora desfrutadas por diversos agricultores de pessegueiros em locais com temperaturas mais elevadas.</p>
+ 
+                <h3>Maçã</h3>
+<p>­- As maçãs preferem solos profundos, férteis e bem drenados e evitam solos úmidos. Uma mistura de areia e argila levemente ácida servirá muito bem. Para cultivar macieiras em recipientes, use uma mistura de solo rica em matéria orgânica com pH levemente ácido a neutro.</p>
+ 
+                <h3>Pera</h3>
+<p>- Antes de plantar, cave um buraco 20% maior que o vaso da planta. Use composto, fertilizante orgânico e um pouco de areia grossa ou pedra-pomes para ajudar na drenagem. Misture com o solo do jardim no fundo do buraco.</p>
+ 
+                <h3>Limão</h3>
+<p> – O primeiro passo, absolutamente essencial, começa ainda antes de plantar limão em casa. Confirme que as sementes são de qualidade! Opte idealmente por limões biológicos que estejam bem maduros pois este passo vai ser essencial para o sucesso da operação. Retire as sementes do limão maduro e deixe-as a secar à sombra de um dia para o outro.</p>
+ 
+                <h3>Laranja</h3> 
+<p>- O solo utilizado no plantio da laranja deve ser profundo e permeável; nos primeiros dois anos de cultivo da árvore da fruta, aparecem brotações embaixo da copa que devem ser eliminadas manualmente assim que nascerem.</p>
+    <br><h3><ul>Hortaliças:</h3></ul> <br>
+                <h3>• Abóbora </h3>
+<p>As abóboras são ricas em vitaminas A e possuem variedade de tipos como a seca, japonesa e cabotiá. Elas precisam de abelhas para a polinização e algumas das variedades precisam de outras espécies. Elas se desenvolvem melhor com pouca exposição ao sol, mas não resiste a geadas. </p>
+<p>A época mais recomendada na região Sul é nos meses de outubro a fevereiro, no Sudeste de Setembro a março, no Nordeste de março a outubro, no Centro-oeste o ano todo e no Norte de abril a agosto.</p> 
+                <h3>• Tomate </h3>
+<p>O tomate é uma das frutas de maior consumo no mundo e fonte de vitamina A e C e de potássio. Os tomates precisam de uma boa adubação e são melhores desenvolvidas em regiões altas com incidência de luz solar. </p>
+<p>Nas regiões Nordeste, Sudeste e Centro-oeste, a época de plantio pode ser no ano todo, no Sul pode ser em setembro a fevereiro e no Norte de março a julho. Sua colheita é feita de 100 a 120 dias após a plantação. </p>
+                <h3>• Chuchu </h3>
+<p>Os chuchus são ricos em fibras, vitaminas e potássio. Precisam de muita água e são produzidos em clima ameno (entre 15 a 25 graus). Temperaturas maiores que isso faz com que eles sofram doenças por fungos. </p>
+<p>A geminada dos maduros acontecem somente após 15 dias, mas só devem ser plantados quando o broto atingir 12cm. As sementes de chuchu devem ser acomodadas no sulco ou na cova, sem cobrir com terra para evitar o apodrecimento. </p>
+<p>As épocas mais indicadas para o plantio nas regiões Sul, Sudeste e Centro-oeste é entre os meses de setembro a outubro. No Norte, de abril a julho e no Nordeste, o ano todo.</p>
+                <h3>• Pimentão </h3>
+<p>O pimentão é rico em vitamina C e A, e devem ser plantados inicialmente em bandejas e depois postas para um solo bem nutrido. Desenvolvem-se melhor em temperaturas elevadas. </p>
+<p>No Sul, as épocas recomendadas para plantio são de setembro a fevereiro. No Sudeste de agosto a março, de maio a setembro no Nordeste, de agosto a dezembro no Centro-oeste, e em abril a julho no Norte. </p>
+                <h3>• Orégano </h3>
+<p>É uma hortaliça que pode atingir de 20 a 80cm. Seu solo deve ser bem drenado e fértil, levemente úmido, portanto, irrigue com frequência.</p> 
+<p>O orégano pode crescer em solos pobres e quanto ao pH, o mais recomendado é que esteja entre 6 e 8. O orégano se desenvolve em clima ameno ou quente, o ideal é entre 21 e 25°C, mas também pode ser cultivado na faixa de 4 a 32°C. Deve receber luz solar direta por algumas horas por dia. </p>
+<p>Dica: Solo calcário faz com que a planta cresça melhor.</p><br>
+
+                <h3>Para que você consiga fazer sua mini horta, é preciso analisar cuidadosamente o local que há disponível e que pretende usá-la. </h3>
+<p>Se você tiver acesso à um jardim, canteiro ou algo do tipo, poderá usá-lo para plantar suas hortaliças ou ervas e ter o melhor resultado para as suas refeições ou demais finalidades. </p>
+<p>Siga as dicas a seguir e saiba como fazer a sua mini horta. <p><br>
+
+                <h3>Defina o espaço mais adequado para sua mini horta </h3>
+<p>Para o preparo de uma mini horta em casa, é preciso ter muitos cuidados, um deles é em relação a seu preparo. É preciso atender ao que as plantas gostam e precisam, por exemplo, ervas e hortaliças precisam de 5 a 6 horas de iluminação solar todos os dias. </p>
+<p>Sendo assim, é fundamental garantir que haja uma boa iluminação para que elas cresçam bonitas e saudáveis. </p><br>
+                <h3>Como preparar a terra para o plantio.</h3>
+<p>Feita a definição do local, chegou a hora de começar a preparação propriamente dita. </p>
+<p>Você irá precisar que a terra esteja pronta, para fornecer todos os nutrientes que as plantas necessitam. </p>
+<p>Utilize vara vegetal, que tenham húmus de minhocas ou adubo. Ambos são um dos principais responsáveis pela transmissão dos nutrientes. </p>
+<p>Procure revolver a terra, para deixar todos os componentes bem misturados. </p><br>
+                <h3>Germinando suas sementes para o plantio </h3>
+<p>Podemos usar muitos recursos para que seja possível germinar suas sementes. Alguns deles são; </p>
+<p>• vasos pequenos; </p>
+<p>• sementeiras; </p>
+<p>• potes de iogurte; </p>
+<p>• caixas de ovos. </p>
+<p>É importante que os recipientes tenham furos na parte inferior, para permitir que a água escoe e não se acumule. </p><br>
+                <h3>Na lista abaixo, trazemos o passo a passo para fazer essa tarefa. </h3>
+<p>• coloque a terra preparada nos recipientes separados para essa função;</p> 
+<p>• utilize um pulverizador para que faça a umidificação da terra; </p>
+<p>• faça quatro furinhos e coloque neles suas sementes; </p>
+<p>• cubra os furinhos com a mesma terra e utilize novamente o pulverizador para sua umidificação </p>
+<p>• depois de germinada, transfira para sua mini horta, sempre lembrando de deixar um espaço entre cada uma delas, permitindo um bom crescimento. </p><br>
+
+                <h3>Processo de umidificação </h3>
+<p>As minis hortas gostam muito de iluminação solar. Para equilibrar o calor, deve ser realizada a umidificação delas pelo menos uma vez ao dia. </p>
+<p>Se o clima estiver muito quente, o recomendado é que elas sejam regadas duas vezes, de manhã e pela tarde. Apostar nos vasos auto irrigáveis é uma boa alternativa. Esses vasos são capazes de medir e distribuir a quantidade de água que a planta precisa por dia. </p><br>
+                <h3>Kit de jardinagem </h3>
+<p>Uma saudável e linda horta necessita de bons equipamentos. Veja alguns dos utensílios que precisa ser adquirido para realizar os devidos cuidados.</p> 
+<p>• regador; </p>
+<p>• pás: caso seja uma mini horta, as pequenas são suficientes. Se o canteiro for grande, opte por uma enxada; </p>
+<p>• ancinho; </p>
+<p>• tesoura para podar; </p>
+<p>• faca colheitadeira. </p><br>
+                <h3>Mão na massa</h3> 
+<p>Aprendemos a regar, germinar, preparar a terra e conhecemos os materiais. Chegou a hora de trabalhar! </p>
+<p>Escolha a erva ou hortaliça aquela que são mais práticas e necessárias para o seu cotidiano, podendo crescer em locais pequenos. Algumas delas são:</p> <br>
+                <h3>• alecrim; </h3>
+<p>Não deve ser plantado em temperaturas extremas, mas o plantio pode ser feito em temperaturas variasas. Evite excesso de umidade, pois o alecrim pode ter dificuldades em seu desenvolvimento em regiões de chuva.</p>
+<p>Após 90 dias de plantio, o alecrim está pronto para ser colhido. Porem, o ideal é qu se espere de dois a três anos de cultivo.</p><br>
+
+                <h3>• alface; </h3>
+<p>No Verão, após 60 dias de semeadura, a colheita pode ser realizada e no inverno,se estende em torno de 80 a 90 dias. Suas folhas devem ser eliminadas e a planta deve estar bem rente ao solo, ou podendo ser arrancada com raiz. Precisa de pelo menos 4 horas direto por dia.</p><br>
+               <h3>• alfazema; </h3>
+<p>Podendo ser plantada em locais de alta temperatura, a alfazema se faz resistente e passam por geadas. Isso faz com que ela seja plantada em muitos locais.</p>
+<p>Para a geminação, leva-se de 15 a 30 dias. Você pode colher durante o ano o todo, sempre cortando as pontas dos galhos.</p><br>
+
+                <h3>• cebolinha-verde; </h3>
+<p>Após o plantio, a colheita de cebolinha-verde pode ser feita depois 90 ou 120 dias dependendo das condições.</p>
+<p>Precisa de luz solar direta por algumas horas por dia. Elas crescem melhor em temperaturas variadas entre 13°C a 24°C. Podem suportar temperaturas altas e baixas, porem em climas quentes nao produzem flores.</p><br>
+
+                <h3>• hortelã; </h3>
+<p>Em climas quentes e úmidos, a hortelã pode crescer em menos tempo e com folhas vistosas. Podem ser plantadas o ano todo, pois tolera bem ao calor e ao frio.</p>
+<p>Elas ser colhidas após 20 dias e podem ficar anos produzindo sem parar.</p><br>
+
+                <h3>• salsa; </h3>
+<p>Podendo alcançar de 12 a 16 cm de altura, o plantio da salsa pode durar de 60 a 90 dias. Atingindo esses requisitos, ela está pronta para colheita e consumo.</p>
+<p>A salsa gosta de lugares ilumiados, o mais adequado é coloca-la ao sol. Ela tem um bom crescimento em regiões de clima temperado, onde a temperatura prevalece na faixa de 10°C e 24°C.</p>
+<p>É possível também plantar alguns legumes, como cenouras, ou frutas, como o tomate, mas um espaço mais amplo será necessário. </p>
+<p>Porém, comece com as ervas até que consiga mais experiência e, com o passar do tempo, vá aumentando a variedade.</p>
+
                 </p>
 
                 <h3 id="apto">Apartamento</h3>
@@ -547,49 +493,58 @@ Outra consideração importante é a profundidade do vaso para permitir que as r
 </div><br>
 	
 
-<ol><p>4- Escolhas entre sementes ou brotos.</p></ol>
-
+4- Escolhas entre sementes ou brotos.
 Para pessoas que estão iniciando nessa parte de plantação e que desejam ter resultados rápidos, é indução começar com brotos. Determinadas plantas têm essa opção, como alface, cebola e tomate.
 É necessário tomar cuidado ao plantar os brotos para que não machuquem as suas raízes. Para que isso não aconteça é legal que façam buracos grandes na terra para quando forem colocar os brotos e em seguida pressione um pouco o substrato que se encontra ao redor e por fim molhe com água.
-<ol><p>5- Preste bem atenção na quantidade de água.</p></ol>
+<br><br>
+5- Preste bem atenção na quantidade de água.
 É necessário verificar a quantidade de água de cada planta, pois nem todas contam com o mesmo tipo de regras. Tem algumas que precisam que as raízes sejam molhadas e outras não. 
 É legal verificar a região do país em que você mora e as estações do ano, pois temos plantas que precisam de mais ou menos água e dependem da temperatura do ambiente e do nível de umidade. 
-É recomendado regar sempre seu plantio durante a manhã ou no final de tarde, pois é dessa forma a água não irá evaporar durante o calor do dia.</li>
-<ol><p>6- Adubação</p></ol>
+É recomendado regar sempre seu plantio durante a manhã ou no final de tarde, pois é dessa forma a água não irá evaporar durante o calor do dia.
+<br><br>
+6- Adubação
 As plantas precisam extrair do solo os nutrientes que a ajudam a crescer. Dessa forma à medida que são colhidas, elas precisam de mais nutrientes para crescerem novamente. 
-Esse é um ciclo continuo fazendo com que o solo empobreça, consequentemente, os nutrientes dos vegetais também. E assim a adubação se torna importante, já que pra fornece os nutrientes para as plantas em vasos. </li>
-<ol><p>Quais são as plantas que podem ser cultivadas em apartamento?</p></ol>
-<ol><p>Frutos</p></ol>
-<div class="">
+Esse é um ciclo continuo fazendo com que o solo empobreça, consequentemente, os nutrientes dos vegetais também. E assim a adubação se torna importante, já que pra fornece os nutrientes para as plantas em vasos.
+<br><br>
+Quais são as plantas que podem ser cultivadas em apartamento?
+<br><br>
+Frutos
+<br><br>
 •	Morango
-O vaso de morango pode ter por volta de 20 ou 30 centímetros, e a planta não fica muito alta, é necessário usar terra de qualidade. A colheita pode ocorrer o ano todo, porém, é mais comum entre os meses de maio e outubro. </div> <br>
-<div class = ""> •	Amora
+O vaso de morango pode ter por volta de 20 ou 30 centímetros, e a planta não fica muito alta, é necessário usar terra de qualidade. A colheita pode ocorrer o ano todo, porém, é mais comum entre os meses de maio e outubro. 
+<br><br>
+•	Amora
  É uma fruta que tem boa adaptação e que cresce de maneira semelhante ao morango.
 A colheita da amora começa em outubro e vai até dezembro. Para colher, é preciso ter delicadeza.
-Essa e outras podem ser plantadas em vasos e tem que ficar atento ao crescimento e questão da altura, pois temos alguns frutíferos que podem crescer até 2 metros e temos os frutíferos rasteiros como o morango. Basta ficar atento na hora de escolher o tipo de frutíferos. </div><br><br>
-<div class= "">Temperos
-<div class ="">Manjericão
-Para ser cultivado o manjericão, é preciso de um local com bastante exposição solar. Lembrar de deixa tomar luz pelos menos 3 horas por dia, não se esquecer de regar diariamente. O manjericão precisa de bastante água só é preciso ficar atento e tomar cuidado para não deixa o solo encharcado.</div><br><br>
-<div class= "">•	Salsinha
-Salsa é uma planta bem delicada. Deve ser colocado em local com sombra, assim podendo receber luminosidade, só não pode ficar sempre exposto em luz solar. O solo deve estar sempre úmido mas sem encharcar, e devido às duas raízes profundas é bom deixá-la sozinha em um vaso.</div> <br><br>
-<div class="">•	Coentro
-As folhas de coentro são semelhantes à salsa, mas têm um sabor diferente e distinto. O coentro gosta de climas quentes e luz solar direta. Ao plantar, é importante manter o solo úmido; mas, uma vez bem desenvolvido, reduza a frequência e a quantidade de regas.</div> <br><br>
+Essa e outras podem ser plantadas em vasos e tem que ficar atento ao crescimento e questão da altura, pois temos alguns frutíferos que podem crescer até 2 metros e temos os frutíferos rasteiros como o morango. Basta ficar atento na hora de escolher o tipo de frutíferos.
+Temperos
+<br><br>
+•	Manjericão
+Para ser cultivado o manjericão, é preciso de um local com bastante exposição solar. Lembrar de deixa tomar luz pelos menos 3 horas por dia, não se esquecer de regar diariamente. O manjericão precisa de bastante água só é preciso ficar atento e tomar cuidado para não deixa o solo encharcado.
+<br><br>
+•	Salsinha
+Salsa é uma planta bem delicada. Deve ser colocado em local com sombra, assim podendo receber luminosidade, só não pode ficar sempre exposto em luz solar. O solo deve estar sempre úmido mas sem encharcar, e devido às duas raízes profundas é bom deixá-la sozinha em um vaso.
+<br><br>
+•	Coentro
+As folhas de coentro são semelhantes à salsa, mas têm um sabor diferente e distinto. O coentro gosta de climas quentes e luz solar direta. Ao plantar, é importante manter o solo úmido; mas, uma vez bem desenvolvido, reduza a frequência e a quantidade de regas.
 
 
-<div class="">•	Pimenta
+<br><br>
+•	Pimenta
 Dedo-de-moça, biquinho e tabasco são as mais indicadas para se cultivar em hortas pequenas.
-DICA: Temperos são os mais fáceis de cultivar, pois não precisam ser replantados, basta colher as folhas do pé.</div><br><br>
-<ol><p>Hortaliças</p></ol>
-<div class="">•	Alface
+DICA: Temperos são os mais fáceis de cultivar, pois não precisam ser replantados, basta colher as folhas do pé.
+Hortaliças
+<br><br>
+•	Alface
 É uma planta anual, portanto pode ser plantado o ano todo, existindo variedades específicas para climas temperados e subtropicais, quanto para clima mais ameno.
 A recomendação é escolher os solos de textura média, com aspecto fofo, de baixa acidez e elevado teor de matéria orgânica. Leve em consideração o fácil acesso de água para irrigações.
 De ciclo curto, no verão, a colheita ocorre em períodos de 60 a 70 dias depois do início do cultivo e, no inverno, se estende em torno de 80 a 90 dias.
-Cultivada em vaso e até em caixotes desde que estes tenham no mínimo 25 cm a 30 cm de profundidade.</div><br><br>
-<div class ="">•	Couve-manteiga
+Cultivada em vaso e até em caixotes desde que estes tenham no mínimo 25 cm a 30 cm de profundidade.
+<br><br>
+•	Couve-manteiga
 A couve-manteiga deve ser plantada em vasos com, pelo menos, 25 centímetros de diâmetro e de altura. Este tamanho permite que a planta cresça melhor, visto que suas folhas crescem até um metro.
 No caso de deficiência de nutrientes, aposte na adubação orgânica frequente. Mas, se o problema for calor excessivo, mude o vaso de lugar. Durante os períodos mais quentes do dia, mantenha a planta sob a sombra.
 Se o problema for excesso de rega, a couve não conseguirá se desenvolver, por isso o melhor é recomeçar o plantio.
-</div><br><br>
 
 
 
