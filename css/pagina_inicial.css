@@ -297,18 +297,21 @@ ul.CTAs a {
 
 
 #myFooter {
-    background-color: #3c3d41;
-    color: white;
+    background-color: #997e6a;
+    color: rgba(255, 255, 255, 0.445);
     padding-top: 5px;
     text-align: center;
+    font-style: italic;
+    
 }
 
 #myFooter .footer-copyright {
-    background-color: #333333;
+    background-color: #997e6a;
     padding-top: 3px;
     padding-bottom: 3px;
     text-align: center;
 }
+
 
 #myFooter .row {
     margin-bottom: 20px;
@@ -322,9 +325,8 @@ ul.CTAs a {
 
 #myFooter .footer-copyright p {
     margin: 10px;
-    color: #ccc;
+    color: rgba(204, 204, 204, 0.534);
 }
-
 #myFooter ul {
     list-style-type: none;
     padding-left: 0;
@@ -333,7 +335,7 @@ ul.CTAs a {
 
 #myFooter h5 {
     font-size: 18px;
-    color: white;
+    color: rgba(255, 255, 255, 0.568);
     font-weight: bold;
     margin-top: 30px;
 }
