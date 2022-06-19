@@ -425,113 +425,115 @@
 
                 <h3 id="apto">Apartamento</h3>
                 <p class="paragrafo-casa-apto">
-                      O <strong class="titHort">Apartamento</strong>           
+                                           O <strong class="titHort">Apartamento</strong>           
                 </p>
                                 <p>
 
                   <h3> <ul>Como cultivar uma horta em seu apartamento?</ul> </h3>
                   <p>Já pensou em fazer sua própria horta em um espaço que está vazio em seu apartamento? Aqui iremos trazer algumas dicas sobre espaços para pode montar sua horta, dica de vasos e também do que plantar em sua horta e como cuidar dela.
-</p>
+</p><br>
                   
-                  <p>
-                  1- Busque locais que batem raios de sol.
-Para que sua horta dê certo, é preciso colocar suas plantações em um local do seu apartamento em que bata sol pelo menos 4 horas por dia, escolha lugares como varanda ou próximo de janelas, pois os vegetais plantados necessitam dessa quantidade de tempo sob exposição à luz do sol para ajudar no crescimento.
-                  </p>
+                  <h3>  1- Busque locais que batem raios de sol.</h3>
+                    <p>Para que sua horta dê certo, é preciso colocar suas plantações em um local do seu apartamento em que bata sol pelo menos 4 horas por dia, escolha lugares como varanda ou próximo de janelas, pois os vegetais plantados necessitam dessa quantidade de tempo sob exposição à luz do sol para ajudar no crescimento.</p>
                   <div class="foto_informacoes">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLyHMGKQKG80NQWbuxR6POW38m5heGBDhbXNeu2v8x2IG-tBprnVjNufvlCpHXI5uFV11lKEPGacK5hop2K9R_gdo2GaWK0uezUJb51CyR5aNTN-FCemwKEUz2Dxvx6u_W-Fh2A7yc1OXm_DVHVEd_ncXONWVCdvrXuvPoXnfo_KhcNnfVCwnX34Q3w/s320/sol.png" alt="Imagem Sol" height="5%" width="10%" align="left">  <br>
                   </div><br><br><br>
                   
-  <p>
-                  2- Escolha dos vasos.
-Cultivar uma horta em vasos é uma tendência no apartamento. Neste caso, é aconselhável escolher vasos furados para que a água irrigada possa escoar.
-Outra consideração importante é a profundidade do vaso para permitir que as raízes cresçam, normalmente vasos de 7 a 15 cm de profundidade podem acomodar a maioria das ervas ou temperos.
-  
-                </p>
+  <h3>2- Escolha dos vasos.</h3>
+<p>Cultivar uma horta em vasos é uma tendência no apartamento. Neste caso, é aconselhável escolher vasos furados para que a água irrigada possa escoar.</p>
+<p>Outra consideração importante é a profundidade do vaso para permitir que as raízes cresçam, normalmente vasos de 7 a 15 cm de profundidade podem acomodar a maioria das ervas ou temperos.</p>
                   <div class="foto_informacoes">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgB_kmL-gLikEbSgjPR4GzIWE9KeTrNfpigi0cJ3iFzrVXE56-3Dt3G2vEPWfzgQ9wwR_ItoFyRyI-VxhsVye7PbOj1ilu7jvQ92xKiLwPkVuGgCGZZByu0G7RbbG3a4_WE92oRCHqcSmXvLCh7AC-v5t4YwsGm86WTRDm9T4SPG46ytiPtZ_Th7iWjQ/s320/vasos.png" height="5%" width="10%" align="left">  <br>
                   </div>  </div><br><br><br>
      
-  <p>
-                  3- Escolha das terras.
-É preciso escolher uma terra com base na qualidade do que você quer comer, a plantas necessariamente precisam de uma base rica em nutrientes (nitrôgenio, oxigênio, fósforo, entre outros) para que cresçam bem. Neste sentido a terra deve ter um aspecto de esponja para ajudar na entrada de oxigênio e para manter uma boa umidade.
-  
-                </p>
+  <h3>3- Escolha das terras.</h3>
+<p>É preciso escolher uma terra com base na qualidade do que você quer comer, a plantas necessariamente precisam de uma base rica em nutrientes (nitrôgenio, oxigênio, fósforo, entre outros) para que cresçam bem. Neste sentido a terra deve ter um aspecto de esponja para ajudar na entrada de oxigênio e para manter uma boa umidade.</p>
                   <div class="foto_informacoes">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6JNEgeBxIvs4NrGzw_chyCpq6MS9_oUdrirGzYRJHSiPES63ONFoBt016bfzPire_JhYmbX0ySS80Lt41yWtUfL_R9anvdoEaN1EiO3zScBcUAnURhQm1FtFvdT-1rXqivwwMrFsXIBzvAqjb3o4uFBQsH9VxuJZ_VvX285O2xZyduCwKSTXOOyAWHg/s320/adubo.png" height="5%" width="10%" align="left">  <br>
                   </div>  </div><br><br><br>
+<ol>
+                  <h3><ul>Vamos por a mão na massa?</h3> </ul><br>
+    <h3>1° Passo: preparação das terras</h3><br>
+        <h3>Areia:</h3>
+    <p>Necessária para drenar a água e ajudar na fixação das raízes;</p><br>
+        <h3>Terra comum e terra vegetal:</h3>
+    <p>Importante para garantir a umidade necessária à planta além de fornecer as substâncias nutritivas básicas para o crescimento da planta;</p><br>
+       <h3>Adubo orgânico (compostagem, húmus de minhocas, estercos, etc):</h3>
+    <p>Auxilia com os nutrientes necessários para o crescimento saudável da planta junto à terra;</p><br>
+        <h3>Brita ou argila expandida:</h3>
+    <p>Para forrar o fundo do vaso;</p><br>
+        <h3>Cobertura morta (folhas secas, serragem de madeira, grama cortada):</h3>
+    <p>Forma uma proteção que preserva a umidade do solo e reduz a ação de fungos, crescimento de plantas daninhas e a proliferação de insetos;</p><br>
+        <h3>Vaso:</h3>
+    <p>Escolha o tamanho ideal, com furos no fundo como uma forma de escape da água;</p> <br>
+        <h3>Pedaço de manta bidin ou tecido de algodão:</h3>
+    <p>Para reter a umidade do substrato do vaso.</p><br>
 
-
-                  <h3> <ul>Vamos por a mão na massa?</ul> </h3>
-
-<ol>Preparação das terras
-<p>1º Passo</p>
-</ol>
-<div class="lista-acoes">
-    <li>Areia: necessária para drenar a água e ajudar na fixação das raízes;</li>
-    <li>Terra comum e terra vegetal: importante para garantir a umidade necessária à planta além de fornecer as substâncias nutritivas básicas para o crescimento da planta;</li>
-    <li>Adubo orgânico (compostagem, húmus de minhocas, estercos, etc): auxilia com os nutrientes necessários para o crescimento saudável da planta junto à terra;</li>
-    <li>Brita ou argila expandida: para forrar o fundo do vaso;</li>
-    <li>Cobertura morta (folhas secas, serragem de madeira, grama cortada): forma uma proteção que preserva a umidade do solo e reduz a ação de fungos, crescimento de plantas daninhas e a proliferação de insetos;</li>
-    <li>Vaso: escolha o tamanho ideal, com furos no fundo como uma forma de escape da água;</li> 
-    <li>Pedaço de manta bidin ou tecido de algodão: para reter a umidade do substrato do vaso.</li>
-</div>
-
-<ol><p>2-Passo</p></ol>
-<div class="lista-acoes">
-    <li>Coloque a brita ou argila expandida no fundo do vaso;</li>
-    <li>Cubra com o retalho de tecido de algodão ou manta bidin;</li>
-    <li>Coloque no vaso a maior parte do solo (mistura de areia, terra e adubo orgânico), sem compactá-lo. Misture a areia e os 2 tipos de terra, na proporção 1:1:1;</li>
-    <li>Plante as mudas ou as sementes, conforme as instruções do fornecedor;</li>
-    <li>Acrescente a parte restante do solo; deixando a camada fofa;</li>
-    <li>Regue e coloque a forragem (folhas secas, serragem de madeira, podas de grama);</li>
-    <li>Acomode o vaso em um lugar com a iluminação adequada para o tipo de planta.</li>
-</div><br>
+    <h3>2° Passo: como fazer?</h3><br>
+    <p>1 - Coloque a brita ou argila expandida no fundo do vaso;</p>
+    <p>2 - Cubra com o retalho de tecido de algodão ou manta bidin;</p>
+    <p>3 - Coloque no vaso a maior parte do solo (mistura de areia, terra e adubo orgânico), sem compactá-lo. Misture a areia e os 2 tipos de terra, na proporção 1:1:1;</p>
+    <p>4 - Plante as mudas ou as sementes, conforme as instruções do fornecedor;</p>
+    <p>5 - Acrescente a parte restante do solo; deixando a camada fofa;</p>
+    <p>6 - Regue e coloque a forragem (folhas secas, serragem de madeira, podas de grama);</p>
+    <p>7 - Acomode o vaso em um lugar com a iluminação adequada para o tipo de planta.</p><br>
 	
 
-<ol><p>4- Escolhas entre sementes ou brotos.</p></ol>
+    <h3>4 - Escolhas entre sementes ou brotos.</h3>
+<p>Para pessoas que estão iniciando nessa parte de plantação e que desejam ter resultados rápidos, é indução começar com brotos. Determinadas plantas têm essa opção, como alface, cebola e tomate.</p>
+<p>É necessário tomar cuidado ao plantar os brotos para que não machuquem as suas raízes. Para que isso não aconteça é legal que façam buracos grandes na terra para quando forem colocar os brotos e em seguida pressione um pouco o substrato que se encontra ao redor e por fim molhe com água.</P>
+<br>
 
-Para pessoas que estão iniciando nessa parte de plantação e que desejam ter resultados rápidos, é indução começar com brotos. Determinadas plantas têm essa opção, como alface, cebola e tomate.
-É necessário tomar cuidado ao plantar os brotos para que não machuquem as suas raízes. Para que isso não aconteça é legal que façam buracos grandes na terra para quando forem colocar os brotos e em seguida pressione um pouco o substrato que se encontra ao redor e por fim molhe com água.
-<ol><p>5- Preste bem atenção na quantidade de água.</p></ol>
-É necessário verificar a quantidade de água de cada planta, pois nem todas contam com o mesmo tipo de regras. Tem algumas que precisam que as raízes sejam molhadas e outras não. 
-É legal verificar a região do país em que você mora e as estações do ano, pois temos plantas que precisam de mais ou menos água e dependem da temperatura do ambiente e do nível de umidade. 
-É recomendado regar sempre seu plantio durante a manhã ou no final de tarde, pois é dessa forma a água não irá evaporar durante o calor do dia.</li>
-<ol><p>6- Adubação</p></ol>
-As plantas precisam extrair do solo os nutrientes que a ajudam a crescer. Dessa forma à medida que são colhidas, elas precisam de mais nutrientes para crescerem novamente. 
-Esse é um ciclo continuo fazendo com que o solo empobreça, consequentemente, os nutrientes dos vegetais também. E assim a adubação se torna importante, já que pra fornece os nutrientes para as plantas em vasos. </li>
-<ol><p>Quais são as plantas que podem ser cultivadas em apartamento?</p></ol>
-<ol><p>Frutos</p></ol>
-<div class="">
-•	Morango
-O vaso de morango pode ter por volta de 20 ou 30 centímetros, e a planta não fica muito alta, é necessário usar terra de qualidade. A colheita pode ocorrer o ano todo, porém, é mais comum entre os meses de maio e outubro. </div> <br>
-<div class = ""> •	Amora
- É uma fruta que tem boa adaptação e que cresce de maneira semelhante ao morango.
-A colheita da amora começa em outubro e vai até dezembro. Para colher, é preciso ter delicadeza.
-Essa e outras podem ser plantadas em vasos e tem que ficar atento ao crescimento e questão da altura, pois temos alguns frutíferos que podem crescer até 2 metros e temos os frutíferos rasteiros como o morango. Basta ficar atento na hora de escolher o tipo de frutíferos. </div><br><br>
-<div class= "">Temperos
-<div class ="">Manjericão
-Para ser cultivado o manjericão, é preciso de um local com bastante exposição solar. Lembrar de deixa tomar luz pelos menos 3 horas por dia, não se esquecer de regar diariamente. O manjericão precisa de bastante água só é preciso ficar atento e tomar cuidado para não deixa o solo encharcado.</div><br><br>
-<div class= "">•	Salsinha
-Salsa é uma planta bem delicada. Deve ser colocado em local com sombra, assim podendo receber luminosidade, só não pode ficar sempre exposto em luz solar. O solo deve estar sempre úmido mas sem encharcar, e devido às duas raízes profundas é bom deixá-la sozinha em um vaso.</div> <br><br>
-<div class="">•	Coentro
-As folhas de coentro são semelhantes à salsa, mas têm um sabor diferente e distinto. O coentro gosta de climas quentes e luz solar direta. Ao plantar, é importante manter o solo úmido; mas, uma vez bem desenvolvido, reduza a frequência e a quantidade de regas.</div> <br><br>
+    <h3>5- Preste bem atenção na quantidade de água.</h3>
+<p>É necessário verificar a quantidade de água de cada planta, pois nem todas contam com o mesmo tipo de regras. Tem algumas que precisam que as raízes sejam molhadas e outras não.</p>
+<p>É legal verificar a região do país em que você mora e as estações do ano, pois temos plantas que precisam de mais ou menos água e dependem da temperatura do ambiente e do nível de umidade.</p> 
+<p>É recomendado regar sempre seu plantio durante a manhã ou no final de tarde, pois é dessa forma a água não irá evaporar durante o calor do dia.</p>
+<br>
 
+    <h3>6- Adubação</h3>
+<p>As plantas precisam extrair do solo os nutrientes que a ajudam a crescer. Dessa forma à medida que são colhidas, elas precisam de mais nutrientes para crescerem novamente. </p>
+<p>Esse é um ciclo continuo fazendo com que o solo empobreça, consequentemente, os nutrientes dos vegetais também. E assim a adubação se torna importante, já que pra fornece os nutrientes para as plantas em vasos.</p><br>
 
-<div class="">•	Pimenta
-Dedo-de-moça, biquinho e tabasco são as mais indicadas para se cultivar em hortas pequenas.
-DICA: Temperos são os mais fáceis de cultivar, pois não precisam ser replantados, basta colher as folhas do pé.</div><br><br>
-<ol><p>Hortaliças</p></ol>
-<div class="">•	Alface
-É uma planta anual, portanto pode ser plantado o ano todo, existindo variedades específicas para climas temperados e subtropicais, quanto para clima mais ameno.
-A recomendação é escolher os solos de textura média, com aspecto fofo, de baixa acidez e elevado teor de matéria orgânica. Leve em consideração o fácil acesso de água para irrigações.
-De ciclo curto, no verão, a colheita ocorre em períodos de 60 a 70 dias depois do início do cultivo e, no inverno, se estende em torno de 80 a 90 dias.
-Cultivada em vaso e até em caixotes desde que estes tenham no mínimo 25 cm a 30 cm de profundidade.</div><br><br>
-<div class ="">•	Couve-manteiga
-A couve-manteiga deve ser plantada em vasos com, pelo menos, 25 centímetros de diâmetro e de altura. Este tamanho permite que a planta cresça melhor, visto que suas folhas crescem até um metro.
-No caso de deficiência de nutrientes, aposte na adubação orgânica frequente. Mas, se o problema for calor excessivo, mude o vaso de lugar. Durante os períodos mais quentes do dia, mantenha a planta sob a sombra.
-Se o problema for excesso de rega, a couve não conseguirá se desenvolver, por isso o melhor é recomeçar o plantio.
-</div><br><br>
+    <h3><ul>Quais são as plantas que podem ser cultivadas em apartamento?</h3></ul>
+<br>
 
+    <h3>• Frutos:</h3><br>
+    <h3>Morango</h3>
+<p>O vaso de morango pode ter por volta de 20 ou 30 centímetros, e a planta não fica muito alta, é necessário usar terra de qualidade. A colheita pode ocorrer o ano todo, porém, é mais comum entre os meses de maio e outubro.</p>
+<br>
+    <h3>Amora</h3>
+<p>É uma fruta que tem boa adaptação e que cresce de maneira semelhante ao morango.</p>
+<p>A colheita da amora começa em outubro e vai até dezembro. Para colher, é preciso ter delicadeza.</p>
+<p>Essa e outras podem ser plantadas em vasos e tem que ficar atento ao crescimento e questão da altura, pois temos alguns frutíferos que podem crescer até 2 metros e temos os frutíferos rasteiros como o morango. Basta ficar atento na hora de escolher o tipo de frutíferos.</p>
+<br>
+
+    <h3><ul>• Temperos:</h3></ul>
+<br>
+    <h3>Manjericão</h3>
+<p>Para ser cultivado o manjericão, é preciso de um local com bastante exposição solar. Lembrar de deixa tomar luz pelos menos 3 horas por dia, não se esquecer de regar diariamente. O manjericão precisa de bastante água só é preciso ficar atento e tomar cuidado para não deixa o solo encharcado.</p>
+<br>
+    <h3>Salsinha</h3>
+    <p>Salsa é uma planta bem delicada. Deve ser colocado em local com sombra, assim podendo receber luminosidade, só não pode ficar sempre exposto em luz solar. O solo deve estar sempre úmido mas sem encharcar, e devido às duas raízes profundas é bom deixá-la sozinha em um vaso.</p>
+<br>
+    <h3>Coentro</h3>
+    <p>As folhas de coentro são semelhantes à salsa, mas têm um sabor diferente e distinto. O coentro gosta de climas quentes e luz solar direta. Ao plantar, é importante manter o solo úmido; mas, uma vez bem desenvolvido, reduza a frequência e a quantidade de regas.</p>
+<br>
+    <h3>Pimenta</h3>
+    <p>Dedo-de-moça, biquinho e tabasco são as mais indicadas para se cultivar em hortas pequenas.</p>
+    <p>DICA: Temperos são os mais fáceis de cultivar, pois não precisam ser replantados, basta colher as folhas do pé.</p>
+<br>
+    <h3><ul>• Hortaliças:</h3></ul> <br>
+    <h3>Alface</h3>
+<p>É uma planta anual, portanto pode ser plantado o ano todo, existindo variedades específicas para climas temperados e subtropicais, quanto para clima mais ameno.</p>
+<p>A recomendação é escolher os solos de textura média, com aspecto fofo, de baixa acidez e elevado teor de matéria orgânica. Leve em consideração o fácil acesso de água para irrigações.</p>
+<p>De ciclo curto, no verão, a colheita ocorre em períodos de 60 a 70 dias depois do início do cultivo e, no inverno, se estende em torno de 80 a 90 dias.</p>
+<p>Cultivada em vaso e até em caixotes desde que estes tenham no mínimo 25 cm a 30 cm de profundidade.</p>
+<br>
+    <h3>Couve-manteiga</h3>
+<p>A couve-manteiga deve ser plantada em vasos com, pelo menos, 25 centímetros de diâmetro e de altura. Este tamanho permite que a planta cresça melhor, visto que suas folhas crescem até um metro.</p>
+<p>No caso de deficiência de nutrientes, aposte na adubação orgânica frequente. Mas, se o problema for calor excessivo, mude o vaso de lugar. Durante os períodos mais quentes do dia, mantenha a planta sob a sombra.</p>
+<p>Se o problema for excesso de rega, a couve não conseguirá se desenvolver, por isso o melhor é recomeçar o plantio.</p>
+</ol>
 
 
 <br><br>
