@@ -46,11 +46,9 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do C
 
 ## Atualizações
 
-- Todas páginas de visualização agora são em PHP 28/05/2022
-- A página de suporte já está em funcionamento padrão realizando consultas no banco de dados 28/05/2022
-- A autenticação não será mais pelo firebase 27/05
-- A página kids foi excluída do projeto 19/05
-
+- Fase final do projeto
+- Game super trunfo de legumes em pauta para possivel implantação
+- Apresentado em pré banca e já aprovado para apresentação em feira
 
 ###
 
