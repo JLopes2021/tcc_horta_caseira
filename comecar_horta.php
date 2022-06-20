@@ -115,7 +115,7 @@
                     caseira, que dá muito trabalho, e não já tinha espaço para concretizar o feito.
                     Praticar jardinagem além de ser excelente para o meio ambiente por toda a
                     valorização ambiental que aplicamos nos micro-universos biológicos que criamos, é
-                    também terapêutico.
+                    também, terapêutico.
                     Você pode se surpreender com os efeitos que a conexão com a natureza pode ter em
                     sua vida. Cientistas dizem que a exposição à bactéria Mycobacterium vaccae(presente
                     no solo) pode estimular uma produção de serotonina, o hormônio da felicidade. Este é
@@ -129,13 +129,13 @@
                     O processo de decomposição de matéria orgânica apresenta-se em restos de
                     alimentação na forma de um composto rico em substâncias húmicas e nutricionais de
                     plantas altamente recomendados para a adubagem.
-                    Compre ou peça (tem gente que doa) algumas minhocas para realizar a compostagem
+                    Compre ou peça (existem pessoas que doam) algumas minhocas para realizar a compostagem
                     dos seus resíduos (as mais recomendadas são as californianas).
                     Você pode jogar como cascas de frutas e legumes na terra das plantas para que elas se
                     decomponham lá e gerem nutrientes. Se não quiser investir na compostagem, por qual
                     seja seus motivos, separe seus resíduos os mesmos orgânicos.
                     Se você mora em casa, jogue sempre os resíduos orgânicos (restos alimentares) na
-                    terra não vai feder pelo espaço disponível. Já se decompor mais rápido com a
+                    terra, não vai feder pelo espaço disponível. Já se decompor mais rápido com a
                     incidência de sol e chuva.
                     Farinha de casca de ovos, borra do café e água do aquário (se você tiver um) são
                     alguns fertilizantes naturais bem fáceis de se conseguir e que não vão gerar cheiro
@@ -143,13 +143,13 @@
                 </p>
                 <h3 class="titulo-dicas">Preparando o espaço</h3>
                 <p class="paragrafo-dicas">
-                    Você mora em casa e selecione uma parte do terreno que gostaria de transformar em horta.
-                    As plantas precisam de luz solar para a fotossíntese, então escolhas as regiões que batem mais
+                    Se você mora em casa,  selecione uma parte do terreno que gostaria de transformar em uma horta.
+                    As plantas precisam de luz solar para a fotossíntese, então escolha as regiões que batem mais
                     sol em casa. Em apartamentos, selecione os destinatários e a exigência de importância.
                     Máxima drenagem de água e terra que pode ser adquirida em floriculturas, ou você pode pedir
                     para que tenha um terreno ocioso. Sobre os recipientes, vaso, caixa vira horta, bolas de argila
                     expandida no fundo.
-                    O ideal é colocar uma cerca para impedir o contato dos animais com as plantas.tenha animais domésticos, tente colocar a horta em lugares que eles não alcançam.
+                    O ideal é colocar uma cerca para impedir o contato dos animais com as plantas. Caso tenha animais domésticos, tente colocar a horta em lugares em que eles não alcançam.
                 </p>
                 <h3 class="titulo-dicas">Escolhendo as Sementes</h3>
                 <p class="paragrafo-dicas">
@@ -191,15 +191,15 @@
                 </p>
                 <h3 class="titulo-dicas">E não se esqueça, tome alguns cuidados básicos</h3>
                 <p class="paragrafo-dicas">
-                    A rega do sol prefira no final da tarde, quando a luminosidade de bem baixa. O calor do sol
-                    pode cozinha como caso decida regá-las plantas durante o dia.
+                    A rega do sol prefira no final da tarde, quando a luminosidade está bem baixa. O calor do sol
+                    pode cozinhar caso decida regá-las durante o dia.
                     Caso tenha esquecido de regar as plantas no dia anterior e só se deu conta
                     durante o dia seguinte, espere o fim da tarde para realizar a rega.
-                    Identifique as causas de seus problemas exercitando a observação de suas plantas. Às vezes
+                    Identifique as causas de seus problemas exercitando a observação de suas plantas. As vezes
                     elas não se adaptaram ao local escolhido, suas raízes não possuem espaço para crescer.
                     Não existe sentimento mais agradável do que colher os seus próprios alimentos e saber que
-                    eles estão livres de pesticidas e agrotóxicos. Mas tenha sempre em mente que os cuidados e
-                    valem à pena.
+                    eles estão livres de pesticidas e agrotóxicos. Mas tenha sempre em mente que os cuidados
+		    valem à pena.
                     Hortas caseiras para pegar a prática e se maravilhar com a terapia de tratamento de amanhã
                     estão mais bem difundidas, conseguimos também apresentar resultados mais simples do que
                     nunca antes.
@@ -341,13 +341,14 @@
  
                 <h3>Laranja</h3> 
 <p>- O solo utilizado no plantio da laranja deve ser profundo e permeável; nos primeiros dois anos de cultivo da árvore da fruta, aparecem brotações embaixo da copa que devem ser eliminadas manualmente assim que nascerem.</p>
+		 <h3> Tomate </h3>
+<p>- O tomate é uma das frutas de maior consumo no mundo e fonte de vitamina A e C e de potássio. Os tomates precisam de uma boa adubação e são melhores desenvolvidas em regiões altas com incidência de luz solar. </p>
+<p>Nas regiões Nordeste, Sudeste e Centro-oeste, a época de plantio pode ser no ano todo, no Sul pode ser em setembro a fevereiro e no Norte de março a julho. Sua colheita é feita de 100 a 120 dias após a plantação. </p>
     <br><h3><ul>Hortaliças:</h3></ul> <br>
                 <h3>• Abóbora </h3>
 <p>As abóboras são ricas em vitaminas A e possuem variedade de tipos como a seca, japonesa e cabotiá. Elas precisam de abelhas para a polinização e algumas das variedades precisam de outras espécies. Elas se desenvolvem melhor com pouca exposição ao sol, mas não resiste a geadas. </p>
 <p>A época mais recomendada na região Sul é nos meses de outubro a fevereiro, no Sudeste de Setembro a março, no Nordeste de março a outubro, no Centro-oeste o ano todo e no Norte de abril a agosto.</p> 
-                <h3>• Tomate </h3>
-<p>O tomate é uma das frutas de maior consumo no mundo e fonte de vitamina A e C e de potássio. Os tomates precisam de uma boa adubação e são melhores desenvolvidas em regiões altas com incidência de luz solar. </p>
-<p>Nas regiões Nordeste, Sudeste e Centro-oeste, a época de plantio pode ser no ano todo, no Sul pode ser em setembro a fevereiro e no Norte de março a julho. Sua colheita é feita de 100 a 120 dias após a plantação. </p>
+               
                 <h3>• Chuchu </h3>
 <p>Os chuchus são ricos em fibras, vitaminas e potássio. Precisam de muita água e são produzidos em clima ameno (entre 15 a 25 graus). Temperaturas maiores que isso faz com que eles sofram doenças por fungos. </p>
 <p>A geminada dos maduros acontecem somente após 15 dias, mas só devem ser plantados quando o broto atingir 12cm. As sementes de chuchu devem ser acomodadas no sulco ou na cova, sem cobrir com terra para evitar o apodrecimento. </p>
