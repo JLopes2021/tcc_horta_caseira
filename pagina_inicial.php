@@ -138,7 +138,7 @@ include ("conexao.php");
                 <div class="terceiro-conteudo">
                     <h3>Terapia</h3>
                     <p class="paragrafo-conteudo">
-                       Ad Adquirir uma horta dentro de sua casa também ajuda na sua saúde mental, pois, 
+                        Adquirir uma horta dentro de sua casa também ajuda na sua saúde mental, pois, 
                        de acordo com alguns especialistas, ter contato com o solo ajuda em uma menor concentração dos hormônios ligados ao estresse.
                        Ajuda também na influência da diminuição da ansiedade, melhora a qualidade do sono e previne os sintomas da depressão. 
                        Fora a qualidade do ar que acaba melhorando também.
