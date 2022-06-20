@@ -1,0 +1,84 @@
+
+#myFooter {
+    background-color: #0C2400;   
+     color: rgb(255, 255, 255);
+    padding-top: 5px;
+    text-align: center;
+}
+
+#myFooter .footer-copyright {
+    background-color: #000000;
+        padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+#myFooter .row {
+    margin-bottom: 20px;
+}
+
+#myFooter .navbar-brand {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    height: 35px;
+}
+
+#myFooter .footer-copyright p {
+    margin: 10px;
+    color: rgba(204, 204, 204, 0.534);}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#myFooter h5 {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.568);
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter h2 a{
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+#myFooter a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+#myFooter .social-networks {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 16px;
+}
+
+#myFooter .social-networks a {
+    font-size: 18px;
+    color: #f9f9f9;
+    padding: 10px;
+    transition: 0.2s;
+    
+}
+
+#myFooter .social-networks a:hover {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+    #myFooter {
+        text-align: center;
+    }
+}
+
+

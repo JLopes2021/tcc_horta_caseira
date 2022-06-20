@@ -4,20 +4,7 @@ body {
     font-family: 'Poppins', sans-serif;
     background: #fafafa;
 }
-h2{
-    color: brown;
-    font-weight: bolder;
-}
-h3{
-    color: green;
-}
-h4{
-    color: palevioletred;
-    font-style: italic;
-}
-h5{
-    font-weight:lighter;
-}
+
 p {
     font-family: 'Poppins', sans-serif;
     font-size: 1.1em;
@@ -76,7 +63,7 @@ span {
     min-width: 250px;
     max-width: 250px;
     background: #f7d9c2;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 242, 242);
     transition: all 0.3s;
 }
 
@@ -176,7 +163,7 @@ a[data-toggle="collapse"] {
     position: absolute;
     top: 50%;
     right: 20px;
-    transform: translateX(-50%);
+    transform: translateY(-50%);
 }
 
 ul ul a {
@@ -214,7 +201,7 @@ ul.CTAs a {
     MEDIAQUERIES
 ----------------------------------------------------- */
 
-@media (max-width: 776px) {
+@media (max-width: 768px) {
     #sidebar {
         min-width: 80px;
         max-width: 80px;
@@ -222,7 +209,6 @@ ul.CTAs a {
         margin-left: -80px !important;
         background-color: #f7d9c2;
     }
-   
     .dropdown-toggle::after {
         top: auto;
         bottom: 10px;
@@ -310,88 +296,3 @@ ul.CTAs a {
 }
 
 
-#myFooter {
-    background-color: #3c3d41;
-    color: white;
-    padding-top: 5px;
-    text-align: center;
-       width: 100%;
-       position: absolute;
-
-}
-
-#myFooter .footer-copyright {
-    background-color: #333333;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    text-align: center;
-}
-
-#myFooter .row {
-    margin-bottom: 20px;
-}
-
-#myFooter .navbar-brand {
-    margin-top: 1px;
-    margin-bottom: 1px;
-    height: 35px;
-}
-
-#myFooter .footer-copyright p {
-    margin: 10px;
-    color: #ccc;
-}
-
-#myFooter ul {
-    list-style-type: none;
-    padding-left: 0;
-    line-height: 1.7;
-}
-
-#myFooter h5 {
-    font-size: 18px;
-    color: white;
-    font-weight: bold;
-    margin-top: 30px;
-}
-
-#myFooter h2 a{
-    font-size: 50px;
-    text-align: center;
-    color: #fff;
-}
-
-#myFooter a {
-    color: #d2d1d1;
-    text-decoration: none;
-}
-
-#myFooter a:hover,
-#myFooter a:focus {
-    text-decoration: none;
-    color: white;
-}
-
-#myFooter .social-networks {
-    text-align: center;
-    padding-top: 30px;
-    padding-bottom: 16px;
-}
-
-#myFooter .social-networks a {
-    font-size: 18px;
-    color: #f9f9f9;
-    padding: 10px;
-    transition: 0.2s;
-    
-}
-
-#myFooter .social-networks a:hover {
-    text-decoration: none;
-}
-
-@media screen and (max-width: 767px) {
-    #myFooter {
-        text-align: center;
-    }
-}
