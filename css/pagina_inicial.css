@@ -4,7 +4,20 @@ body {
     font-family: 'Poppins', sans-serif;
     background: #fafafa;
 }
-
+h2{
+    color: brown;
+    font-weight: bolder;
+}
+h3{
+    color: green;
+}
+h4{
+    color: palevioletred;
+    font-style: italic;
+}
+h5{
+    font-weight:lighter;
+}
 p {
     font-family: 'Poppins', sans-serif;
     font-size: 1.1em;
@@ -163,7 +176,7 @@ a[data-toggle="collapse"] {
     position: absolute;
     top: 50%;
     right: 20px;
-    transform: translateY(-50%);
+    transform: translateX(-50%);
 }
 
 ul ul a {
@@ -201,14 +214,15 @@ ul.CTAs a {
     MEDIAQUERIES
 ----------------------------------------------------- */
 
-@media (max-width: 768px) {
+@media (max-width: 776px) {
     #sidebar {
         min-width: 80px;
         max-width: 80px;
         text-align: center;
         margin-left: -80px !important;
-        background-color: #000000;
+        background-color: #f7d9c2;
     }
+   
     .dropdown-toggle::after {
         top: auto;
         bottom: 10px;
@@ -301,6 +315,9 @@ ul.CTAs a {
     color: white;
     padding-top: 5px;
     text-align: center;
+       width: 100%;
+       position: absolute;
+
 }
 
 #myFooter .footer-copyright {
@@ -378,5 +395,3 @@ ul.CTAs a {
         text-align: center;
     }
 }
-
-
