@@ -355,10 +355,6 @@
                 <h3>• Pimentão </h3>
 <p>O pimentão é rico em vitamina C e A, e devem ser plantados inicialmente em bandejas e depois postas para um solo bem nutrido. Desenvolvem-se melhor em temperaturas elevadas. </p>
 <p>No Sul, as épocas recomendadas para plantio são de setembro a fevereiro. No Sudeste de agosto a março, de maio a setembro no Nordeste, de agosto a dezembro no Centro-oeste, e em abril a julho no Norte. </p>
-                <h3>• Orégano </h3>
-<p>É uma hortaliça que pode atingir de 20 a 80cm. Seu solo deve ser bem drenado e fértil, levemente úmido, portanto, irrigue com frequência.</p> 
-<p>O orégano pode crescer em solos pobres e quanto ao pH, o mais recomendado é que esteja entre 6 e 8. O orégano se desenvolve em clima ameno ou quente, o ideal é entre 21 e 25°C, mas também pode ser cultivado na faixa de 4 a 32°C. Deve receber luz solar direta por algumas horas por dia. </p>
-<p>Dica: Solo calcário faz com que a planta cresça melhor.</p><br>
 
                 <h3>Para que você consiga fazer sua mini horta, é preciso analisar cuidadosamente o local que há disponível e que pretende usá-la. </h3>
 <p>Se você tiver acesso à um jardim, canteiro ou algo do tipo, poderá usá-lo para plantar suas hortaliças ou ervas e ter o melhor resultado para as suas refeições ou demais finalidades. </p>
@@ -374,28 +370,28 @@
 <p>Procure revolver a terra, para deixar todos os componentes bem misturados. </p><br>
                 <h3>Germinando suas sementes para o plantio </h3>
 <p>Podemos usar muitos recursos para que seja possível germinar suas sementes. Alguns deles são; </p>
-<p>• vasos pequenos; </p>
-<p>• sementeiras; </p>
-<p>• potes de iogurte; </p>
-<p>• caixas de ovos. </p>
+<p>• Vasos pequenos; </p>
+<p>• Sementeiras; </p>
+<p>• Potes de iogurte; </p>
+<p>• Caixas de ovos. </p>
 <p>É importante que os recipientes tenham furos na parte inferior, para permitir que a água escoe e não se acumule. </p><br>
                 <h3>Na lista abaixo, trazemos o passo a passo para fazer essa tarefa. </h3>
-<p>• coloque a terra preparada nos recipientes separados para essa função;</p> 
-<p>• utilize um pulverizador para que faça a umidificação da terra; </p>
-<p>• faça quatro furinhos e coloque neles suas sementes; </p>
-<p>• cubra os furinhos com a mesma terra e utilize novamente o pulverizador para sua umidificação </p>
-<p>• depois de germinada, transfira para sua mini horta, sempre lembrando de deixar um espaço entre cada uma delas, permitindo um bom crescimento. </p><br>
+<p>• Coloque a terra preparada nos recipientes separados para essa função;</p> 
+<p>• Utilize um pulverizador para que faça a umidificação da terra; </p>
+<p>• Faça quatro furinhos e coloque neles suas sementes; </p>
+<p>• Cubra os furinhos com a mesma terra e utilize novamente o pulverizador para sua umidificação </p>
+<p>• Depois de germinada, transfira para sua mini horta, sempre lembrando de deixar um espaço entre cada uma delas, permitindo um bom crescimento. </p><br>
 
                 <h3>Processo de umidificação </h3>
 <p>As minis hortas gostam muito de iluminação solar. Para equilibrar o calor, deve ser realizada a umidificação delas pelo menos uma vez ao dia. </p>
 <p>Se o clima estiver muito quente, o recomendado é que elas sejam regadas duas vezes, de manhã e pela tarde. Apostar nos vasos auto irrigáveis é uma boa alternativa. Esses vasos são capazes de medir e distribuir a quantidade de água que a planta precisa por dia. </p><br>
                 <h3>Kit de jardinagem </h3>
 <p>Uma saudável e linda horta necessita de bons equipamentos. Veja alguns dos utensílios que precisa ser adquirido para realizar os devidos cuidados.</p> 
-<p>• regador; </p>
-<p>• pás: caso seja uma mini horta, as pequenas são suficientes. Se o canteiro for grande, opte por uma enxada; </p>
-<p>• ancinho; </p>
-<p>• tesoura para podar; </p>
-<p>• faca colheitadeira. </p><br>
+<p>• Regador; </p>
+<p>• Pás: caso seja uma mini horta, as pequenas são suficientes. Se o canteiro for grande, opte por uma enxada; </p>
+<p>• Ancinho; </p>
+<p>• Tesoura para podar; </p>
+<p>• Faca colheitadeira. </p><br>
                 <h3>Mão na massa</h3> 
 <p>Aprendemos a regar, germinar, preparar a terra e conhecemos os materiais. Chegou a hora de trabalhar! </p>
 <p>Escolha a erva ou hortaliça aquela que são mais práticas e necessárias para o seu cotidiano, podendo crescer em locais pequenos. Algumas delas são:</p> <br>
@@ -403,21 +399,21 @@
 <p>Não deve ser plantado em temperaturas extremas, mas o plantio pode ser feito em temperaturas variasas. Evite excesso de umidade, pois o alecrim pode ter dificuldades em seu desenvolvimento em regiões de chuva.</p>
 <p>Após 90 dias de plantio, o alecrim está pronto para ser colhido. Porem, o ideal é qu se espere de dois a três anos de cultivo.</p><br>
 
-                <h3>• alface; </h3>
+                <h3>• Alface; </h3>
 <p>No Verão, após 60 dias de semeadura, a colheita pode ser realizada e no inverno,se estende em torno de 80 a 90 dias. Suas folhas devem ser eliminadas e a planta deve estar bem rente ao solo, ou podendo ser arrancada com raiz. Precisa de pelo menos 4 horas direto por dia.</p><br>
                <h3>• alfazema; </h3>
 <p>Podendo ser plantada em locais de alta temperatura, a alfazema se faz resistente e passam por geadas. Isso faz com que ela seja plantada em muitos locais.</p>
 <p>Para a geminação, leva-se de 15 a 30 dias. Você pode colher durante o ano o todo, sempre cortando as pontas dos galhos.</p><br>
 
-                <h3>• cebolinha-verde; </h3>
+                <h3>• Cebolinha-verde; </h3>
 <p>Após o plantio, a colheita de cebolinha-verde pode ser feita depois 90 ou 120 dias dependendo das condições.</p>
 <p>Precisa de luz solar direta por algumas horas por dia. Elas crescem melhor em temperaturas variadas entre 13°C a 24°C. Podem suportar temperaturas altas e baixas, porem em climas quentes nao produzem flores.</p><br>
 
-                <h3>• hortelã; </h3>
+                <h3>• Hortelã; </h3>
 <p>Em climas quentes e úmidos, a hortelã pode crescer em menos tempo e com folhas vistosas. Podem ser plantadas o ano todo, pois tolera bem ao calor e ao frio.</p>
 <p>Elas ser colhidas após 20 dias e podem ficar anos produzindo sem parar.</p><br>
 
-                <h3>• salsa; </h3>
+                <h3>• Salsa; </h3>
 <p>Podendo alcançar de 12 a 16 cm de altura, o plantio da salsa pode durar de 60 a 90 dias. Atingindo esses requisitos, ela está pronta para colheita e consumo.</p>
 <p>A salsa gosta de lugares ilumiados, o mais adequado é coloca-la ao sol. Ela tem um bom crescimento em regiões de clima temperado, onde a temperatura prevalece na faixa de 10°C e 24°C.</p>
 <p>É possível também plantar alguns legumes, como cenouras, ou frutas, como o tomate, mas um espaço mais amplo será necessário. </p>
@@ -522,6 +518,10 @@
     <p>Dedo-de-moça, biquinho e tabasco são as mais indicadas para se cultivar em hortas pequenas.</p>
     <p>DICA: Temperos são os mais fáceis de cultivar, pois não precisam ser replantados, basta colher as folhas do pé.</p>
 <br>
+	 <h3>• Orégano </h3>
+<p>É uma hortaliça que pode atingir de 20 a 80cm. Seu solo deve ser bem drenado e fértil, levemente úmido, portanto, irrigue com frequência.</p> 
+<p>O orégano pode crescer em solos pobres e quanto ao pH, o mais recomendado é que esteja entre 6 e 8. O orégano se desenvolve em clima ameno ou quente, o ideal é entre 21 e 25°C, mas também pode ser cultivado na faixa de 4 a 32°C. Deve receber luz solar direta por algumas horas por dia. </p>
+<p>Dica: Solo calcário faz com que a planta cresça melhor.</p><br>
     <h3><ul>• Hortaliças:</h3></ul> <br>
     <h3>Alface</h3>
 <p>É uma planta anual, portanto pode ser plantado o ano todo, existindo variedades específicas para climas temperados e subtropicais, quanto para clima mais ameno.</p>
