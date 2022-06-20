@@ -4,7 +4,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Começar uma Horta</title>
     <link rel="shortcut icon" type="imagex/png" href="fotos/Logo Tcc.png">
@@ -24,7 +24,6 @@
      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
      <!-- Bootstrap JS -->
      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script> 
-    <script src="js/index-menu.js"></script>
 </head>
 
 <body>
@@ -65,10 +64,14 @@
                         <a href="sobre_nos.php">
                             <i class="fas fa-briefcase"></i>
                             Sobre Nós
-                        </a>
-                        
+                        </a>                        
                     </li>
-                   
+                    <li>
+                        <a href="apresentacao-tcc.php">
+                            <i class="fas fa-book"></i>
+                            Nosso TCC
+                        </a>
+                    </li> 
                 </ul>
         </nav>
 
@@ -100,8 +103,10 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="sobre_nos.php">Sobre Nós</a>
                             </li>
-                            
-                        </ul>
+                            <li class="nav-item">
+                               <a class="nav-link" href="apresentacao-tcc.php">Nosso TCC</a>
+                             </li>
+                      </ul>
                     </div>
                 </div>
             </nav>
@@ -210,8 +215,7 @@
             <div class="container">
                 <h5>Guia das Hortaliças</h5>
                 <p class="paragrafos">
-                    <p4>Existem diferentes itens que podem apontar diferenças entre as hortas rurais e as caseiras, o nosso objetivo não é elencar uma a uma, mas, ajudar você a construir a sua horta no meio urbano onde você mora.<br>
-                    O grande impasse para quem mora em meios urbanos é: “Não tenho espaço em casa”, sabendo disso, temos aqui os passos básicos para que você possa começar a produzir seus alimentos, ainda que em pequena escala, na sua casa.<br>
+                    <p4>Trouxemos aqui um mini guia para você, e para saber mais, <a href="https://drive.google.com/file/d/18PNX17lXVxJx2bB3l3jrgW38Xsj1szsp/view?usp=sharing"> clique aqui.</a><br>
                    </p4>
                 </p>
              </div>   
@@ -309,7 +313,10 @@
                 </ul>
                <!--FALTA COMPLETAR A LISTA DE HORTALIÇAS-->  
                <!--COLOCAR AQUI AS DICAS DE COMO SE COMEÇAR UMA HORTA-->
-               A <strong class="titHort">CASA</strong>
+                <!--CASA OU APTO-->  
+               <div class="horta-local">
+                <h2 id="casa">Casa</h2>
+                <p class="paragrafo-casa-apto">
                <h3> <ul>Como cultivar uma horta em casa?</h3> </ul>
 <p>- Diretamente no solo; ideal para quem tem quintal espaçoso, neste modelo tradicional, as sementes ou mudos são postas diretamente no solo.</p>
 <p>- Vasos; os vasos são a escolha ideal para quem mora em casa ou apartamento, e possuem diversos tamanhos, materiais, formas e cores.</p>
@@ -318,38 +325,38 @@
 <p>- Caixas de madeira; caixas e paletes de madeira grandes e baratas podem ser boas escolhas.</p>
 <p>- Horta vertical; indicado para pessoas que moram em aposentos. Este modelo é composto por uma horta com área próxima ao muro. As hortas verticais podem ser postas com vasos, embalagens recicladas, construções de madeira e sapateiras.</p>
  
-                <h3><ul>Quais são as plantas que podem ser cultivadas em casa?</h3></ul>
+                <h3><ul>O que pode ser cultivado em sua casa?</h3></ul>
                 <h3>Frutas:</h3><br>
-                <h3>Cereja</h3>
+                <h4>Cereja</h4>
 <p>– No vaso nesse caso, iremos focar no cultivo a partir de sementes de cereja, mesmo que seja um processo que nem sempre dá resultados. Para isso, você vai precisar de um vaso, sementes de cereja, cascalho (ou casca de pinus ou folhas secas mortas) e terra.</ul></p>
  
-                <h3>Pêssego</h3>
+                <h4>Pêssego</h4>
 <p>- Fruta de clima temperado, o pêssego tem seu cultivo concentrado na região Sul do Brasil. Porém, graças às pesquisas realizadas nos últimos 50 anos, foram conquistadas melhorias genéticas agora desfrutadas por diversos agricultores de pessegueiros em locais com temperaturas mais elevadas.</p>
  
-                <h3>Maçã</h3>
+                <h4>Maçã</h4>
 <p>- As maçãs preferem solos profundos, férteis e bem drenados e evitam solos úmidos. Uma mistura de areia e argila levemente ácida servirá muito bem. Para cultivar macieiras em recipientes, use uma mistura de solo rica em matéria orgânica com pH levemente ácido a neutro.</p>
  
-                <h3>Pera</h3>
+                <h4>Pera</h4>
 <p>- Antes de plantar, cave um buraco 20% maior que o vaso da planta. Use composto, fertilizante orgânico e um pouco de areia grossa ou pedra-pomes para ajudar na drenagem. Misture com o solo do jardim no fundo do buraco.</p>
  
-                <h3>Limão</h3>
+                <h4>Limão</h4>
 <p> – O primeiro passo, absolutamente essencial, começa ainda antes de plantar limão em casa. Confirme que as sementes são de qualidade! Opte idealmente por limões biológicos que estejam bem maduros pois este passo vai ser essencial para o sucesso da operação. Retire as sementes do limão maduro e deixe-as a secar à sombra de um dia para o outro.</p>
  
-                <h3>Laranja</h3> 
+                <h4>Laranja</h4> 
 <p>- O solo utilizado no plantio da laranja deve ser profundo e permeável; nos primeiros dois anos de cultivo da árvore da fruta, aparecem brotações embaixo da copa que devem ser eliminadas manualmente assim que nascerem.</p>
-		 <h3> Tomate </h3>
+		 <h4> Tomate </h4>
 <p>- O tomate é uma das frutas de maior consumo no mundo e fonte de vitamina A e C e de potássio. Os tomates precisam de uma boa adubação e são melhores desenvolvidas em regiões altas com incidência de luz solar. </p>
 <p>Nas regiões Nordeste, Sudeste e Centro-oeste, a época de plantio pode ser no ano todo, no Sul pode ser em setembro a fevereiro e no Norte de março a julho. Sua colheita é feita de 100 a 120 dias após a plantação. </p>
     <br><h3><ul>Hortaliças:</h3></ul> <br>
-                <h3>• Abóbora </h3>
+                <h4>Abóbora </h4>
 <p>As abóboras são ricas em vitaminas A e possuem variedade de tipos como a seca, japonesa e cabotiá. Elas precisam de abelhas para a polinização e algumas das variedades precisam de outras espécies. Elas se desenvolvem melhor com pouca exposição ao sol, mas não resiste a geadas. </p>
 <p>A época mais recomendada na região Sul é nos meses de outubro a fevereiro, no Sudeste de Setembro a março, no Nordeste de março a outubro, no Centro-oeste o ano todo e no Norte de abril a agosto.</p> 
                
-                <h3>• Chuchu </h3>
+                <h4>Chuchu </h4>
 <p>Os chuchus são ricos em fibras, vitaminas e potássio. Precisam de muita água e são produzidos em clima ameno (entre 15 a 25 graus). Temperaturas maiores que isso faz com que eles sofram doenças por fungos. </p>
 <p>A geminada dos maduros acontecem somente após 15 dias, mas só devem ser plantados quando o broto atingir 12cm. As sementes de chuchu devem ser acomodadas no sulco ou na cova, sem cobrir com terra para evitar o apodrecimento. </p>
 <p>As épocas mais indicadas para o plantio nas regiões Sul, Sudeste e Centro-oeste é entre os meses de setembro a outubro. No Norte, de abril a julho e no Nordeste, o ano todo.</p>
-                <h3>• Pimentão </h3>
+                <h4>Pimentão </h4>
 <p>O pimentão é rico em vitamina C e A, e devem ser plantados inicialmente em bandejas e depois postas para um solo bem nutrido. Desenvolvem-se melhor em temperaturas elevadas. </p>
 <p>No Sul, as épocas recomendadas para plantio são de setembro a fevereiro. No Sudeste de agosto a março, de maio a setembro no Nordeste, de agosto a dezembro no Centro-oeste, e em abril a julho no Norte. </p>
 
@@ -392,33 +399,32 @@
                 <h3>Mão na massa</h3> 
 <p>Aprendemos a regar, germinar, preparar a terra e conhecemos os materiais. Chegou a hora de trabalhar! </p>
 <p>Escolha a erva ou hortaliça aquela que são mais práticas e necessárias para o seu cotidiano, podendo crescer em locais pequenos. Algumas delas são:</p> <br>
-                <h3>• alecrim; </h3>
+                <h4>Alecrim; </h4>
 <p>Não deve ser plantado em temperaturas extremas, mas o plantio pode ser feito em temperaturas variasas. Evite excesso de umidade, pois o alecrim pode ter dificuldades em seu desenvolvimento em regiões de chuva.</p>
 <p>Após 90 dias de plantio, o alecrim está pronto para ser colhido. Porem, o ideal é qu se espere de dois a três anos de cultivo.</p><br>
 
-                <h3>• Alface; </h3>
+                <h4>Alface; </h4>
 <p>No Verão, após 60 dias de semeadura, a colheita pode ser realizada e no inverno,se estende em torno de 80 a 90 dias. Suas folhas devem ser eliminadas e a planta deve estar bem rente ao solo, ou podendo ser arrancada com raiz. Precisa de pelo menos 4 horas direto por dia.</p><br>
-               <h3>• alfazema; </h3>
+               <h4>Alfazema; </h4>
 <p>Podendo ser plantada em locais de alta temperatura, a alfazema se faz resistente e passam por geadas. Isso faz com que ela seja plantada em muitos locais.</p>
 <p>Para a geminação, leva-se de 15 a 30 dias. Você pode colher durante o ano o todo, sempre cortando as pontas dos galhos.</p><br>
 
-                <h3>• Cebolinha-verde; </h3>
+                <h4>Cebolinha-verde; </h4>
 <p>Após o plantio, a colheita de cebolinha-verde pode ser feita depois 90 ou 120 dias dependendo das condições.</p>
 <p>Precisa de luz solar direta por algumas horas por dia. Elas crescem melhor em temperaturas variadas entre 13°C a 24°C. Podem suportar temperaturas altas e baixas, porem em climas quentes nao produzem flores.</p><br>
 
-                <h3>• Hortelã; </h3>
+                <h4>Hortelã; </h4>
 <p>Em climas quentes e úmidos, a hortelã pode crescer em menos tempo e com folhas vistosas. Podem ser plantadas o ano todo, pois tolera bem ao calor e ao frio.</p>
 <p>Elas ser colhidas após 20 dias e podem ficar anos produzindo sem parar.</p><br>
 
-                <h3>• Salsa; </h3>
+                <h4>Salsa; </h4>
 <p>Podendo alcançar de 12 a 16 cm de altura, o plantio da salsa pode durar de 60 a 90 dias. Atingindo esses requisitos, ela está pronta para colheita e consumo.</p>
 <p>A salsa gosta de lugares ilumiados, o mais adequado é coloca-la ao sol. Ela tem um bom crescimento em regiões de clima temperado, onde a temperatura prevalece na faixa de 10°C e 24°C.</p>
 <p>É possível também plantar alguns legumes, como cenouras, ou frutas, como o tomate, mas um espaço mais amplo será necessário. </p>
 <p>Porém, comece com as ervas até que consiga mais experiência e, com o passar do tempo, vá aumentando a variedade.</p>
 
-                <h3 id="apto">Apartamento</h3>
+                <h2 id="apto">Apartamento</h2>
                 <p class="paragrafo-casa-apto">
-                                           O <strong class="titHort">Apartamento</strong>           
                 </p>
                                 <p>
 
@@ -426,20 +432,20 @@
                   <p>Já pensou em fazer sua própria horta em um espaço que está vazio em seu apartamento? Aqui iremos trazer algumas dicas sobre espaços para pode montar sua horta, dica de vasos e também do que plantar em sua horta e como cuidar dela.
 </p><br>
                   
-                  <h3>  1- Busque locais que batem raios de sol.</h3>
+                  <h4>  1- Busque locais que batem raios de sol.</h4>
                     <p>Para que sua horta dê certo, é preciso colocar suas plantações em um local do seu apartamento em que bata sol pelo menos 4 horas por dia, escolha lugares como varanda ou próximo de janelas, pois os vegetais plantados necessitam dessa quantidade de tempo sob exposição à luz do sol para ajudar no crescimento.</p>
                   <div class="foto_informacoes">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLyHMGKQKG80NQWbuxR6POW38m5heGBDhbXNeu2v8x2IG-tBprnVjNufvlCpHXI5uFV11lKEPGacK5hop2K9R_gdo2GaWK0uezUJb51CyR5aNTN-FCemwKEUz2Dxvx6u_W-Fh2A7yc1OXm_DVHVEd_ncXONWVCdvrXuvPoXnfo_KhcNnfVCwnX34Q3w/s320/sol.png" alt="Imagem Sol" height="5%" width="10%" align="left">  <br>
                   </div><br><br><br>
                   
-  <h3>2- Escolha dos vasos.</h3>
+  <h4>2- Escolha dos vasos.</h4>
 <p>Cultivar uma horta em vasos é uma tendência no apartamento. Neste caso, é aconselhável escolher vasos furados para que a água irrigada possa escoar.</p>
 <p>Outra consideração importante é a profundidade do vaso para permitir que as raízes cresçam, normalmente vasos de 7 a 15 cm de profundidade podem acomodar a maioria das ervas ou temperos.</p>
                   <div class="foto_informacoes">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgB_kmL-gLikEbSgjPR4GzIWE9KeTrNfpigi0cJ3iFzrVXE56-3Dt3G2vEPWfzgQ9wwR_ItoFyRyI-VxhsVye7PbOj1ilu7jvQ92xKiLwPkVuGgCGZZByu0G7RbbG3a4_WE92oRCHqcSmXvLCh7AC-v5t4YwsGm86WTRDm9T4SPG46ytiPtZ_Th7iWjQ/s320/vasos.png" height="5%" width="10%" align="left">  <br>
                   </div>  </div><br><br><br>
      
-  <h3>3- Escolha das terras.</h3>
+  <h4>3- Escolha das terras.</h4>
 <p>É preciso escolher uma terra com base na qualidade do que você quer comer, a plantas necessariamente precisam de uma base rica em nutrientes (nitrôgenio, oxigênio, fósforo, entre outros) para que cresçam bem. Neste sentido a terra deve ter um aspecto de esponja para ajudar na entrada de oxigênio e para manter uma boa umidade.</p>
                   <div class="foto_informacoes">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6JNEgeBxIvs4NrGzw_chyCpq6MS9_oUdrirGzYRJHSiPES63ONFoBt016bfzPire_JhYmbX0ySS80Lt41yWtUfL_R9anvdoEaN1EiO3zScBcUAnURhQm1FtFvdT-1rXqivwwMrFsXIBzvAqjb3o4uFBQsH9VxuJZ_VvX285O2xZyduCwKSTXOOyAWHg/s320/adubo.png" height="5%" width="10%" align="left">  <br>
@@ -472,25 +478,25 @@
     <p>7 - Acomode o vaso em um lugar com a iluminação adequada para o tipo de planta.</p><br>
 	
 
-    <h4>4 - Escolhas entre sementes ou brotos.</h4>
+    <h4>3 - Escolhas entre sementes ou brotos.</h4>
 <p>Para pessoas que estão iniciando nessa parte de plantação e que desejam ter resultados rápidos, é indução começar com brotos. Determinadas plantas têm essa opção, como alface, cebola e tomate.</p>
 <p>É necessário tomar cuidado ao plantar os brotos para que não machuquem as suas raízes. Para que isso não aconteça é legal que façam buracos grandes na terra para quando forem colocar os brotos e em seguida pressione um pouco o substrato que se encontra ao redor e por fim molhe com água.</P>
 <br>
 
-    <h4>5- Preste bem atenção na quantidade de água.</h4>
+    <h4>4- Preste bem atenção na quantidade de água.</h4>
 <p>É necessário verificar a quantidade de água de cada planta, pois nem todas contam com o mesmo tipo de regras. Tem algumas que precisam que as raízes sejam molhadas e outras não.</p>
 <p>É legal verificar a região do país em que você mora e as estações do ano, pois temos plantas que precisam de mais ou menos água e dependem da temperatura do ambiente e do nível de umidade.</p> 
 <p>É recomendado regar sempre seu plantio durante a manhã ou no final de tarde, pois é dessa forma a água não irá evaporar durante o calor do dia.</p>
 <br>
 
-    <h4>6- Adubação</h4>
+    <h4>5- Adubação</h4>
 <p>As plantas precisam extrair do solo os nutrientes que a ajudam a crescer. Dessa forma à medida que são colhidas, elas precisam de mais nutrientes para crescerem novamente. </p>
 <p>Esse é um ciclo continuo fazendo com que o solo empobreça, consequentemente, os nutrientes dos vegetais também. E assim a adubação se torna importante, já que pra fornece os nutrientes para as plantas em vasos.</p><br>
 
-    <h5><ul>Quais são as plantas que podem ser cultivadas em apartamento?</h3></ul>
+    <h2><ul>O que pode ser cultivado em apartamento?</h2></ul>
 <br>
 
-    <h3>• Frutos:</h3><br>
+    <h3>Frutas</h3><br>
     <h4>Morango</h4>
 <p>O vaso de morango pode ter por volta de 20 ou 30 centímetros, e a planta não fica muito alta, é necessário usar terra de qualidade. A colheita pode ocorrer o ano todo, porém, é mais comum entre os meses de maio e outubro.</p>
 <br>
@@ -500,7 +506,7 @@
 <p>Essa e outras podem ser plantadas em vasos e tem que ficar atento ao crescimento e questão da altura, pois temos alguns frutíferos que podem crescer até 2 metros e temos os frutíferos rasteiros como o morango. Basta ficar atento na hora de escolher o tipo de frutíferos.</p>
 <br>
 
-    <h3><ul>• Temperos:</h3></ul>
+    <h3><ul>Temperos:</h3></ul>
 <br>
     <h4>Manjericão</h4>
 <p>Para ser cultivado o manjericão, é preciso de um local com bastante exposição solar. Lembrar de deixa tomar luz pelos menos 3 horas por dia, não se esquecer de regar diariamente. O manjericão precisa de bastante água só é preciso ficar atento e tomar cuidado para não deixa o solo encharcado.</p>
@@ -515,11 +521,11 @@
     <p>Dedo-de-moça, biquinho e tabasco são as mais indicadas para se cultivar em hortas pequenas.</p>
     <p>DICA: Temperos são os mais fáceis de cultivar, pois não precisam ser replantados, basta colher as folhas do pé.</p>
 <br>
-	 <h4>• Orégano </h4>
+	 <h4>Orégano </h4>
 <p>É uma hortaliça que pode atingir de 20 a 80cm. Seu solo deve ser bem drenado e fértil, levemente úmido, portanto, irrigue com frequência.</p> 
 <p>O orégano pode crescer em solos pobres e quanto ao pH, o mais recomendado é que esteja entre 6 e 8. O orégano se desenvolve em clima ameno ou quente, o ideal é entre 21 e 25°C, mas também pode ser cultivado na faixa de 4 a 32°C. Deve receber luz solar direta por algumas horas por dia. </p>
 <p>Dica: Solo calcário faz com que a planta cresça melhor.</p><br>
-    <h3><ul>• Hortaliças:</h3></ul> <br>
+    <h3><ul>Hortaliças:</h3></ul> <br>
     <h4>Alface</h4>
 <p>É uma planta anual, portanto pode ser plantado o ano todo, existindo variedades específicas para climas temperados e subtropicais, quanto para clima mais ameno.</p>
 <p>A recomendação é escolher os solos de textura média, com aspecto fofo, de baixa acidez e elevado teor de matéria orgânica. Leve em consideração o fácil acesso de água para irrigações.</p>
@@ -531,13 +537,66 @@
 <p>No caso de deficiência de nutrientes, aposte na adubação orgânica frequente. Mas, se o problema for calor excessivo, mude o vaso de lugar. Durante os períodos mais quentes do dia, mantenha a planta sob a sombra.</p>
 <p>Se o problema for excesso de rega, a couve não conseguirá se desenvolver, por isso o melhor é recomeçar o plantio.</p>
 </ol>
+                </p>
+
 
                 <!--Depois arrumem o design do botao usando bootstrap-->
                 <a href="#top"><button class="primary" id="#top">Voltar ao Topo</button> </a>
     </div>
 
+    </div>
+    </div>
+    </div>
+
     
 
+<footer id="myFooter">
+        <div class="container-fluid">
+            <div class="row">
+            <div class="col">
+                    <h5></h5>
+                    <ul>
+                       <li><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ3XxklIUzw0TzLuzYGfCTc-638poVOjTIilJUi0yrGPTGynF8KpaIRab1PdTCH3aWH1WxVH7kjp6c494_2ZOYX43O8gXkfrPUGYqgnIiuMJ7t35uej2GaVT8nMZ5wJYgkAR4OtPW0B5gi7vZmj6qtM5WVr66tljTizBAJWOdlcMiS3LfekicYWKNQjA/s320/Logo%20Tcc.png" height="150px" width="150px"></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <h5>Inicio</h5>
+                    <ul>
+                        <li><a href="https://programadorviking.com.br/">Home</a></li>
+                        <li><a href="https://ceagesp.gov.br/">CEAGESP</a></li>
+                        <li><a href="https://www.sp.senac.br/cursos-livres/curso-de-horta-organica-caseira#:~:text=Voc%C3%AA%20aprender%C3%A1%20a%20realizar%20cultivo,o%20plantio%20e%20a%20manuten%C3%A7%C3%A3o.&text=Posso%20fazer%20este%20curso%3F,ser%20maior%20de%2018%20anos.">Cursos</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                <h5>Mapa do Site</h5>
+                    <ul>
+                        <li><a href="pagina_inicial.php">Página Inicial&nbsp;<i class="fa fa-home"></i></a></li>   
+                        <li><a href="comecar_horta.php">Começar Horta&nbsp;<i class="fa fa-seedling"></i></a></li>
+                        <li><a href="fale_conosco.php">Fale Conosco&nbsp;<i class="fas fa-paper-plane"></i></a></li> 
+                        <li><a href="sobre_nos.php">Sobre Nós&nbsp;<i class="fa fa-briefcase"></i></a></li>
+                    </ul>   
+                </div>
+                <div class="col">
+                    <h5>Suporte</h5>
+                    <ul>
+                        <li><a href="mailto: jeffinho.je8@gmail.com">FAQ</a></li>
+                    </ul>
+                </div>
+                
+                <div class="col">
+                <h5></h5>
+                    <ul>
+                       <li><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ3XxklIUzw0TzLuzYGfCTc-638poVOjTIilJUi0yrGPTGynF8KpaIRab1PdTCH3aWH1WxVH7kjp6c494_2ZOYX43O8gXkfrPUGYqgnIiuMJ7t35uej2GaVT8nMZ5wJYgkAR4OtPW0B5gi7vZmj6qtM5WVr66tljTizBAJWOdlcMiS3LfekicYWKNQjA/s320/Logo%20Tcc.png" height="150px" width="150px"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-copyright">
+            <p>© 2022 ETEC Albert Einstein</p>
+        </div>
+        
+    </footer>
    
     <script type="text/javascript">
         $(document).ready(function () {
