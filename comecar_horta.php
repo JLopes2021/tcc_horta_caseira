@@ -1,4 +1,5 @@
 <?php 
+include("conexao.php");
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -113,8 +114,8 @@
             <!--
                 Compostagem de resíduos orgânicos
             -->
-            <div class="dicas-comecar">
-                <h3 class="titulo-dicas">Dicas iniciais de Como Começar uma Horta</h3>
+            <div class="dicas-comecar"> 
+            <h3><strong class="titHort">Dicas iniciais de Como Começar uma Horta</h3>
                 <p class="paragrafo-dicas">
                    Mais de uma das pessoas acham que não têm força ínfima para começar uma horta
                     caseira, que dá muito trabalho, e não já tinha espaço para concretizar o feito.
@@ -129,7 +130,7 @@
                     largada. Dicas são atitudes cotidianas, de fácil aplicação e adaptáveis à sua realidade.
 
                 </p>
-                <h3 class="titulo-dicas">Compostagem de resíduos orgânicos</h3>
+                <h3 class="titulo-dicas"><strong class="titHort">Compostagem de resíduos orgânicos</h3>
                 <p class="paragrafo-dicas">
                     O processo de decomposição de matéria orgânica apresenta-se em restos de
                     alimentação na forma de um composto rico em substâncias húmicas e nutricionais de
@@ -146,7 +147,7 @@
                     alguns fertilizantes naturais bem fáceis de se conseguir e que não vão gerar cheiro
                     forte.
                 </p>
-                <h3 class="titulo-dicas">Preparando o espaço</h3>
+                <h3 class="titulo-dicas"><strong class="titHort">Preparando o espaço</h3>
                 <p class="paragrafo-dicas">
                     Você mora em casa e selecione uma parte do terreno que gostaria de transformar em horta.
                     As plantas precisam de luz solar para a fotossíntese, então escolhas as regiões que batem mais
@@ -156,7 +157,7 @@
                     expandida no fundo.
                     O ideal é colocar uma cerca para impedir o contato dos animais com as plantas.tenha animais domésticos, tente colocar a horta em lugares que eles não alcançam.
                 </p>
-                <h3 class="titulo-dicas">Escolhendo as Sementes</h3>
+                <h3 class="titulo-dicas"><strong class="titHort">Escolhendo as Sementes</h3>
                 <p class="paragrafo-dicas">
                    Esta é uma etapa fundamental para o plantio. A escolha dos alimentos vai
                     depender de suas preferências pessoais, do espaço que você dispõe, da
@@ -174,7 +175,7 @@
                     insetos longe. Cosmos, cravo, capuchinha e lavanda também ajudam no controle de pragas
                     como pulgões e nematóides.
                 </p>
-                <h3 class="titulo-dicas">Investir no ciclo de alimentação</h3>
+                <h3 class="titulo-dicas"><strong class="titHort">Investir no ciclo de alimentação</h3>
                 <p class="paragrafo-dicas">
                     Guarde as sementes de pimentas, melancia, melão, abóboras, tomate, vágem, pepino,
                     abobrinha, etc.
@@ -194,7 +195,7 @@
                     prontas para o plantio. Hortelã é um ótimo tempero para comida árabe, sucos
                     refrescantes e sobremesas.
                 </p>
-                <h3 class="titulo-dicas">E não se esqueça, tome alguns cuidados básicos</h3>
+                <h3 class="titulo-dicas"><strong class="titHort">E não se esqueça, tome alguns cuidados básicos</h3>
                 <p class="paragrafo-dicas">
                     A rega do sol prefira no final da tarde, quando a luminosidade de bem baixa. O calor do sol
                     pode cozinha como caso decida regá-las plantas durante o dia.
@@ -215,7 +216,7 @@
             <div class="container">
                 <h5>Guia das Hortaliças</h5>
                 <p class="paragrafos">
-                    <p4>Trouxemos aqui um mini guia para você, e para saber mais, <a href="https://drive.google.com/file/d/18PNX17lXVxJx2bB3l3jrgW38Xsj1szsp/view?usp=sharing"> clique aqui.</a><br>
+                    <p4>Trouxemos aqui um mini guia para você, e para saber mais, <a href="https://drive.google.com/file/d/18PNX17lXVxJx2bB3l3jrgW38Xsj1szsp/view?usp=sharing"><strong class="titHort"> clique aqui.</a><br>
                    </p4>
                 </p>
              </div>   
@@ -317,7 +318,7 @@
                <div class="horta-local">
                 <h2 id="casa">Casa</h2>
                 <p class="paragrafo-casa-apto">
-               <h3> <ul>Como cultivar uma horta em casa?</h3> </ul>
+               <h3><strong class="titHort"> <ul>Como cultivar uma horta em casa?</h3> </ul>
 <p>- Diretamente no solo; ideal para quem tem quintal espaçoso, neste modelo tradicional, as sementes ou mudos são postas diretamente no solo.</p>
 <p>- Vasos; os vasos são a escolha ideal para quem mora em casa ou apartamento, e possuem diversos tamanhos, materiais, formas e cores.</p>
 <p>- Embalagens recicladas; garrafas PET, latas de refrigerante ou alimentos, sacos de leite, garrafas de vidro. Barato, rápido e sustentável.</p>
@@ -325,8 +326,8 @@
 <p>- Caixas de madeira; caixas e paletes de madeira grandes e baratas podem ser boas escolhas.</p>
 <p>- Horta vertical; indicado para pessoas que moram em aposentos. Este modelo é composto por uma horta com área próxima ao muro. As hortas verticais podem ser postas com vasos, embalagens recicladas, construções de madeira e sapateiras.</p>
  
-                <h3><ul>O que pode ser cultivado em sua casa?</h3></ul>
-                <h3>Frutas:</h3><br>
+                <h3><ul><strong class="titHort">O que pode ser cultivado em sua casa?</h3></ul>
+                <h3><strong class="titHort">Frutas:</h3><br>
                 <h4>Cereja</h4>
 <p>– No vaso nesse caso, iremos focar no cultivo a partir de sementes de cereja, mesmo que seja um processo que nem sempre dá resultados. Para isso, você vai precisar de um vaso, sementes de cereja, cascalho (ou casca de pinus ou folhas secas mortas) e terra.</ul></p>
  
@@ -347,7 +348,7 @@
 		 <h4> Tomate </h4>
 <p>- O tomate é uma das frutas de maior consumo no mundo e fonte de vitamina A e C e de potássio. Os tomates precisam de uma boa adubação e são melhores desenvolvidas em regiões altas com incidência de luz solar. </p>
 <p>Nas regiões Nordeste, Sudeste e Centro-oeste, a época de plantio pode ser no ano todo, no Sul pode ser em setembro a fevereiro e no Norte de março a julho. Sua colheita é feita de 100 a 120 dias após a plantação. </p>
-    <br><h3><ul>Hortaliças:</h3></ul> <br>
+    <br><h3><strong class="titHort"><ul>Hortaliças:</h3></ul> <br>
                 <h4>Abóbora </h4>
 <p>As abóboras são ricas em vitaminas A e possuem variedade de tipos como a seca, japonesa e cabotiá. Elas precisam de abelhas para a polinização e algumas das variedades precisam de outras espécies. Elas se desenvolvem melhor com pouca exposição ao sol, mas não resiste a geadas. </p>
 <p>A época mais recomendada na região Sul é nos meses de outubro a fevereiro, no Sudeste de Setembro a março, no Nordeste de março a outubro, no Centro-oeste o ano todo e no Norte de abril a agosto.</p> 
@@ -359,44 +360,44 @@
                 <h4>Pimentão </h4>
 <p>O pimentão é rico em vitamina C e A, e devem ser plantados inicialmente em bandejas e depois postas para um solo bem nutrido. Desenvolvem-se melhor em temperaturas elevadas. </p>
 <p>No Sul, as épocas recomendadas para plantio são de setembro a fevereiro. No Sudeste de agosto a março, de maio a setembro no Nordeste, de agosto a dezembro no Centro-oeste, e em abril a julho no Norte. </p>
-
-                <h3>Para que você consiga fazer sua mini horta, é preciso analisar cuidadosamente o local que há disponível e que pretende usá-la. </h3>
+<br>
+                <h3><strong class="titHort">Para que você consiga fazer sua mini horta, é preciso analisar cuidadosamente o local que há disponível e que pretende usá-la. </h3>
 <p>Se você tiver acesso à um jardim, canteiro ou algo do tipo, poderá usá-lo para plantar suas hortaliças ou ervas e ter o melhor resultado para as suas refeições ou demais finalidades. </p>
 <p>Siga as dicas a seguir e saiba como fazer a sua mini horta. <p><br>
 
-                <h3>Defina o espaço mais adequado para sua mini horta </h3>
+                <h3><strong class="titHort">Defina o espaço mais adequado para sua mini horta </h3>
 <p>Para o preparo de uma mini horta em casa, é preciso ter muitos cuidados, um deles é em relação a seu preparo. É preciso atender ao que as plantas gostam e precisam, por exemplo, ervas e hortaliças precisam de 5 a 6 horas de iluminação solar todos os dias. </p>
 <p>Sendo assim, é fundamental garantir que haja uma boa iluminação para que elas cresçam bonitas e saudáveis. </p><br>
-                <h3>Como preparar a terra para o plantio.</h3>
+                <h3><strong class="titHort">Como preparar a terra para o plantio.</h3>
 <p>Feita a definição do local, chegou a hora de começar a preparação propriamente dita. </p>
 <p>Você irá precisar que a terra esteja pronta, para fornecer todos os nutrientes que as plantas necessitam. </p>
 <p>Utilize vara vegetal, que tenham húmus de minhocas ou adubo. Ambos são um dos principais responsáveis pela transmissão dos nutrientes. </p>
 <p>Procure revolver a terra, para deixar todos os componentes bem misturados. </p><br>
-                <h3>Germinando suas sementes para o plantio </h3>
+                <h3><strong class="titHort">Germinando suas sementes para o plantio </h3>
 <p>Podemos usar muitos recursos para que seja possível germinar suas sementes. Alguns deles são; </p>
 <p>• Vasos pequenos; </p>
 <p>• Sementeiras; </p>
 <p>• Potes de iogurte; </p>
 <p>• Caixas de ovos. </p>
 <p>É importante que os recipientes tenham furos na parte inferior, para permitir que a água escoe e não se acumule. </p><br>
-                <h3>Na lista abaixo, trazemos o passo a passo para fazer essa tarefa. </h3>
+                <h3><strong class="titHort">Na lista abaixo, trazemos o passo a passo para fazer essa tarefa. </h3>
 <p>• Coloque a terra preparada nos recipientes separados para essa função;</p> 
 <p>• Utilize um pulverizador para que faça a umidificação da terra; </p>
 <p>• Faça quatro furinhos e coloque neles suas sementes; </p>
 <p>• Cubra os furinhos com a mesma terra e utilize novamente o pulverizador para sua umidificação </p>
 <p>• Depois de germinada, transfira para sua mini horta, sempre lembrando de deixar um espaço entre cada uma delas, permitindo um bom crescimento. </p><br>
 
-                <h3>Processo de umidificação </h3>
+                <h3><strong class="titHort">Processo de umidificação </h3>
 <p>As minis hortas gostam muito de iluminação solar. Para equilibrar o calor, deve ser realizada a umidificação delas pelo menos uma vez ao dia. </p>
 <p>Se o clima estiver muito quente, o recomendado é que elas sejam regadas duas vezes, de manhã e pela tarde. Apostar nos vasos auto irrigáveis é uma boa alternativa. Esses vasos são capazes de medir e distribuir a quantidade de água que a planta precisa por dia. </p><br>
-                <h3>Kit de jardinagem </h3>
+                <h3><strong class="titHort">Kit de jardinagem </h3>
 <p>Uma saudável e linda horta necessita de bons equipamentos. Veja alguns dos utensílios que precisa ser adquirido para realizar os devidos cuidados.</p> 
 <p>• Regador; </p>
 <p>• Pás: caso seja uma mini horta, as pequenas são suficientes. Se o canteiro for grande, opte por uma enxada; </p>
 <p>• Ancinho; </p>
 <p>• Tesoura para podar; </p>
 <p>• Faca colheitadeira. </p><br>
-                <h3>Mão na massa</h3> 
+                <h3><strong class="titHort">Mão na massa</h3> 
 <p>Aprendemos a regar, germinar, preparar a terra e conhecemos os materiais. Chegou a hora de trabalhar! </p>
 <p>Escolha a erva ou hortaliça aquela que são mais práticas e necessárias para o seu cotidiano, podendo crescer em locais pequenos. Algumas delas são:</p> <br>
                 <h4>Alecrim; </h4>
@@ -428,31 +429,31 @@
                 </p>
                                 <p>
 
-                  <h3> <ul>Como cultivar uma horta em seu apartamento?</ul> </h3>
+                  <h3><strong class="titHort"><ul>Como cultivar uma horta em seu apartamento?</ul> </h3>
                   <p>Já pensou em fazer sua própria horta em um espaço que está vazio em seu apartamento? Aqui iremos trazer algumas dicas sobre espaços para pode montar sua horta, dica de vasos e também do que plantar em sua horta e como cuidar dela.
 </p><br>
                   
-                  <h4>  1- Busque locais que batem raios de sol.</h4>
+                  <h4><strong class="titHort">  1- Busque locais que batem raios de sol.</h4>
                     <p>Para que sua horta dê certo, é preciso colocar suas plantações em um local do seu apartamento em que bata sol pelo menos 4 horas por dia, escolha lugares como varanda ou próximo de janelas, pois os vegetais plantados necessitam dessa quantidade de tempo sob exposição à luz do sol para ajudar no crescimento.</p>
                   <div class="foto_informacoes">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLyHMGKQKG80NQWbuxR6POW38m5heGBDhbXNeu2v8x2IG-tBprnVjNufvlCpHXI5uFV11lKEPGacK5hop2K9R_gdo2GaWK0uezUJb51CyR5aNTN-FCemwKEUz2Dxvx6u_W-Fh2A7yc1OXm_DVHVEd_ncXONWVCdvrXuvPoXnfo_KhcNnfVCwnX34Q3w/s320/sol.png" alt="Imagem Sol" height="5%" width="10%" align="left">  <br>
                   </div><br><br><br>
                   
-  <h4>2- Escolha dos vasos.</h4>
+  <h4><strong class="titHort">2- Escolha dos vasos.</h4>
 <p>Cultivar uma horta em vasos é uma tendência no apartamento. Neste caso, é aconselhável escolher vasos furados para que a água irrigada possa escoar.</p>
 <p>Outra consideração importante é a profundidade do vaso para permitir que as raízes cresçam, normalmente vasos de 7 a 15 cm de profundidade podem acomodar a maioria das ervas ou temperos.</p>
                   <div class="foto_informacoes">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgB_kmL-gLikEbSgjPR4GzIWE9KeTrNfpigi0cJ3iFzrVXE56-3Dt3G2vEPWfzgQ9wwR_ItoFyRyI-VxhsVye7PbOj1ilu7jvQ92xKiLwPkVuGgCGZZByu0G7RbbG3a4_WE92oRCHqcSmXvLCh7AC-v5t4YwsGm86WTRDm9T4SPG46ytiPtZ_Th7iWjQ/s320/vasos.png" height="5%" width="10%" align="left">  <br>
                   </div>  </div><br><br><br>
      
-  <h4>3- Escolha das terras.</h4>
+  <h4><strong class="titHort">3- Escolha das terras.</h4>
 <p>É preciso escolher uma terra com base na qualidade do que você quer comer, a plantas necessariamente precisam de uma base rica em nutrientes (nitrôgenio, oxigênio, fósforo, entre outros) para que cresçam bem. Neste sentido a terra deve ter um aspecto de esponja para ajudar na entrada de oxigênio e para manter uma boa umidade.</p>
                   <div class="foto_informacoes">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6JNEgeBxIvs4NrGzw_chyCpq6MS9_oUdrirGzYRJHSiPES63ONFoBt016bfzPire_JhYmbX0ySS80Lt41yWtUfL_R9anvdoEaN1EiO3zScBcUAnURhQm1FtFvdT-1rXqivwwMrFsXIBzvAqjb3o4uFBQsH9VxuJZ_VvX285O2xZyduCwKSTXOOyAWHg/s320/adubo.png" height="5%" width="10%" align="left">  <br>
                   </div>  </div><br><br><br>
 <ol>
-                  <h3><ul>Vamos por a mão na massa?</h3> </ul><br>
-    <h4>1° Passo: preparação das terras</h4><br>
+                  <h3><strong class="titHort"><ul>Vamos por a mão na massa?</h3> </ul><br>
+    <h4><strong class="titHort">1° Passo: preparação das terras</h4><br>
         <h5>Areia:</h5>
     <p>Necessária para drenar a água e ajudar na fixação das raízes;</p><br>
         <h5>Terra comum e terra vegetal:</h5>
@@ -468,7 +469,7 @@
         <h5>Pedaço de manta bidin ou tecido de algodão:</h3>
     <p>Para reter a umidade do substrato do vaso.</p><br>
 
-    <h4>2° Passo: como fazer?</h4><br>
+    <h4><strong class="titHort">2° Passo: como fazer?</h4><br>
     <p>1 - Coloque a brita ou argila expandida no fundo do vaso;</p>
     <p>2 - Cubra com o retalho de tecido de algodão ou manta bidin;</p>
     <p>3 - Coloque no vaso a maior parte do solo (mistura de areia, terra e adubo orgânico), sem compactá-lo. Misture a areia e os 2 tipos de terra, na proporção 1:1:1;</p>
@@ -478,25 +479,25 @@
     <p>7 - Acomode o vaso em um lugar com a iluminação adequada para o tipo de planta.</p><br>
 	
 
-    <h4>3 - Escolhas entre sementes ou brotos.</h4>
+    <h4><strong class="titHort">4 - Escolhas entre sementes ou brotos.</h4>
 <p>Para pessoas que estão iniciando nessa parte de plantação e que desejam ter resultados rápidos, é indução começar com brotos. Determinadas plantas têm essa opção, como alface, cebola e tomate.</p>
 <p>É necessário tomar cuidado ao plantar os brotos para que não machuquem as suas raízes. Para que isso não aconteça é legal que façam buracos grandes na terra para quando forem colocar os brotos e em seguida pressione um pouco o substrato que se encontra ao redor e por fim molhe com água.</P>
 <br>
 
-    <h4>4- Preste bem atenção na quantidade de água.</h4>
+    <h4><strong class="titHort">5 - Preste bem atenção na quantidade de água.</h4>
 <p>É necessário verificar a quantidade de água de cada planta, pois nem todas contam com o mesmo tipo de regras. Tem algumas que precisam que as raízes sejam molhadas e outras não.</p>
 <p>É legal verificar a região do país em que você mora e as estações do ano, pois temos plantas que precisam de mais ou menos água e dependem da temperatura do ambiente e do nível de umidade.</p> 
 <p>É recomendado regar sempre seu plantio durante a manhã ou no final de tarde, pois é dessa forma a água não irá evaporar durante o calor do dia.</p>
 <br>
 
-    <h4>5- Adubação</h4>
+    <h4><strong class="titHort">6 - Adubação</h4>
 <p>As plantas precisam extrair do solo os nutrientes que a ajudam a crescer. Dessa forma à medida que são colhidas, elas precisam de mais nutrientes para crescerem novamente. </p>
 <p>Esse é um ciclo continuo fazendo com que o solo empobreça, consequentemente, os nutrientes dos vegetais também. E assim a adubação se torna importante, já que pra fornece os nutrientes para as plantas em vasos.</p><br>
 
-    <h2><ul>O que pode ser cultivado em apartamento?</h2></ul>
+    <h2><strong class="titHort"><ul>O que pode ser cultivado em apartamento?</h2></ul>
 <br>
 
-    <h3>Frutas</h3><br>
+    <h3><strong class="titHort">Frutas</h3><br>
     <h4>Morango</h4>
 <p>O vaso de morango pode ter por volta de 20 ou 30 centímetros, e a planta não fica muito alta, é necessário usar terra de qualidade. A colheita pode ocorrer o ano todo, porém, é mais comum entre os meses de maio e outubro.</p>
 <br>
@@ -506,7 +507,7 @@
 <p>Essa e outras podem ser plantadas em vasos e tem que ficar atento ao crescimento e questão da altura, pois temos alguns frutíferos que podem crescer até 2 metros e temos os frutíferos rasteiros como o morango. Basta ficar atento na hora de escolher o tipo de frutíferos.</p>
 <br>
 
-    <h3><ul>Temperos:</h3></ul>
+    <h3><strong class="titHort"><ul>Temperos:</h3></ul>
 <br>
     <h4>Manjericão</h4>
 <p>Para ser cultivado o manjericão, é preciso de um local com bastante exposição solar. Lembrar de deixa tomar luz pelos menos 3 horas por dia, não se esquecer de regar diariamente. O manjericão precisa de bastante água só é preciso ficar atento e tomar cuidado para não deixa o solo encharcado.</p>
@@ -525,7 +526,7 @@
 <p>É uma hortaliça que pode atingir de 20 a 80cm. Seu solo deve ser bem drenado e fértil, levemente úmido, portanto, irrigue com frequência.</p> 
 <p>O orégano pode crescer em solos pobres e quanto ao pH, o mais recomendado é que esteja entre 6 e 8. O orégano se desenvolve em clima ameno ou quente, o ideal é entre 21 e 25°C, mas também pode ser cultivado na faixa de 4 a 32°C. Deve receber luz solar direta por algumas horas por dia. </p>
 <p>Dica: Solo calcário faz com que a planta cresça melhor.</p><br>
-    <h3><ul>Hortaliças:</h3></ul> <br>
+    <h3><strong class="titHort"><ul>Hortaliças:</h3></ul> <br>
     <h4>Alface</h4>
 <p>É uma planta anual, portanto pode ser plantado o ano todo, existindo variedades específicas para climas temperados e subtropicais, quanto para clima mais ameno.</p>
 <p>A recomendação é escolher os solos de textura média, com aspecto fofo, de baixa acidez e elevado teor de matéria orgânica. Leve em consideração o fácil acesso de água para irrigações.</p>
