@@ -1,6 +1,5 @@
 <?php 
 include ("conexao.php");
-?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -115,7 +114,7 @@ include ("conexao.php");
 
            <div class="conteudo-inicial">
                 <div class="primeiro-conteudo">
-                    <h3 id="mudaCor">Sobre as Hortas</h3>
+                    <h3 id="mudaCor"><strong class="titHort">Sobre as Hortas</h3>
                     <p id="mudaCor" class="paragrafo-conteudo">
                         <!--Reescrever este paragrafo-->
                         <!--https://www.harpyja.com.br/blog/sustentabilidade/dicas-sustentaveis-como-comecar-uma-horta-caseira-->
@@ -130,7 +129,7 @@ include ("conexao.php");
                
 
                     <div class="segundo-conteudo">
-                    <h3>Ajuda na Educação Alimentar</h3>
+                    <h3><strong class="titHort">Ajuda na Educação Alimentar</h3>
                     <p class="paragrafo-conteudo">Ter uma horta em casa ajuda a nos livrar dos agrotóxicos, pois, segundo os dados do Ibama, o Brasil é o
                      país a consumir a maior quantidade de agrotóxicos em números absolutos do planeta Terra.
                      Então desta maneira você estará cuidando da sua saúde e da sua família, 
@@ -141,7 +140,7 @@ include ("conexao.php");
 </table>
                 </div>
                 <div class="terceiro-conteudo">
-                    <h3>Terapia</h3>
+                    <h3><strong class="titHort">Terapia</h3>
                     <p class="paragrafo-conteudo">
                        Construir uma horta dentro de sua casa também ajuda na sua saúde mental, pois, 
                        de acordo com alguns especialistas, ter contato com o solo ajuda em uma menor concentração dos hormônios ligados ao estresse.
@@ -153,7 +152,7 @@ include ("conexao.php");
 </table>
                 </div>
                             <div class="quinto-conteudo">
-                    <h3>Preservam o Meio Ambiente</h3>
+                    <h3><strong class="titHort">Preservam o Meio Ambiente</h3>
                     <p class="paragrafo-conteudo">
                      Ter uma horta caseira traz todos esses e outros demais benefícios, contando com que você ainda pode ajudar com o bem-estar 
                         do planeta, ajudando a reduzir a utilização de embalagens, contribuí para a diminuição dos gases poluentes na qual seria 
@@ -165,7 +164,7 @@ include ("conexao.php");
 </table>
                 </div>
                 <div class="quarto-conteudo">
-                    <h3>Decora o seu ambiente</h3>
+                    <h3><strong class="titHort">Decora o seu ambiente</h3>
                     <p class="paragrafo-conteudo">
                      Se caso não tiver muito espaço no ambiente em que estiver pensando em montar uma horta, não se preocupe, pois, mesmo com vasos 
                        pequenos você consegue plantar um pé de manjericão, alface, cebolinha, 
