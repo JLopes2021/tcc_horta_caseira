@@ -5,7 +5,7 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do C
 </p>
 
 <h4 align="center"> 
-	🚧  Minha Horta Minha Vida 🚀 Em construção...  🚧
+	🏡 Minha Horta Minha Vida - Projeto Finalizado e Apresentado  🏆
 </h4>
 
 ### Tópicos 
@@ -13,8 +13,6 @@ Alunos: Isabel Gomes Limão, Jefferson Lopes da Silva, Leticia Pereira Lima do C
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
-
-- [Atualizações](#atualizacoes)
 
 - [Desenvolvedores](#desenvolvedores)
 
